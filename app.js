@@ -8,6 +8,13 @@ const $ = id => document.getElementById(id);
 const esc = s => (s || '').replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
 const paras = lines => (lines || []).map(x => `<p>${esc(x)}</p>`).join('');
 
+function renderSummary(entry) {
+  const esoteric = entry.esoteric?.length
+    ? `<div class="esoteric-block"><h4>Esoteric Meaning</h4>${paras(entry.esoteric)}</div>`
+    : '';
+  return `${paras(entry.summary)}${esoteric}`;
+}
+
 function renderList() {
   const q = $('search').value.trim().toLowerCase();
   const list = $('nameList');
@@ -35,7 +42,7 @@ function renderEntry() {
   $('nameTitle').textContent = n.name;
   $('samasa').innerHTML = paras(n.samasa);
   $('wordByWord').innerHTML = paras(n.wordByWord);
-  $('summary').innerHTML = paras(n.summary);
+  $('summary').innerHTML = renderSummary(n);
   $('bookmarkBtn').textContent = bookmarks.has(n.number) ? '★' : '☆';
   $('summary').scrollTop = 0;
   updateSummarySlider();
