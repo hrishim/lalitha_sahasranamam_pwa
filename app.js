@@ -46,6 +46,7 @@ function renderEntry() {
   $('bookmarkBtn').textContent = bookmarks.has(n.number) ? '★' : '☆';
   $('summary').scrollTop = 0;
   updateSummarySlider();
+  updateSummaryHeading();
   renderList();
 }
 
@@ -68,6 +69,23 @@ function updateSummarySlider() {
   slider.setAttribute('aria-valuemax', String(summaryMaxScroll || 1));
   slider.setAttribute('aria-valuenow', String(Math.round(summary.scrollTop)));
   thumb.style.top = `${pct * 100}%`;
+  updateSummaryHeading();
+}
+
+function updateSummaryHeading() {
+  const summary = $('summary');
+  const esotericTitle = summary.querySelector('.esoteric-block h4');
+  const card = $('summaryCard');
+
+  if (!esotericTitle) {
+    card.classList.remove('esoteric-active');
+    return;
+  }
+
+  const summaryRect = summary.getBoundingClientRect();
+  const titleRect = esotericTitle.getBoundingClientRect();
+  const titleVisible = titleRect.bottom > summaryRect.top && titleRect.top < summaryRect.bottom;
+  card.classList.toggle('esoteric-active', titleVisible);
 }
 
 function setSummaryScrollFromClientY(clientY) {
