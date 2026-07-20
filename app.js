@@ -3,16 +3,22 @@ let currentIndex = 0;
 let bookmarks = new Set(JSON.parse(localStorage.getItem('lalithaBookmarks') || '[]'));
 let bookmarkMode = false;
 let summaryMaxScroll = 0;
+let meaningMode = 'summary';
 
 const $ = id => document.getElementById(id);
 const esc = s => (s || '').replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
 const paras = lines => (lines || []).map(x => `<p>${esc(x)}</p>`).join('');
 
-function renderSummary(entry) {
-  const esoteric = entry.esoteric?.length
-    ? `<div class="esoteric-block"><h4>Esoteric Meaning</h4>${paras(entry.esoteric)}</div>`
-    : '';
-  return `${paras(entry.summary)}${esoteric}`;
+function renderMeaning(entry) {
+  return paras(meaningMode === 'esoteric' ? entry.esoteric : entry.summary);
+}
+
+function updateMeaningTabs() {
+  const isEsoteric = meaningMode === 'esoteric';
+  $('summaryTab').classList.toggle('active', !isEsoteric);
+  $('esotericTab').classList.toggle('active', isEsoteric);
+  $('summaryTab').setAttribute('aria-selected', String(!isEsoteric));
+  $('esotericTab').setAttribute('aria-selected', String(isEsoteric));
 }
 
 function renderList() {
@@ -38,16 +44,25 @@ function renderList() {
 
 function renderEntry() {
   const n = names[currentIndex];
+  meaningMode = 'summary';
   $('nameNumber').textContent = `Nāma ${n.number}`;
   $('nameTitle').textContent = n.name;
   $('samasa').innerHTML = paras(n.samasa);
   $('wordByWord').innerHTML = paras(n.wordByWord);
-  $('summary').innerHTML = renderSummary(n);
+  $('summary').innerHTML = renderMeaning(n);
   $('bookmarkBtn').textContent = bookmarks.has(n.number) ? '★' : '☆';
+  updateMeaningTabs();
   $('summary').scrollTop = 0;
   updateSummarySlider();
-  updateSummaryHeading();
   renderList();
+}
+
+function setMeaningMode(mode) {
+  meaningMode = mode;
+  $('summary').innerHTML = renderMeaning(names[currentIndex]);
+  updateMeaningTabs();
+  $('summary').scrollTop = 0;
+  updateSummarySlider();
 }
 
 function selectByNumber(num) {
@@ -69,23 +84,6 @@ function updateSummarySlider() {
   slider.setAttribute('aria-valuemax', String(summaryMaxScroll || 1));
   slider.setAttribute('aria-valuenow', String(Math.round(summary.scrollTop)));
   thumb.style.top = `${pct * 100}%`;
-  updateSummaryHeading();
-}
-
-function updateSummaryHeading() {
-  const summary = $('summary');
-  const esotericTitle = summary.querySelector('.esoteric-block h4');
-  const card = $('summaryCard');
-
-  if (!esotericTitle) {
-    card.classList.remove('esoteric-active');
-    return;
-  }
-
-  const summaryRect = summary.getBoundingClientRect();
-  const titleRect = esotericTitle.getBoundingClientRect();
-  const titleVisible = titleRect.bottom > summaryRect.top && titleRect.top < summaryRect.bottom;
-  card.classList.toggle('esoteric-active', titleVisible);
 }
 
 function setSummaryScrollFromClientY(clientY) {
@@ -174,6 +172,8 @@ $('showBookmarks').addEventListener('click', () => {
 });
 
 $('summary').addEventListener('scroll', updateSummarySlider);
+$('summaryTab').addEventListener('click', () => setMeaningMode('summary'));
+$('esotericTab').addEventListener('click', () => setMeaningMode('esoteric'));
 $('summaryScroll').addEventListener('pointerdown', startSummarySliderDrag);
 $('summaryScroll').addEventListener('keydown', handleSummarySliderKey);
 window.addEventListener('resize', updateSummarySlider);
