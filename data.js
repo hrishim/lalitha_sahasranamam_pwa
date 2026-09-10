@@ -13536,9 +13536,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "वृद्धा means one who is senior in age. Since She exists before everything else, She is the most ancient and the oldest. She may also be understood as the completely grown and matured world, or as one who nourishes the world."
     ],
-    "searchText": "671 वृद्धा सर्वज्येष्ठत्वात्। वर्धयति जगत् इति। वर्धयति — nourishes; increases जगत् — world वृद्धा means one who is senior in age. since she exists before everything else, she is the most ancient and the oldest. she may also be understood as the completely grown and matured world, or as one who nourishes the world. the primordial eldest: she is vṛddhā because she possesses absolute temporal priority over everything (सर्वज्येष्ठत्वात्). she exists before the oldest ancestors, the first elements, and the creator deities. concurrently, the root signifies her active role in causing the expansion and growth (vardhayati) of the universe from its seed state.",
+    "searchText": "671 वृद्धा सर्वज्येष्ठत्वात्। वर्धयति जगत् इति। वर्धयति — nourishes; increases जगत् — world वृद्धा means one who is senior in age. since she exists before everything else, she is the most ancient and the oldest. she may also be understood as the completely grown and matured world, or as one who nourishes the world. the primordial eldest: she is vṛddhā because she possesses absolute temporal priority over everything, सर्वज्येष्ठत्वात्. she exists before the oldest ancestors, the first elements, and the creator deities. concurrently, the root signifies her active role in causing the expansion and growth, vardhayati, of the universe from its seed state.",
     "esoteric": [
-      "The Primordial Eldest: She is Vṛddhā because She possesses absolute temporal priority over everything (सर्वज्येष्ठत्वात्). She exists before the oldest ancestors, the first elements, and the creator deities. Concurrently, the root signifies Her active role in causing the expansion and growth (vardhayati) of the universe from its seed state."
+      "The Primordial Eldest: She is Vṛddhā because She possesses absolute temporal priority over everything, सर्वज्येष्ठत्वात्. She exists before the oldest ancestors, the first elements, and the creator deities. Concurrently, the root signifies Her active role in causing the expansion and growth, vardhayati, of the universe from its seed state."
     ]
   },
   {
@@ -13552,11 +13552,11 @@ window.LALITHA_NAMES = [
       "चैतन्येन — with consciousness"
     ],
     "summary": [
-      "ब्रह्मात्मैक्यस्वरूपिणी means one who is in the form of the unity of Brahman and Ātman. Mahāvākyas such as Aham Brahmāsmi and mantras like Soham indicate that Brahman is to be realised in the breath of every soul. That is the real form of Śrīdevī. The Haṃsa mantra unites the soul with Śiva. The natural breath itself becomes ajapa mantra, and this meaning is also described in the Triśatī name Haṃsamantrārtha-rūpiṇī."
+      "ब्रह्मात्मैक्यस्वरूपिणी means one who is in the form of the unity of Brahman and Ātman. Mahāvākyas such as ahaṃ brahmāsmi and mantras like so'ham indicate that Brahman is to be realised in the breath of every soul. That is the real form of Śrīdevī. The Haṃsa mantra unites the soul with Śiva. The natural breath itself becomes ajapa mantra, and this meaning is also connected with Haṃsamantrārtha-rūpiṇī."
     ],
-    "searchText": "672 ब्रह्मात्मैक्यस्वरूपिणी ब्रह्मणा चैतन्येन सह आत्मनां जीवानामैक्यमेव स्वं निजं रूपमास्याः अस्तीति। ब्रह्मणा — with brahman चैतन्येन — with consciousness ब्रह्मात्मैक्यस्वरूपिणी means one who is in the form of the unity of brahman and ātman. mahāvākyas such as aham brahmāsmi and mantras like soham indicate that brahman is to be realised in the breath of every soul. that is the real form of śrīdevī. the haṃsa mantra unites the soul with śiva. the natural breath itself becomes ajapa mantra, and this meaning is also described in the triśatī name haṃsamantrārtha-rūpiṇī. the formula of liberation: this name states the ultimate core truth of advaita vedānta and high-tier śrīvidyā. she is not an external ruler to be feared; she is the very realization of the absolute identity (aikya) between the seeker's core identity (ātman) and the universal absolute (brahman). she is the experience of that non-dual bridge, vanishing the illusion of separation forever.",
+    "searchText": "672 ब्रह्मात्मैक्यस्वरूपिणी ब्रह्मणा चैतन्येन सह आत्मनां जीवानामैक्यमेव स्वं निजं रूपमास्याः अस्तीति। ब्रह्मणा — with brahman चैतन्येन — with consciousness ब्रह्मात्मैक्यस्वरूपिणी means one who is in the form of the unity of brahman and ātman. mahāvākyas such as ahaṃ brahmāsmi and mantras like so'ham indicate that brahman is to be realised in the breath of every soul. that is the real form of śrīdevī. the haṃsa mantra unites the soul with śiva. the natural breath itself becomes ajapa mantra, and this meaning is also connected with haṃsamantrārtha-rūpiṇī. the formula of liberation: this name states the ultimate core truth of advaita vedānta and high-tier śrīvidyā. she is not an external ruler to be feared; she is the very realization of the absolute identity, aikya, between the seeker's core identity, ātman, and the universal absolute, brahman. she is the experience of that non-dual bridge, making the illusion of separation vanish forever.",
     "esoteric": [
-      "The Formula of Liberation: This name states the ultimate core truth of Advaita Vedānta and high-tier Śrīvidyā. She is not an external ruler to be feared; She is the very realization of the absolute identity (aikya) between the seeker's core identity (Ātman) and the universal absolute (Brahman). She is the experience of that non-dual bridge, vanishing the illusion of separation forever."
+      "The Formula of Liberation: This name states the ultimate core truth of Advaita Vedānta and high-tier Śrīvidyā. She is not an external ruler to be feared; She is the very realization of the absolute identity, aikya, between the seeker's core identity, Ātman, and the universal absolute, Brahman. She is the experience of that non-dual bridge, making the illusion of separation vanish forever."
     ]
   },
   {
@@ -13569,11 +13569,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "बृहती means one whose form is immensely great. Mahato Mahīyān — greater than the greatest. Bṛhat-sāman occurs in the Sāma Veda, and a metre of thirty-six letters is called Bṛhatī. She is in those forms also."
+      "बृहती means one whose form is immensely great. She is mahato mahīyān, greater than the greatest. Bṛhat-sāman is also connected with Her, and a metre of thirty-six letters is called Bṛhatī. She is in those forms also."
     ],
-    "searchText": "673 बृहती महतो महीयत्वाद्बृहती। word meanings are read directly from the samāsa expression above. बृहती means one whose form is immensely great. mahato mahīyān — greater than the greatest. bṛhat-sāman occurs in the sāma veda, and a metre of thirty-six letters is called bṛhatī. she is in those forms also. the boundless expansion: she is bṛhatī because her scale surpasses the highest imaginable metric of greatness (महतो महीयत्वात्). she cannot be contained by any boundary line, expanding infinitely beyond cosmic horizons, serving as the vast space within which multiverses float.",
+    "searchText": "673 बृहती महतो महीयत्वाद्बृहती। word meanings are read directly from the samāsa expression above. बृहती means one whose form is immensely great. she is mahato mahīyān, greater than the greatest. bṛhat-sāman is also connected with her, and a metre of thirty-six letters is called bṛhatī. she is in those forms also. the boundless expansion: she is bṛhatī because her scale surpasses the highest imaginable metric of greatness, महतो महीयत्वात्. she cannot be contained by any boundary line, expanding infinitely beyond cosmic horizons, serving as the vast space within which multiverses float.",
     "esoteric": [
-      "The Boundless Expansion: She is Bṛhatī because Her scale surpasses the highest imaginable metric of greatness (महतो महीयत्वात्). She cannot be contained by any boundary line, expanding infinitely beyond cosmic horizons, serving as the vast space within which multiverses float."
+      "The Boundless Expansion: She is Bṛhatī because Her scale surpasses the highest imaginable metric of greatness, महतो महीयत्वात्. She cannot be contained by any boundary line, expanding infinitely beyond cosmic horizons, serving as the vast space within which multiverses float."
     ]
   },
   {
@@ -13588,11 +13588,11 @@ window.LALITHA_NAMES = [
       "शिवस्य — of Śiva"
     ],
     "summary": [
-      "ब्राह्मणी means one who is in the form of a Brāhmin lady. The word Brāhmaṇī has several meanings, including a Brāhmin lady, a plant and wisdom. She is of all these forms. Since Śiva, Her consort, is spoken of as Brāhmaṇa and the deity of Brāhmaṇas, She is Brāhmaṇī."
+      "ब्राह्मणी means one who is in the form of a Brāhmin lady. The word Brāhmaṇī has several meanings, including a Brāhmin lady, a plant, and wisdom. She is of all these forms. Since Śiva, Her consort, is spoken of as Brāhmaṇa and the deity of Brāhmaṇas, She is Brāhmaṇī."
     ],
-    "searchText": "674 ब्राह्मणी द्विजस्त्रीमात्ररूपा। संविद्विशेषरूपा। शिवस्य ब्राह्मणत्वजातिमत्त्वाद्ब्राह्मणी। शिवस्य — of śiva ब्राह्मणी means one who is in the form of a brāhmin lady. the word brāhmaṇī has several meanings, including a brāhmin lady, a plant and wisdom. she is of all these forms. since śiva, her consort, is spoken of as brāhmaṇa and the deity of brāhmaṇas, she is brāhmaṇī. the consort of the knower: lord śiva represents the ultimate, pristine repository of vedic wisdom—the archetypal brahman. she is his non-dual dynamic energy (brāhmaṇī). concurrently, she represents the refined, highly specialized state of pure internal awareness (saṁvit-viśeṣa-rūpā) that marks an illumined mind.",
+    "searchText": "674 ब्राह्मणी द्विजस्त्रीमात्ररूपा। संविद्विशेषरूपा। शिवस्य ब्राह्मणत्वजातिमत्त्वाद्ब्राह्मणी। शिवस्य — of śiva ब्राह्मणी means one who is in the form of a brāhmin lady. the word brāhmaṇī has several meanings, including a brāhmin lady, a plant, and wisdom. she is of all these forms. since śiva, her consort, is spoken of as brāhmaṇa and the deity of brāhmaṇas, she is brāhmaṇī. the consort of the knower: lord śiva represents the ultimate, pristine repository of sacred wisdom, the archetypal brahman. she is his non-dual dynamic energy, brāhmaṇī. concurrently, she represents the refined, highly specialized state of pure internal awareness, saṃvit-viśeṣa-rūpā, that marks an illumined mind.",
     "esoteric": [
-      "The Consort of the Knower: Lord Śiva represents the ultimate, pristine repository of Vedic wisdom—the archetypal Brahman. She is His non-dual dynamic energy (Brāhmaṇī). Concurrently, She represents the refined, highly specialized state of pure internal awareness (Saṁvit-viśeṣa-rūpā) that marks an illumined mind."
+      "The Consort of the Knower: Lord Śiva represents the ultimate, pristine repository of sacred wisdom, the archetypal Brahman. She is His non-dual dynamic energy, Brāhmaṇī. Concurrently, She represents the refined, highly specialized state of pure internal awareness, saṃvit-viśeṣa-rūpā, that marks an illumined mind."
     ]
   },
   {
@@ -13606,11 +13606,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "ब्राह्मी means one who is in the form of Sarasvatī, the consort of Brahmā. She is in the form of speech and may be understood as Vāgīśvarī. She is also the senior-most among the eight mothers, shining with the swan, japa-mālā and kamaṇḍalu."
+      "ब्राह्मी means one who is in the form of Sarasvatī, the consort of Brahmā. She is in the form of speech and may be understood as Vāgīśvarī. She is also the senior-most among the eight mothers, shining with the swan, japa-mālā, and kamaṇḍalu."
     ],
-    "searchText": "675 ब्राह्मी अविद्यातिरिक्तजडजातिसद्भावे मानाभाव इत्यत आह ब्राह्मी। (ब्राह्मो जाताविति निपातनात्साधुः)। वागात्मिका। word meanings are read directly from the samāsa expression above. ब्राह्मी means one who is in the form of sarasvatī, the consort of brahmā. she is in the form of speech and may be understood as vāgīśvarī. she is also the senior-most among the eight mothers, shining with the swan, japa-mālā and kamaṇḍalu. the non-dual substance: because there is no valid proof (mānābhāva) for the existence of any independent material matter separate from the absolute, the entire universe is fundamentally nothing but brahman. she is brāhmī — the expression of this non-dual reality. concurrently, she is the power of articulation (vāg-ātmikā) that animates creative sound.",
+    "searchText": "675 ब्राह्मी अविद्यातिरिक्तजडजातिसद्भावे मानाभाव इत्यत आह ब्राह्मी। (ब्राह्मो जाताविति निपातनात्साधुः)। वागात्मिका। word meanings are read directly from the samāsa expression above. ब्राह्मी means one who is in the form of sarasvatī, the consort of brahmā. she is in the form of speech and may be understood as vāgīśvarī. she is also the senior-most among the eight mothers, shining with the swan, japa-mālā, and kamaṇḍalu. the non-dual substance: because there is no valid proof, mānābhāva, for the existence of any independent material matter separate from the absolute, the entire universe is fundamentally nothing but brahman. she is brāhmī, the expression of this non-dual reality. concurrently, she is the power of articulation, vāg-ātmikā, that animates creative sound.",
     "esoteric": [
-      "The Non-Dual Substance: Because there is no valid proof (mānābhāva) for the existence of any independent material matter separate from the absolute, the entire universe is fundamentally nothing but Brahman. She is Brāhmī — the expression of this non-dual reality. Concurrently, She is the power of articulation (Vāg-ātmikā) that animates creative sound."
+      "The Non-Dual Substance: Because there is no valid proof, mānābhāva, for the existence of any independent material matter separate from the absolute, the entire universe is fundamentally nothing but Brahman. She is Brāhmī, the expression of this non-dual reality. Concurrently, She is the power of articulation, vāg-ātmikā, that animates creative sound."
     ]
   },
   {
@@ -13625,9 +13625,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "ब्रह्मानन्दा means one who is in the form of supreme bliss. She has Brahman itself as Her bliss. The form of Śrīdevī is described as frozen or condensed bliss, just as Śrī Kṛṣṇa is described as one whose body is supreme bliss."
     ],
-    "searchText": "676 ब्रह्मानन्दा ब्रह्मैवानन्दो यस्याः सगुणायाः। यस्याः — of whom; whose ब्रह्मानन्दा means one who is in the form of supreme bliss. she has brahman itself as her bliss. the form of śrīdevī is described as frozen or condensed bliss, just as śrī kṛṣṇa is described as one whose body is supreme bliss. the bliss of the absolute: she is the living embodiment of that supreme, unconditioned happiness (ānanda) that defines brahman. when she assumes a qualified form (saguṇā) for the sake of the devotee, she radiates this unadulterated cosmic joy, lifting the practitioner out of earthly grief.",
+    "searchText": "676 ब्रह्मानन्दा ब्रह्मैवानन्दो यस्याः सगुणायाः। यस्याः — of whom; whose ब्रह्मानन्दा means one who is in the form of supreme bliss. she has brahman itself as her bliss. the form of śrīdevī is described as frozen or condensed bliss, just as śrī kṛṣṇa is described as one whose body is supreme bliss. the bliss of the absolute: she is the living embodiment of that supreme, unconditioned happiness, ānanda, that defines brahman. when she assumes a qualified form, saguṇā, for the sake of the devotee, she radiates this unadulterated cosmic joy, lifting the practitioner out of earthly grief.",
     "esoteric": [
-      "The Bliss of the Absolute: She is the living embodiment of that supreme, unconditioned happiness (Ānanda) that defines Brahman. When She assumes a qualified form (Saguṇā) for the sake of the devotee, She radiates this unadulterated cosmic joy, lifting the practitioner out of earthly grief."
+      "The Bliss of the Absolute: She is the living embodiment of that supreme, unconditioned happiness, ānanda, that defines Brahman. When She assumes a qualified form, saguṇā, for the sake of the devotee, She radiates this unadulterated cosmic joy, lifting the practitioner out of earthly grief."
     ]
   },
   {
@@ -13645,12 +13645,11 @@ window.LALITHA_NAMES = [
       "पूजोपहाराः — worship offerings"
     ],
     "summary": [
-      "बलिप्रिया means one who is delighted with the mighty. Dhīras or balis are those who overcome ignorance and the enemies such as desire. She is fond of them and blesses them. The name also recalls Viṣṇu's compassion for king Bali in the Vāmana incarnation, and also the bali offerings made during worship, which She accepts with joy."
+      "बलिप्रिया means one who is delighted with the mighty. Dhīras or balis are those who overcome ignorance and enemies such as desire. She is fond of them and blesses them. The name also recalls Viṣṇu's compassion for king Bali in the Vāmana incarnation, and the bali offerings made during worship, which She accepts with joy."
     ],
-    "searchText": "677 बलिप्रिया बलिनो विद्यानिराससमर्थाः कामादिशत्रुजेतारः प्रिया दयापात्रं यस्याः सा। बलिनामको राजा प्रियो यस्य वामनस्य तदभिन्ना। पूजोपहाराः प्रिया यस्याः सा। विद्यानिराससमर्थाः — able to remove ignorance प्रिया — dear यस्याः — of whom; whose पूजोपहाराः — worship offerings बलिप्रिया means one who is delighted with the mighty. dhīras or balis are those who overcome ignorance and the enemies such as desire. she is fond of them and blesses them. the name also recalls viṣṇu's compassion for king bali in the vāmana incarnation, and also the bali offerings made during worship, which she accepts with joy. the love for spiritual warriors: बली refers to those strong, heroic practitioners who have conquered their internal enemies—lust, anger, and greed (kāmādi-śatru-jetāraḥ). they are her favorite children. ritual and mythological mappings: she accepts pure ritual offerings (upahāra) surrendered with devotion, and is non-different from the pervasive viṣṇu form that blessed king bali.",
+    "searchText": "677 बलिप्रिया बलिनो विद्यानिराससमर्थाः कामादिशत्रुजेतारः प्रिया दयापात्रं यस्याः सा। बलिनामको राजा प्रियो यस्य वामनस्य तदभिन्ना। पूजोपहाराः प्रिया यस्याः सा। विद्यानिराससमर्थाः — able to remove ignorance प्रिया — dear यस्याः — of whom; whose पूजोपहाराः — worship offerings बलिप्रिया means one who is delighted with the mighty. dhīras or balis are those who overcome ignorance and enemies such as desire. she is fond of them and blesses them. the name also recalls viṣṇu's compassion for king bali in the vāmana incarnation, and the bali offerings made during worship, which she accepts with joy. the love for spiritual warriors: बली refers to those strong, heroic practitioners who have conquered their internal enemies: lust, anger, and greed, kāmādi-śatru-jetāraḥ. they are her beloved children. ritual and divine mappings: she accepts pure ritual offerings, upahāra, surrendered with devotion, and is non-different from the pervasive viṣṇu form that blessed king bali.",
     "esoteric": [
-      "The Love for Spiritual Warriors: बली refers to those strong, heroic practitioners who have conquered their internal enemies—lust, anger, and greed (kāmādi-śatru-jetāraḥ). They are Her favorite children.",
-      "Ritual and Mythological Mappings: She accepts pure ritual offerings (upahāra) surrendered with devotion, and is non-different from the pervasive Viṣṇu form that blessed King Bali."
+      "The Love for Spiritual Warriors: बली refers to those strong, heroic practitioners who have conquered their internal enemies: lust, anger, and greed, kāmādi-śatru-jetāraḥ. They are Her beloved children. Ritual and Divine Mappings: She accepts pure ritual offerings, upahāra, surrendered with devotion, and is non-different from the pervasive Viṣṇu form that blessed King Bali."
     ]
   },
   {
@@ -13666,9 +13665,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "भाषारूपा means one who is the form of languages. Since She is the head of speech, all languages are Her form. Her form is identified through languages; She can be recognised by speech."
     ],
-    "searchText": "678 भाषारूपा संस्कृतप्राकृतादिभाषा रूपं यस्याः सा। भाषाभिर्निरूप्यत इति। यस्याः — of whom; whose भाषारूपा means one who is the form of languages. since she is the head of speech, all languages are her form. her form is identified through languages; she can be recognised by speech. the matrix of articulation: she manifests directly as the structural architecture of language—including classical sanskrit, natural prākṛt, and every linguistic dialect spoken across the planetary grid. every word uttered is her voice. concurrently, she is the ultimate reality targeted and defined (nirūpyate) by all sacred philosophical descriptions.",
+    "searchText": "678 भाषारूपा संस्कृतप्राकृतादिभाषा रूपं यस्याः सा। भाषाभिर्निरूप्यत इति। यस्याः — of whom; whose भाषारूपा means one who is the form of languages. since she is the head of speech, all languages are her form. her form is identified through languages; she can be recognised by speech. the matrix of articulation: she manifests directly as the structural architecture of language, including classical saṃskṛta, natural prākṛt, and every linguistic dialect spoken across the planetary grid. every word uttered is her voice. concurrently, she is the ultimate reality targeted and defined, nirūpyate, by all sacred philosophical descriptions.",
     "esoteric": [
-      "The Matrix of Articulation: She manifests directly as the structural architecture of language—including classical Sanskrit, natural Prākṛt, and every linguistic dialect spoken across the planetary grid. Every word uttered is Her voice. Concurrently, She is the ultimate reality targeted and defined (nirūpyate) by all sacred philosophical descriptions."
+      "The Matrix of Articulation: She manifests directly as the structural architecture of language, including classical Saṃskṛta, natural Prākṛt, and every linguistic dialect spoken across the planetary grid. Every word uttered is Her voice. Concurrently, She is the ultimate reality targeted and defined, nirūpyate, by all sacred philosophical descriptions."
     ]
   },
   {
@@ -13684,11 +13683,11 @@ window.LALITHA_NAMES = [
       "यस्याः — of whom; whose"
     ],
     "summary": [
-      "बृहत्सेना means one who has a mighty army. Though She can perform creation, protection and destruction by Herself, She creates a vast army and completes Her tasks through it, giving share and pride to those who serve. Bṛhatsenā is also the name of a certain kingly line; She is in that form too."
+      "बृहत्सेना means one who has a mighty army. Though She can perform creation, protection, and destruction by Herself, She creates a vast army and completes Her tasks through it, giving share and pride to those who serve. Bṛhatsenā is also the name of a certain kingly line; She is in that form too."
     ],
-    "searchText": "679 बृहत्सेना बृहती अपारा सेना चतुरङ्गबलं यस्याः सा। बृहती — great; vast अपारा — boundless सेना — army यस्याः — of whom; whose बृहत्सेना means one who has a mighty army. though she can perform creation, protection and destruction by herself, she creates a vast army and completes her tasks through it, giving share and pride to those who serve. bṛhatsenā is also the name of a certain kingly line; she is in that form too. the boundless army of light: her \"army\" (senā) represents the infinite arrays of protective guardian energies, śaktis, and defensive rays that surround her throne. this boundless force stands perpetually mobilized to defend cosmic order and protect the practitioner from internal negative invasions.",
+    "searchText": "679 बृहत्सेना बृहती अपारा सेना चतुरङ्गबलं यस्याः सा। बृहती — great; vast अपारा — boundless सेना — army यस्याः — of whom; whose बृहत्सेना means one who has a mighty army. though she can perform creation, protection, and destruction by herself, she creates a vast army and completes her tasks through it, giving share and pride to those who serve. bṛhatsenā is also the name of a certain kingly line; she is in that form too. the boundless army of light: her army, senā, represents the infinite arrays of protective guardian energies, śaktis, and defensive rays that surround her throne. this boundless force stands perpetually mobilized to defend cosmic order and protect the practitioner from internal negative invasions.",
     "esoteric": [
-      "The Boundless Army of Light: Her \"army\" (Senā) represents the infinite arrays of protective guardian energies, Śaktis, and defensive rays that surround Her throne. This boundless force stands perpetually mobilized to defend cosmic order and protect the practitioner from internal negative invasions."
+      "The Boundless Army of Light: Her army, senā, represents the infinite arrays of protective guardian energies, śaktis, and defensive rays that surround Her throne. This boundless force stands perpetually mobilized to defend cosmic order and protect the practitioner from internal negative invasions."
     ]
   },
   {
@@ -13703,9 +13702,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "भावाभावविवर्जिता means one who is beyond existence and non-existence. Bhāva means existence and abhāva means non-existence. Everything in the world passes between these states. Śrīdevī does not belong completely to either state; the Supreme Being is eternal."
     ],
-    "searchText": "680 भावाभावविवर्जिता भावा द्रव्यगुणादयोऽभावाः प्रागभावादयस्तैरुभयैरपि विवर्जिता। word meanings are read directly from the samāsa expression above. भावाभावविवर्जिता means one who is beyond existence and non-existence. bhāva means existence and abhāva means non-existence. everything in the world passes between these states. śrīdevī does not belong completely to either state; the supreme being is eternal. beyond conceptual dialectics: in logical systems (nyāya/vaiśeṣika), the universe is divided into positive categories of being (bhāva — substance, quality, action) and states of negation (abhāva — prior non-existence, destruction). as the absolute transcendent consciousness, she stands completely outside this binary dualism. she is the baseline screen that precedes logical divisions,",
+    "searchText": "680 भावाभावविवर्जिता भावा द्रव्यगुणादयोऽभावाः प्रागभावादयस्तैरुभयैरपि विवर्जिता। word meanings are read directly from the samāsa expression above. भावाभावविवर्जिता means one who is beyond existence and non-existence. bhāva means existence and abhāva means non-existence. everything in the world passes between these states. śrīdevī does not belong completely to either state; the supreme being is eternal. beyond conceptual dialectics: in logical systems, the universe is divided into positive categories of being, bhāva, such as substance, quality, and action, and states of negation, abhāva, such as prior non-existence and destruction. as the absolute transcendent consciousness, she stands completely outside this binary dualism. she is the baseline screen that precedes logical divisions.",
     "esoteric": [
-      "Beyond Conceptual Dialectics: In logical systems (Nyāya/Vaiśeṣika), the universe is divided into positive categories of being (bhāva — substance, quality, action) and states of negation (abhāva — prior non-existence, destruction). As the absolute transcendent consciousness, She stands completely outside this binary dualism. She is the baseline screen that precedes logical divisions,"
+      "Beyond Conceptual Dialectics: In logical systems, the universe is divided into positive categories of being, bhāva, such as substance, quality, and action, and states of negation, abhāva, such as prior non-existence and destruction. As the absolute transcendent consciousness, She stands completely outside this binary dualism. She is the baseline screen that precedes logical divisions."
     ]
   },
   {
@@ -13721,9 +13720,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "सुखाराध्या means one who can be worshipped comfortably, without much effort. She can be worshipped without bodily pain such as fasting and without harsh restrictions on meditation. To worship Her, it is enough to imagine any form in the mind as Śrīdevī with devotion. Thus Her worship is very easy."
     ],
-    "searchText": "681 सुखाराध्या सुखेन (उपवासादिरूपकायक्लेशं ध्येयस्वरूपनियमनिर्बन्धादिकं चान्तरेण) आराध्या । सुखेन — comfortably आराध्या — worshipped सुखाराध्या means one who can be worshipped comfortably, without much effort. she can be worshipped without bodily pain such as fasting and without harsh restrictions on meditation. to worship her, it is enough to imagine any form in the mind as śrīdevī with devotion. thus her worship is very easy. worship free from physical friction: she does not require harsh physical mortification, extreme fasting (upavāsa), or torturous bodily postures (kāya-kleśa). she is sukhārādhyā because she can be worshipped with ease (sukhena), yielding her presence to sincere internal devotion and simple love rather than complex mechanical constraints.",
+    "searchText": "681 सुखाराध्या सुखेन (उपवासादिरूपकायक्लेशं ध्येयस्वरूपनियमनिर्बन्धादिकं चान्तरेण) आराध्या । सुखेन — comfortably आराध्या — worshipped सुखाराध्या means one who can be worshipped comfortably, without much effort. she can be worshipped without bodily pain such as fasting and without harsh restrictions on meditation. to worship her, it is enough to imagine any form in the mind as śrīdevī with devotion. thus her worship is very easy. worship free from physical friction: she does not require harsh physical mortification, extreme fasting, upavāsa, or torturous bodily postures, kāya-kleśa. she is sukhārādhyā because she can be worshipped with ease, sukhena, yielding her presence to sincere internal devotion and simple love rather than complex mechanical constraints.",
     "esoteric": [
-      "Worship Free from Physical Friction: She does not require harsh physical mortification, extreme fasting (upavāsa), or torturous bodily postures (kāya-kleśa). She is Sukhārādhyā because She can be worshipped with ease (sukhena), yielding Her presence to sincere internal devotion and simple love rather than complex mechanical constraints."
+      "Worship Free from Physical Friction: She does not require harsh physical mortification, extreme fasting, upavāsa, or torturous bodily postures, kāya-kleśa. She is Sukhārādhyā because She can be worshipped with ease, sukhena, yielding Her presence to sincere internal devotion and simple love rather than complex mechanical constraints."
     ]
   },
   {
@@ -13736,11 +13735,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "शुभकरी means one who grants auspiciousness to Her devotees. After saying that She can be worshipped easily, this name removes the doubt that lack of fasting or strict observance may cause sin. She bestows auspiciousness on Her devotees."
+      "शुभकरी means one who grants auspiciousness to Her devotees. After the ease of Her worship is shown, this name removes the doubt that lack of fasting or strict observance may cause sin. She bestows auspiciousness on Her devotees."
     ],
-    "searchText": "682 शुभकरी शुभं पुण्यमेव करोति। word meanings are read directly from the samāsa expression above. शुभकरी means one who grants auspiciousness to her devotees. after saying that she can be worshipped easily, this name removes the doubt that lack of fasting or strict observance may cause sin. she bestows auspiciousness on her devotees. the engine of auspiciousness: she is śubhakarī because her continuous influence automatically transforms the seeker's mental environment, producing auspicious thoughts, moral purity (puṇya), and benign outer circumstances that support spiritual growth.",
+    "searchText": "682 शुभकरी शुभं पुण्यमेव करोति। word meanings are read directly from the samāsa expression above. शुभकरी means one who grants auspiciousness to her devotees. after the ease of her worship is shown, this name removes the doubt that lack of fasting or strict observance may cause sin. she bestows auspiciousness on her devotees. the engine of auspiciousness: she is śubhakarī because her continuous influence automatically transforms the seeker's mental environment, producing auspicious thoughts, moral purity, puṇya, and benign outer circumstances that support spiritual growth.",
     "esoteric": [
-      "The Engine of Auspiciousness: She is Śubhakarī because Her continuous influence automatically transforms the seeker's mental environment, producing auspicious thoughts, moral purity (puṇya), and benign outer circumstances that support spiritual growth."
+      "The Engine of Auspiciousness: She is Śubhakarī because Her continuous influence automatically transforms the seeker's mental environment, producing auspicious thoughts, moral purity, puṇya, and benign outer circumstances that support spiritual growth."
     ]
   },
   {
@@ -13753,11 +13752,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "शोभनासुलभागतिः means one whose path is beautiful and easy to attain. Gati means goal, path, destiny, knowledge or salvation. Śobhanā means auspicious and sulabhā means easily attainable. The name indicates that even the difficult-to-attain freedom from rebirth becomes attainable by Her grace."
+      "शोभनासुलभागतिः means one whose path is beautiful and easy to attain. Gati means goal, path, destiny, knowledge, or salvation. Śobhanā means auspicious, and sulabhā means easily attainable. The name indicates that even the difficult-to-attain freedom from rebirth becomes attainable by Her grace."
     ],
-    "searchText": "683 शोभनासुलभागतिः मोक्षादिपुरुषार्थरूपत्वाच्छोभना। गम्यत इति गतिः फलम्। सुखोपास्यत्वात्सुलभा च गतिः प्राप्तव्यं स्थानम्। word meanings are read directly from the samāsa expression above. शोभनासुलभागतिः means one whose path is beautiful and easy to attain. gati means goal, path, destiny, knowledge or salvation. śobhanā means auspicious and sulabhā means easily attainable. the name indicates that even the difficult-to-attain freedom from rebirth becomes attainable by her grace. the magnificent goal: her station (gati) represents the highest human aim (puruṣārtha)—liberation itself, making it शोभना (śobhanā — glorious). yet, because her path is grounded in grace rather than friction, this ultimate state remains सुलभा (sulabhā — easily reachable) for those who take refuge in her.",
+    "searchText": "683 शोभनासुलभागतिः मोक्षादिपुरुषार्थरूपत्वाच्छोभना। गम्यत इति गतिः फलम्। सुखोपास्यत्वात्सुलभा च गतिः प्राप्तव्यं स्थानम्। word meanings are read directly from the samāsa expression above. शोभनासुलभागतिः means one whose path is beautiful and easy to attain. gati means goal, path, destiny, knowledge, or salvation. śobhanā means auspicious, and sulabhā means easily attainable. the name indicates that even the difficult-to-attain freedom from rebirth becomes attainable by her grace. the magnificent goal: her station, gati, represents the highest human aim, puruṣārtha, liberation itself, making it शोभना, śobhanā, glorious. yet because her path is grounded in grace rather than friction, this ultimate state remains सुलभा, sulabhā, easily reachable, for those who take refuge in her.",
     "esoteric": [
-      "The Magnificent Goal: Her station (gati) represents the highest human aim (puruṣārtha)—liberation itself, making it शोभना (śobhanā — glorious). Yet, because Her path is grounded in grace rather than friction, this ultimate state remains सुलभा (sulabhā — easily reachable) for those who take refuge in Her."
+      "The Magnificent Goal: Her station, gati, represents the highest human aim, puruṣārtha, liberation itself, making it शोभना, śobhanā, glorious. Yet because Her path is grounded in grace rather than friction, this ultimate state remains सुलभा, sulabhā, easily reachable, for those who take refuge in Her."
     ]
   },
   {
@@ -13771,11 +13770,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "राजराजेश्वरी means one who is the ruler of the king of kings. She is the head of the rulers of the eight directions and also of Brahmā, Viṣṇu and Śiva. Kubera is also called Rājarāja; She is the ruler even of him."
+      "राजराजेश्वरी means one who is the ruler of the king of kings. She is the head of the rulers of the eight directions and also of Brahmā, Viṣṇu, and Śiva. Kubera is also called Rājarāja; She is the ruler even of him."
     ],
-    "searchText": "684 राजराजेश्वरी राज्ञां देवराजादीनां ये राजानो ब्रह्मविष्णुरुद्रास्तेषामपीश्वरी। राजराजस्य कुबेरस्येश्वरी। word meanings are read directly from the samāsa expression above. राजराजेश्वरी means one who is the ruler of the king of kings. she is the head of the rulers of the eight directions and also of brahmā, viṣṇu and śiva. kubera is also called rājarāja; she is the ruler even of him. sovereign over the trinity: secondary gods like indra rule the heavens, but their rulers are the primary trinity—brahmā, viṣṇu, and rudra. she is rājarājeśvarī because she sits as the supreme empress over this trinity itself. concurrently, she governs kubera (rājarāja), holding total command over all cosmic treasuries.",
+    "searchText": "684 राजराजेश्वरी राज्ञां देवराजादीनां ये राजानो ब्रह्मविष्णुरुद्रास्तेषामपीश्वरी। राजराजस्य कुबेरस्येश्वरी। word meanings are read directly from the samāsa expression above. राजराजेश्वरी means one who is the ruler of the king of kings. she is the head of the rulers of the eight directions and also of brahmā, viṣṇu, and śiva. kubera is also called rājarāja; she is the ruler even of him. sovereign over the trinity: secondary gods like indra rule the heavens, but their rulers are the primary trinity: brahmā, viṣṇu, and rudra. she is rājarājeśvarī because she sits as the supreme empress over this trinity itself. concurrently, she governs kubera, rājarāja, holding total command over all cosmic treasuries.",
     "esoteric": [
-      "Sovereign over the Trinity: Secondary gods like Indra rule the heavens, but their rulers are the primary trinity—Brahmā, Viṣṇu, and Rudra. She is Rājarājeśvarī because She sits as the supreme empress over this trinity itself. Concurrently, She governs Kubera (Rājarāja), holding total command over all cosmic treasuries."
+      "Sovereign over the Trinity: Secondary gods like Indra rule the heavens, but their rulers are the primary trinity: Brahmā, Viṣṇu, and Rudra. She is Rājarājeśvarī because She sits as the supreme empress over this trinity itself. Concurrently, She governs Kubera, Rājarāja, holding total command over all cosmic treasuries."
     ]
   },
   {
@@ -13788,11 +13787,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "राज्यदायिनी means one who bestows dominion. Rājya indicates liberation, Vaikuṇṭha or Kailāsa; She grants these. The posts and roles of the directional lords and other rulers are also given by Her. Rājya is described in several forms such as vairājya, bhaujya and sāmrājya."
+      "राज्यदायिनी means one who bestows dominion. Rājya indicates liberation, Vaikuṇṭha, or Kailāsa; She grants these. The posts and roles of the directional lords and other rulers are also given by Her. Rājya has several forms such as vairājya, bhaujya, and sāmrājya."
     ],
-    "searchText": "685 राज्यदायिनी राज्यं स्वाराज्यवैकुण्ठकैलासाधिपत्यादिकं दातुं शीलमस्याः अस्तीति। word meanings are read directly from the samāsa expression above. राज्यदायिनी means one who bestows dominion. rājya indicates liberation, vaikuṇṭha or kailāsa; she grants these. the posts and roles of the directional lords and other rulers are also given by her. rājya is described in several forms such as vairājya, bhaujya and sāmrājya. the dispenser of heavenly realms: she does not merely grant temporal earthly kingdoms. she is rājyadāyinī because she dispenses spiritual sovereignty—including absolute self-rule (svārājya), access to the celestial realms of viṣṇu (vaikuṇṭha) and śiva (kailāsa), and ultimate dominion over one's internal senses.",
+    "searchText": "685 राज्यदायिनी राज्यं स्वाराज्यवैकुण्ठकैलासाधिपत्यादिकं दातुं शीलमस्याः अस्तीति। word meanings are read directly from the samāsa expression above. राज्यदायिनी means one who bestows dominion. rājya indicates liberation, vaikuṇṭha, or kailāsa; she grants these. the posts and roles of the directional lords and other rulers are also given by her. rājya has several forms such as vairājya, bhaujya, and sāmrājya. the dispenser of heavenly realms: she does not merely grant temporal earthly kingdoms. she is rājyadāyinī because she dispenses spiritual sovereignty, including absolute self-rule, svārājya, access to the celestial realms of viṣṇu, vaikuṇṭha, and śiva, kailāsa, and ultimate dominion over one's internal senses.",
     "esoteric": [
-      "The Dispenser of Heavenly Realms: She does not merely grant temporal earthly kingdoms. She is Rājyadāyinī because She dispenses spiritual sovereignty—including absolute self-rule (svārājya), access to the celestial realms of Viṣṇu (Vaikuṇṭha) and Śiva (Kailāsa), and ultimate dominion over one's internal senses."
+      "The Dispenser of Heavenly Realms: She does not merely grant temporal earthly kingdoms. She is Rājyadāyinī because She dispenses spiritual sovereignty, including absolute self-rule, svārājya, access to the celestial realms of Viṣṇu, Vaikuṇṭha, and Śiva, Kailāsa, and ultimate dominion over one's internal senses."
     ]
   },
   {
@@ -13806,11 +13805,11 @@ window.LALITHA_NAMES = [
       "यस्याः — of whom; whose"
     ],
     "summary": [
-      "राज्यवल्लभा means one to whom dominions are dear. The previous name indicates kingdoms and their rulers such as Brahmā, Indra and others. Śrīdevī has affection for all such kings. It is said in Āryā Dviśatī that such kings wait in Śrīpura for the sight of Śrīdevī."
+      "राज्यवल्लभा means one to whom dominions are dear. The previous name indicates kingdoms and their rulers such as Brahmā, Indra, and others. Śrīdevī has affection for all such kings. Such kings wait in Śrīpura for the sight of Śrīdevī."
     ],
-    "searchText": "686 राज्यवल्लभा राज्यानि वल्लभानि प्रियाणि यस्याः सा। वल्लभानि — dear; beloved यस्याः — of whom; whose राज्यवल्लभा means one to whom dominions are dear. the previous name indicates kingdoms and their rulers such as brahmā, indra and others. śrīdevī has affection for all such kings. it is said in āryā dviśatī that such kings wait in śrīpura for the sight of śrīdevī. the guardian of sovereign order: she is rājyavallabhā because she delights in righteous governance, order, and the expanding sovereignty of her devotees. she protects organized, righteous realms (rājya) so that wisdom and dharma can flourish without chaotic disruption.",
+    "searchText": "686 राज्यवल्लभा राज्यानि वल्लभानि प्रियाणि यस्याः सा। वल्लभानि — dear; beloved यस्याः — of whom; whose राज्यवल्लभा means one to whom dominions are dear. the previous name indicates kingdoms and their rulers such as brahmā, indra, and others. śrīdevī has affection for all such kings. such kings wait in śrīpura for the sight of śrīdevī. the guardian of sovereign order: she is rājyavallabhā because she delights in righteous governance, order, and the expanding sovereignty of her devotees. she protects organized, righteous realms, rājya, so that wisdom and dharma can flourish without chaotic disruption.",
     "esoteric": [
-      "The Guardian of Sovereign Order: She is Rājyavallabhā because She delights in righteous governance, order, and the expanding sovereignty of Her devotees. She protects organized, righteous realms (rājya) so that wisdom and Dharma can flourish without chaotic disruption."
+      "The Guardian of Sovereign Order: She is Rājyavallabhā because She delights in righteous governance, order, and the expanding sovereignty of Her devotees. She protects organized, righteous realms, rājya, so that wisdom and dharma can flourish without chaotic disruption."
     ]
   },
   {
@@ -13827,9 +13826,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "राजत्कृपा means one whose compassion shines gloriously. Since She is the form of a mother, She is full of compassion. Her grace shines and protects the devotees."
     ],
-    "searchText": "687 राजत्कृपा राजन्ती शोभमाना कृपा यस्याः सा। राजन्ती — shining कृपा — compassion यस्याः — of whom; whose राजत्कृपा means one whose compassion shines gloriously. since she is the form of a mother, she is full of compassion. her grace shines and protects the devotees. the radiant grace: her compassion (kṛpā) is not a hidden or passive sentiment; it is राजन्ती (rājantī — splendidly active and luminous). it shines out continuously to illuminate dark places in the seeker's mind, dispelling fear and granting immediate protection.",
+    "searchText": "687 राजत्कृपा राजन्ती शोभमाना कृपा यस्याः सा। राजन्ती — shining कृपा — compassion यस्याः — of whom; whose राजत्कृपा means one whose compassion shines gloriously. since she is the form of a mother, she is full of compassion. her grace shines and protects the devotees. the radiant grace: her compassion, kṛpā, is not a hidden or passive sentiment; it is राजन्ती, rājantī, splendidly active and luminous. it shines out continuously to illuminate dark places in the seeker's mind, dispelling fear and granting immediate protection.",
     "esoteric": [
-      "The Radiant Grace: Her compassion (kṛpā) is not a hidden or passive sentiment; it is राजन्ती (rājantī — splendidly active and luminous). It shines out continuously to illuminate dark places in the seeker's mind, dispelling fear and granting immediate protection."
+      "The Radiant Grace: Her compassion, kṛpā, is not a hidden or passive sentiment; it is राजन्ती, rājantī, splendidly active and luminous. It shines out continuously to illuminate dark places in the seeker's mind, dispelling fear and granting immediate protection."
     ]
   },
   {
@@ -13846,9 +13845,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "राजपीठनिवेशितनिजाश्रिता means one who raises those who resort to Her to royal status. She gives the posts of Indra and others to Her devotees; examples are known from stories such as Dhruva and Suratha. True devotees do not accept even such posts as final; She grants them the still higher state of Brahman."
     ],
-    "searchText": "688 राजपीठनिवेशितनिजाश्रिता राज्ञां नृपाणामिन्द्रादीनां च पीठेषु सिंहासनेषु निवेशिता निजा आश्रिता यया सा  । सिंहासनेषु — on thrones आश्रिता — those who have taken refuge सा — she राजपीठनिवेशितनिजाश्रिता means one who raises those who resort to her to royal status. she gives the posts of indra and others to her devotees; examples are known from stories such as dhruva and suratha. true devotees do not accept even such posts as final; she grants them the still higher state of brahman. the elevating power of grace: she takes those who seek refuge in her (nijāśritā) and installs them upon the thrones (rājapīṭha) of worldly governance, heavenly positions (like indra's seat), or spiritual mastery. her refuge transforms the spiritually destitute into sovereign masters over life.",
+    "searchText": "688 राजपीठनिवेशितनिजाश्रिता राज्ञां नृपाणामिन्द्रादीनां च पीठेषु सिंहासनेषु निवेशिता निजा आश्रिता यया सा  । सिंहासनेषु — on thrones आश्रिता — those who have taken refuge सा — she राजपीठनिवेशितनिजाश्रिता means one who raises those who resort to her to royal status. she gives the posts of indra and others to her devotees; examples are known from stories such as dhruva and suratha. true devotees do not accept even such posts as final; she grants them the still higher state of brahman. the elevating power of grace: she takes those who seek refuge in her, nijāśritā, and installs them upon the thrones, rājapīṭha, of worldly governance, heavenly positions such as indra's seat, or spiritual mastery. her refuge transforms the spiritually destitute into sovereign masters over life.",
     "esoteric": [
-      "The Elevating Power of Grace: She takes those who seek refuge in Her (nijāśritā) and installs them upon the thrones (rājapīṭha) of worldly governance, heavenly positions (like Indra's seat), or spiritual mastery. Her refuge transforms the spiritually destitute into sovereign masters over life."
+      "The Elevating Power of Grace: She takes those who seek refuge in Her, nijāśritā, and installs them upon the thrones, rājapīṭha, of worldly governance, heavenly positions such as Indra's seat, or spiritual mastery. Her refuge transforms the spiritually destitute into sovereign masters over life."
     ]
   },
   {
@@ -13861,11 +13860,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "राज्यलक्ष्मीः means one who is the goddess of sovereignty. Rājyalakṣmī indicates the entire wealth of all kings and devas such as Indra. She is that form, and the mantra of Rājyalakṣmī is described in Tantrarāja."
+      "राज्यलक्ष्मीः means one who is the goddess of sovereignty. Rājyalakṣmī indicates the entire wealth of all kings and devas such as Indra. She is that form, and the mantra of Rājyalakṣmī is also associated with Her."
     ],
-    "searchText": "689 राज्यलक्ष्मीः राज्याभिमानिनी लक्ष्मी। word meanings are read directly from the samāsa expression above. राज्यलक्ष्मीः means one who is the goddess of sovereignty. rājyalakṣmī indicates the entire wealth of all kings and devas such as indra. she is that form, and the mantra of rājyalakṣmī is described in tantrarāja. the splendor of rulership: power without grace leads to destruction. she is rājyalakṣmīḥ because she is the living fortune, majesty, and dignity (lakṣmī) that animates a kingdom. when her presence leaves a reign, its wealth and stability crumble; when she resides within it, prosperity flourishes.",
+    "searchText": "689 राज्यलक्ष्मीः राज्याभिमानिनी लक्ष्मी। word meanings are read directly from the samāsa expression above. राज्यलक्ष्मीः means one who is the goddess of sovereignty. rājyalakṣmī indicates the entire wealth of all kings and devas such as indra. she is that form, and the mantra of rājyalakṣmī is also associated with her. the splendor of rulership: power without grace leads to destruction. she is rājyalakṣmīḥ because she is the living fortune, majesty, and dignity, lakṣmī, that animates a kingdom. when her presence leaves a reign, its wealth and stability crumble; when she resides within it, prosperity flourishes.",
     "esoteric": [
-      "The Splendor of Rulership: Power without grace leads to destruction. She is Rājyalakṣmīḥ because She is the living fortune, majesty, and dignity (lakṣmī) that animates a kingdom. When Her presence leaves a reign, its wealth and stability crumble; when She resides within it, prosperity flourishes."
+      "The Splendor of Rulership: Power without grace leads to destruction. She is Rājyalakṣmīḥ because She is the living fortune, majesty, and dignity, lakṣmī, that animates a kingdom. When Her presence leaves a reign, its wealth and stability crumble; when She resides within it, prosperity flourishes."
     ]
   },
   {
@@ -13880,11 +13879,11 @@ window.LALITHA_NAMES = [
       "नाथा — mistress; lord"
     ],
     "summary": [
-      "कोशनाथा means one who presides over treasure. Kośa means a treasury; She is the head of all wealth. Kośa also refers to the five sheaths of the body — annamaya, prāṇamaya, manomaya, vijñānamaya and ānandamaya. As their head, She blesses devotees with life, thought, knowledge and happiness."
+      "कोशनाथा means one who presides over treasure. Kośa means a treasury; She is the head of all wealth. Kośa also refers to the five sheaths of the body: annamaya, prāṇamaya, manomaya, vijñānamaya, and ānandamaya. As their head, She blesses devotees with life, thought, knowledge, and happiness."
     ],
-    "searchText": "690 कोशनाथा कोशस्य भाण्डागारस्य दिव्यस्य अन्नमयादेर्वा नाथा स्वामिनी। कोशस्य — of treasury or sheath भाण्डागारस्य — of the treasury नाथा — mistress; lord कोशनाथा means one who presides over treasure. kośa means a treasury; she is the head of all wealth. kośa also refers to the five sheaths of the body — annamaya, prāṇamaya, manomaya, vijñānamaya and ānandamaya. as their head, she blesses devotees with life, thought, knowledge and happiness. ruler of material and subtle sheaths: materially, she is the master (nāthā) of all royal treasuries and stores (bhāṇḍāgāra). esoterically, kośa refers to the five sheaths of human existence (annamaya, prāṇamaya, manomaya, vijñānamaya, ānandamaya). she is kośanāthā because she commands these internal sheaths, opening their hidden wealth to the inward-bound practitioner.",
+    "searchText": "690 कोशनाथा कोशस्य भाण्डागारस्य दिव्यस्य अन्नमयादेर्वा नाथा स्वामिनी। कोशस्य — of treasury or sheath भाण्डागारस्य — of the treasury नाथा — mistress; lord कोशनाथा means one who presides over treasure. kośa means a treasury; she is the head of all wealth. kośa also refers to the five sheaths of the body: annamaya, prāṇamaya, manomaya, vijñānamaya, and ānandamaya. as their head, she blesses devotees with life, thought, knowledge, and happiness. ruler of material and subtle sheaths: materially, she is the master, nāthā, of all royal treasuries and stores, bhāṇḍāgāra. inwardly, kośa refers to the five sheaths of human existence: annamaya, prāṇamaya, manomaya, vijñānamaya, and ānandamaya. she is kośanāthā because she commands these internal sheaths, opening their hidden wealth to the inward-bound practitioner.",
     "esoteric": [
-      "Ruler of Material and Subtle Sheaths: Materially, She is the master (nāthā) of all royal treasuries and stores (bhāṇḍāgāra). Esoterically, Kośa refers to the five sheaths of human existence (Annamaya, Prāṇamaya, Manomaya, Vijñānamaya, Ānandamaya). She is Kośanāthā because She commands these internal sheaths, opening their hidden wealth to the inward-bound practitioner."
+      "Ruler of Material and Subtle Sheaths: Materially, She is the master, nāthā, of all royal treasuries and stores, bhāṇḍāgāra. Inwardly, kośa refers to the five sheaths of human existence: annamaya, prāṇamaya, manomaya, vijñānamaya, and ānandamaya. She is Kośanāthā because She commands these internal sheaths, opening their hidden wealth to the inward-bound practitioner."
     ]
   },
   {
