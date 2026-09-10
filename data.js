@@ -16103,7 +16103,7 @@ window.LALITHA_NAMES = [
       "हन्त्री — destroyer"
     ],
     "summary": [
-      "पाशहन्त्री means one who destroys bonds. pāśa means bondage or fetter. She cuts the bonds that bind the individual soul, including ignorance, desire and limitation."
+      "पाशहन्त्री means one who destroys bonds. Pāśa means bondage or fetter. She cuts the bonds that bind the individual soul, including ignorance, desire and limitation."
     ],
     "searchText": "811 पाशहन्त्री पाशानां हन्त्री नाशिका। हन्त्री — destroyer पाशहन्त्री means one who destroys bonds. pāśa means bondage or fetter. she cuts the bonds that bind the individual soul, including ignorance, desire and limitation. the cutter of the eight tethers: individual souls are trapped by the eight tethers (pāśas — shame, doubt, fear, pride, lineage, custom, status, and judgment). as pāśahantrī, her sharp kinetic energy cuts these specific chords, breaking the energetic cages of the subconscious and instantly liberating the soul.",
     "esoteric": [
@@ -16123,12 +16123,11 @@ window.LALITHA_NAMES = [
       "पर — higher; supreme"
     ],
     "summary": [
-      "परमन्त्रविभेदिनी means one who breaks hostile or external mantras. She destroys mantras used by enemies of Her worshippers, including harmful rites. She also reveals or unfolds the supreme mantra, the Panchadashi, and destroys the sins of worthy contemplators."
+      "परमन्त्रविभेदिनी means one who breaks hostile or external mantras. She destroys mantras used by enemies of Her worshippers, including harmful rites. She also reveals or unfolds the supreme mantra, the Pañcadaśī, and destroys the sins of worthy contemplators."
     ],
-    "searchText": "812 परमन्त्रविभेदिनी परेषां स्वोपासकद्विषां मन्त्रान्, परैरभिचाराद्यर्थं प्रयुक्तो मनुः परमन्त्रः, तान् वा, विशेषाद्भिनत्तीति। पर उत्कृष्टो मन्त्रः पञ्चदशीरूपस्तं विभेदयति। परा उत्कृष्टा ये मन्तारो मननकर्तारस्तेषामवीन् पापानि भेदयति नाशयति। मन्त्रान् — mantras पर — higher; supreme परमन्त्रविभेदिनी means one who breaks hostile or external mantras. she destroys mantras used by enemies of her worshippers, including harmful rites. she also reveals or unfolds the supreme mantra, the panchadashi, and destroys the sins of worthy contemplators. the shield against subtle aggression: she completely deactivates and dismantles hostile energetic actions (abhicāra) aimed at her practitioners. the pierce of the core formula: concurrently, she breaks open and reveals the hidden meanings inside the supreme fifteen-syllabled pañcadaśī formula, clearing away intellectual blocks.",
+    "searchText": "812 परमन्त्रविभेदिनी परेषां स्वोपासकद्विषां मन्त्रान्, परैरभिचाराद्यर्थं प्रयुक्तो मनुः परमन्त्रः, तान् वा, विशेषाद्भिनत्तीति। पर उत्कृष्टो मन्त्रः पञ्चदशीरूपस्तं विभेदयति। परा उत्कृष्टा ये मन्तारो मननकर्तारस्तेषामवीन् पापानि भेदयति नाशयति। मन्त्रान् — mantras पर — higher; supreme परमन्त्रविभेदिनी means one who breaks hostile or external mantras. she destroys mantras used by enemies of her worshippers, including harmful rites. she also reveals or unfolds the supreme mantra, the pañcadaśī, and destroys the sins of worthy contemplators. the shield against subtle aggression: she completely deactivates and dismantles hostile energetic actions (abhicāra) aimed at her practitioners. the pierce of the core formula: concurrently, she breaks open and reveals the hidden meanings inside the supreme fifteen-syllabled pañcadaśī formula, clearing away intellectual blocks.",
     "esoteric": [
-      "The Shield against Subtle Aggression: She completely deactivates and dismantles hostile energetic actions (abhicāra) aimed at Her practitioners.",
-      "The Pierce of the Core Formula: Concurrently, She breaks open and reveals the hidden meanings inside the supreme fifteen-syllabled Pañcadaśī formula, clearing away intellectual blocks."
+      "The Shield against Subtle Aggression: She completely deactivates and dismantles hostile energetic actions (abhicāra) aimed at Her practitioners. The Pierce of the Core Formula: Concurrently, She breaks open and reveals the hidden meanings inside the supreme fifteen-syllabled Pañcadaśī formula, clearing away intellectual blocks."
     ]
   },
   {
@@ -16157,17 +16156,17 @@ window.LALITHA_NAMES = [
       "अपञ्चीकृतानि तु भूतसूक्ष्माण्यमूर्तानि, तद्रूपा।।"
     ],
     "wordByWord": [
-      "वाय्वाकाशादिकममूर्तम् — component from the samasa above",
-      "तद्रूपा। — component from the samasa above",
-      "अपञ्चीकृतानि — component from the samasa above",
-      "तु — component from the samasa above",
-      "भूतसूक्ष्माण्यमूर्तानि — component from the samasa above",
-      "तद्रूपा।। — component from the samasa above"
+      "वाय्वाकाशादिकममूर्तम् — component from the samāsa above",
+      "तद्रूपा। — component from the samāsa above",
+      "अपञ्चीकृतानि — component from the samāsa above",
+      "तु — component from the samāsa above",
+      "भूतसूक्ष्माण्यमूर्तानि — component from the samāsa above",
+      "तद्रूपा।। — component from the samāsa above"
     ],
     "summary": [
       "अमूर्ता means one who is formless. Air, space and the subtle elements are without gross form; She is in those also. Thus She is both formed and formless, gross and subtle."
     ],
-    "searchText": "814 अमूर्ता वाय्वाकाशादिकममूर्तम्, तद्रूपा। अपञ्चीकृतानि तु भूतसूक्ष्माण्यमूर्तानि, तद्रूपा।। वाय्वाकाशादिकममूर्तम् — component from the samasa above तद्रूपा। — component from the samasa above अपञ्चीकृतानि — component from the samasa above तु — component from the samasa above भूतसूक्ष्माण्यमूर्तानि — component from the samasa above तद्रूपा।। — component from the samasa above अमूर्ता means one who is formless. air, space and the subtle elements are without gross form; she is in those also. thus she is both formed and formless, gross and subtle. the subtle substratum: while she is the visible object (mūrtā), she is simultaneously amūrtā — the formless, invisible sky of air and ether (ākāśa) and the unquintupled, subtle elemental seeds (tanmātras). she confirms that the unmanifest vacuum and the dense world are waves of a single energy field.",
+    "searchText": "814 अमूर्ता वाय्वाकाशादिकममूर्तम्, तद्रूपा। अपञ्चीकृतानि तु भूतसूक्ष्माण्यमूर्तानि, तद्रूपा।। वाय्वाकाशादिकममूर्तम् — component from the samāsa above तद्रूपा। — component from the samāsa above अपञ्चीकृतानि — component from the samāsa above तु — component from the samāsa above भूतसूक्ष्माण्यमूर्तानि — component from the samāsa above तद्रूपा।। — component from the samāsa above अमूर्ता means one who is formless. air, space and the subtle elements are without gross form; she is in those also. thus she is both formed and formless, gross and subtle. the subtle substratum: while she is the visible object (mūrtā), she is simultaneously amūrtā — the formless, invisible sky of air and ether (ākāśa) and the unquintupled, subtle elemental seeds (tanmātras). she confirms that the unmanifest vacuum and the dense world are waves of a single energy field.",
     "esoteric": [
       "The Subtle Substratum: While She is the visible object (Mūrtā), She is simultaneously Amūrtā — the formless, invisible sky of air and ether (ākāśa) and the unquintupled, subtle elemental seeds (tanmātras). She confirms that the unmanifest vacuum and the dense world are waves of a single energy field."
     ]
@@ -16184,9 +16183,9 @@ window.LALITHA_NAMES = [
       "तृप्ता — satisfied"
     ],
     "summary": [
-      "अनित्यतृप्ता means one who is satisfied even by impermanent offerings. Since She is pleased by devotion alone, even simple and temporary offerings satisfy Her. Another interpretation says there is no manner in which She is not satisfied; She is always fulfilled by every sincere mode of worship."
+      "अनित्यतृप्ता means one who is satisfied even by impermanent offerings. Since She is pleased by devotion alone, even simple and temporary offerings satisfy Her. Another interpretation is that there is no manner in which She is not satisfied; She is always fulfilled by every sincere mode of worship."
     ],
-    "searchText": "815 अनित्यतृप्ता अनित्यैरेवोपचारैस्तृप्तेति पञ्चाक्षरं नाम भक्तिमात्रप्रियत्वात्। अनिति श्वसतीति जीवोऽनितिपदार्थः। तै: अतृप्ता। इति एवंप्रकारेण अतृप्ता न तृप्ता न भवतीति न। (ईदृशः प्रकारो नास्ति येन तृप्ता न स्यात्। अपि तु सर्वैरपि प्रकारैस्तृप्तैव)। तृप्ता — satisfied अनित्यतृप्ता means one who is satisfied even by impermanent offerings. since she is pleased by devotion alone, even simple and temporary offerings satisfy her. another interpretation says there is no manner in which she is not satisfied; she is always fulfilled by every sincere mode of worship. sincerity over opulence: she does not demand permanent, impossible physical monuments; she is perfectly satisfied by transient, fleeting daily offerings (anitya-upacāra) if driven by pure devotion. the double negation: under the logical track, it is impossible for her to experience lack; she remains fully satisfied across every parameter and condition in existence.",
+    "searchText": "815 अनित्यतृप्ता अनित्यैरेवोपचारैस्तृप्तेति पञ्चाक्षरं नाम भक्तिमात्रप्रियत्वात्। अनिति श्वसतीति जीवोऽनितिपदार्थः। तै: अतृप्ता। इति एवंप्रकारेण अतृप्ता न तृप्ता न भवतीति न। (ईदृशः प्रकारो नास्ति येन तृप्ता न स्यात्। अपि तु सर्वैरपि प्रकारैस्तृप्तैव)। तृप्ता — satisfied अनित्यतृप्ता means one who is satisfied even by impermanent offerings. since she is pleased by devotion alone, even simple and temporary offerings satisfy her. another interpretation is that there is no manner in which she is not satisfied; she is always fulfilled by every sincere mode of worship. sincerity over opulence: she does not demand permanent, impossible physical monuments; she is perfectly satisfied by transient, fleeting daily offerings (anitya-upacāra) if driven by pure devotion. the double negation: under the logical track, it is impossible for her to experience lack; she remains fully satisfied across every parameter and condition in existence.",
     "esoteric": [
       "Sincerity over Opulence: She does not demand permanent, impossible physical monuments; She is perfectly satisfied by transient, fleeting daily offerings (anitya-upacāra) if driven by pure devotion.",
       "The Double Negation: Under the logical track, it is impossible for Her to experience lack; She remains fully satisfied across every parameter and condition in existence."
@@ -16200,17 +16199,17 @@ window.LALITHA_NAMES = [
       "मुनीनां माने बहुमानविषये सहंसिकेव"
     ],
     "wordByWord": [
-      "मुनीनां — component from the samasa above",
-      "मानसं — component from the samasa above",
-      "मन — component from the samasa above",
-      "एव — component from the samasa above",
-      "श्लेषात् — component from the samasa above",
-      "मानसाख्यं — component from the samasa above"
+      "मुनीनां — component from the samāsa above",
+      "मानसं — component from the samāsa above",
+      "मन — component from the samāsa above",
+      "एव — component from the samāsa above",
+      "श्लेषात् — component from the samāsa above",
+      "मानसाख्यं — component from the samāsa above"
     ],
     "summary": [
-      "मुनिमानसहंसिका means one who is the swan in the minds of sages. The minds of munis are like Manasa lake, and She moves there like a swan. She is honoured in the esteem of sages and dwells in their pure contemplation."
+      "मुनिमानसहंसिका means one who is the swan in the minds of sages. The minds of munis are like Mānasa lake, and She moves there like a swan. She is honoured in the esteem of sages and dwells in their pure contemplation."
     ],
-    "searchText": "816 मुनिमानसहंसिका मुनीनां मानसं मन एव श्लेषात् मानसाख्यं सरस्तत्र हंसीव। स्वार्थे कः। मुनीनां माने बहुमानविषये सहंसिकेव मुनीनां — component from the samasa above मानसं — component from the samasa above मन — component from the samasa above एव — component from the samasa above श्लेषात् — component from the samasa above मानसाख्यं — component from the samasa above मुनिमानसहंसिका means one who is the swan in the minds of sages. the minds of munis are like manasa lake, and she moves there like a swan. she is honoured in the esteem of sages and dwells in their pure contemplation. the swan of the interior lake: a pristine swan (haṁsī) leaves muddy swamps to swim exclusively in the clear waters of lake mānasa. similarly, she bypasses minds clouded by worldly desires, choosing to glide exclusively within the clear, calm, and undisturbed intellectual waters (mānasa) of deep, contemplative meditators.",
+    "searchText": "816 मुनिमानसहंसिका मुनीनां मानसं मन एव श्लेषात् मानसाख्यं सरस्तत्र हंसीव। स्वार्थे कः। मुनीनां माने बहुमानविषये सहंसिकेव मुनीनां — component from the samāsa above मानसं — component from the samāsa above मन — component from the samāsa above एव — component from the samāsa above श्लेषात् — component from the samāsa above मानसाख्यं — component from the samāsa above मुनिमानसहंसिका means one who is the swan in the minds of sages. the minds of munis are like mānasa lake, and she moves there like a swan. she is honoured in the esteem of sages and dwells in their pure contemplation. the swan of the interior lake: a pristine swan (haṁsī) leaves muddy swamps to swim exclusively in the clear waters of lake mānasa. similarly, she bypasses minds clouded by worldly desires, choosing to glide exclusively within the clear, calm, and undisturbed intellectual waters (mānasa) of deep, contemplative meditators.",
     "esoteric": [
       "The Swan of the Interior Lake: A pristine swan (haṁsī) leaves muddy swamps to swim exclusively in the clear waters of Lake Mānasa. Similarly, She bypasses minds clouded by worldly desires, choosing to glide exclusively within the clear, calm, and undisturbed intellectual waters (mānasa) of deep, contemplative meditators."
     ]
@@ -16228,12 +16227,11 @@ window.LALITHA_NAMES = [
       "सत्यं — truth"
     ],
     "summary": [
-      "सत्यव्रता means one whose vow is truth. Truth, Brahman itself, is Her vow and Her delight. The name also recalls vows that quickly bear fruit, and the tradition of Satyavrata, who became a great poet and devotee through the power of the Goddess."
+      "सत्यव्रता means one whose vow is truth. Truth, Brahman itself, is Her vow and Her delight. The name also recalls vows that quickly bear fruit, and the tradition of satyavrata, who became a great poet and devotee through the power of the Goddess."
     ],
-    "searchText": "817 सत्यव्रता सत्यं ब्रह्मैव व्रतं भक्ष्यमुपचारात्तद्वत्प्रियं यस्याः सा। सत्यमेव व्रतं यस्याः सा। सत्यानि शीघ्रफलदानि व्रतानि यस्याः सा। सत्यव्रतोनाम ब्राह्मणः सूकरभयात् ऐ ऐ इत्युच्चार्य तावतैव तपसा महाकविर्देवीभक्तो जातस्तदभेदात्सत्यव्रता। सत्यं — truth सत्यव्रता means one whose vow is truth. truth, brahman itself, is her vow and her delight. the name also recalls vows that quickly bear fruit, and the tradition of satyavrata, who became a great poet and devotee through the power of the goddess. the absolute vow: her essential code of operation is absolute truth (satya). the power of the seed-syllable: under the historical track, she references a mute brahmin (satyavrata) who accidentally vibrated the primary wisdom seed-syllable ऐं (aiṁ) out of fear, instantly unlocking her presence and transforming into a master poet, proving the immediate responsiveness of her sound keys.",
+    "searchText": "817 सत्यव्रता सत्यं ब्रह्मैव व्रतं भक्ष्यमुपचारात्तद्वत्प्रियं यस्याः सा। सत्यमेव व्रतं यस्याः सा। सत्यानि शीघ्रफलदानि व्रतानि यस्याः सा। सत्यव्रतोनाम ब्राह्मणः सूकरभयात् ऐ ऐ इत्युच्चार्य तावतैव तपसा महाकविर्देवीभक्तो जातस्तदभेदात्सत्यव्रता। सत्यं — truth सत्यव्रता means one whose vow is truth. truth, brahman itself, is her vow and her delight. the name also recalls vows that quickly bear fruit, and the tradition of satyavrata, who became a great poet and devotee through the power of the goddess. the absolute vow: her essential code of operation is absolute truth (satya). the power of the seed-syllable: a mute brāhmin following satyavrata accidentally vibrated the primary wisdom seed-syllable ऐं (aiṃ) out of fear, instantly unlocking her presence and transforming into a master poet, proving the immediate responsiveness of her sound keys.",
     "esoteric": [
-      "The Absolute Vow: Her essential code of operation is absolute truth (Satya).",
-      "The Power of the Seed-Syllable: Under the historical track, She references a mute Brahmin (Satyavrata) who accidentally vibrated the primary wisdom seed-syllable ऐं (Aiṁ) out of fear, instantly unlocking Her presence and transforming into a master poet, proving the immediate responsiveness of Her sound keys."
+      "The Absolute Vow: Her essential code of operation is absolute truth (satya). The Power of the Seed-Syllable: A mute brāhmin following satyavrata accidentally vibrated the primary wisdom seed-syllable ऐं (aiṃ) out of fear, instantly unlocking Her presence and transforming into a master poet, proving the immediate responsiveness of Her sound keys."
     ]
   },
   {
@@ -16250,7 +16248,7 @@ window.LALITHA_NAMES = [
     ],
     "searchText": "818 सत्यरूपा सत्यं कालत्रयाबाध्यं रूपं यस्याः सा। सत्यं — truth सत्यरूपा means one whose form is truth. truth is that which is not contradicted in the three periods of time. she is that unchanging reality. untouched by the three tenses: satya is defined as that reality which can never be contradicted, altered, or negated across the past, present, or future (kālatrayābādhya). every material object shifts and fails; she is satyarūpā because her baseline consciousness remains constant across all universal transitions.",
     "esoteric": [
-      "Untouched by the Three Tenses: Satya is defined as that reality which can never be contradicted, altered, or negated across the past, present, or future (kālatrayābādhya). Every material object shifts and fails; She is Satyarūpā because Her baseline consciousness remains constant across all universal transitions."
+      "Untouched by the Three Tenses: satya is defined as that reality which can never be contradicted, altered, or negated across the past, present, or future (kālatrayābādhya). Every material object shifts and fails; She is Satyarūpā because Her baseline consciousness remains constant across all universal transitions."
     ]
   },
   {
@@ -16261,17 +16259,17 @@ window.LALITHA_NAMES = [
       "सर्वा च सान्तर्यामिणी च।"
     ],
     "wordByWord": [
-      "सर्वेषामन्तर्यामिणी — component from the samasa above",
-      "। — component from the samasa above",
-      "सर्वा — component from the samasa above",
-      "च — component from the samasa above",
-      "सान्तर्यामिणी — component from the samasa above",
-      "च। — component from the samasa above"
+      "सर्वेषामन्तर्यामिणी — component from the samāsa above",
+      "। — component from the samāsa above",
+      "सर्वा — component from the samāsa above",
+      "च — component from the samāsa above",
+      "सान्तर्यामिणी — component from the samāsa above",
+      "च। — component from the samāsa above"
     ],
     "summary": [
       "सर्वान्तर्यामिणी means one who is the indwelling ruler of all. She is present within all beings as the inner controller. She governs from within as consciousness, life and law."
     ],
-    "searchText": "819 सर्वान्तर्यामिणी सर्वेषामन्तर्यामिणी । सर्वा च सान्तर्यामिणी च। सर्वेषामन्तर्यामिणी — component from the samasa above । — component from the samasa above सर्वा — component from the samasa above च — component from the samasa above सान्तर्यामिणी — component from the samasa above च। — component from the samasa above सर्वान्तर्यामिणी means one who is the indwelling ruler of all. she is present within all beings as the inner controller. she governs from within as consciousness, life and law. the thread behind the puppets: she does not govern the cosmos from a distant exterior sky. as the antaryāmiṇī, she sits inside the internal cognitive core of every single living soul, atom, and element. she directs their internal movements, formats their karmic translations, and animates their baseline existence from within.",
+    "searchText": "819 सर्वान्तर्यामिणी सर्वेषामन्तर्यामिणी । सर्वा च सान्तर्यामिणी च। सर्वेषामन्तर्यामिणी — component from the samāsa above । — component from the samāsa above सर्वा — component from the samāsa above च — component from the samāsa above सान्तर्यामिणी — component from the samāsa above च। — component from the samāsa above सर्वान्तर्यामिणी means one who is the indwelling ruler of all. she is present within all beings as the inner controller. she governs from within as consciousness, life and law. the thread behind the puppets: she does not govern the cosmos from a distant exterior sky. as the antaryāmiṇī, she sits inside the internal cognitive core of every single living soul, atom, and element. she directs their internal movements, formats their karmic translations, and animates their baseline existence from within.",
     "esoteric": [
       "The Thread behind the Puppets: She does not govern the cosmos from a distant exterior sky. As the Antaryāmiṇī, She sits inside the internal cognitive core of every single living soul, atom, and element. She directs their internal movements, formats their karmic translations, and animates their baseline existence from within."
     ]
@@ -16283,15 +16281,15 @@ window.LALITHA_NAMES = [
       "पातिव्रत्यात्सद्रूपत्वाच्च सती।"
     ],
     "wordByWord": [
-      "पातिव्रत्यात्सद्रूपत्वाच्च — component from the samasa above",
-      "सती। — component from the samasa above"
+      "पातिव्रत्यात्सद्रूपत्वाच्च — component from the samāsa above",
+      "सती। — component from the samāsa above"
     ],
     "summary": [
-      "सती means one who is Sati. She is the true and faithful consort, and also the form of Being itself. The name recalls both Her supreme reality and the sacred ideal of pativrata devotion."
+      "सती means one who is Satī. She is the true and faithful consort, and also the form of Being itself. The name recalls both Her supreme reality and the sacred ideal of pativratā devotion."
     ],
-    "searchText": "820 सती पातिव्रत्यात्सद्रूपत्वाच्च सती। पातिव्रत्यात्सद्रूपत्वाच्च — component from the samasa above सती। — component from the samasa above सती means one who is sati. she is the true and faithful consort, and also the form of being itself. the name recalls both her supreme reality and the sacred ideal of pativrata devotion. the substance of being: she is satī because she is the non-dual expression of pure existence (sad-rūpa). mythologically, she is the historical daughter of dakṣa who chose absolute fusion with lord śiva, proving that uncorrupted devotion and absolute reality are one substance.",
+    "searchText": "820 सती पातिव्रत्यात्सद्रूपत्वाच्च सती। पातिव्रत्यात्सद्रूपत्वाच्च — component from the samāsa above सती। — component from the samāsa above सती means one who is satī. she is the true and faithful consort, and also the form of being itself. the name recalls both her supreme reality and the sacred ideal of pativratā devotion. the substance of being: she is satī because she is the non-dual expression of pure existence (sad-rūpa). she is the daughter of dakṣa who chose absolute fusion with lord śiva, proving that uncorrupted devotion and absolute reality are one substance.",
     "esoteric": [
-      "The Substance of Being: She is Satī because She is the non-dual expression of pure existence (Sad-rūpa). Mythologically, She is the historical daughter of Dakṣa who chose absolute fusion with Lord Śiva, proving that uncorrupted devotion and absolute reality are one substance."
+      "The Substance of Being: She is Satī because She is the non-dual expression of pure existence (sad-rūpa). She is the daughter of Dakṣa who chose absolute fusion with Lord Śiva, proving that uncorrupted devotion and absolute reality are one substance."
     ]
   },
   {
@@ -16303,19 +16301,19 @@ window.LALITHA_NAMES = [
       "ब्रह्माणशब्दः पितामहपरस्तस्य स्त्री।"
     ],
     "wordByWord": [
-      "ब्रह्मरूपा — component from the samasa above",
-      "अणी — component from the samasa above",
-      "पुच्छम्। — component from the samasa above",
-      "आनन्दमयकोशस्थपुच्छब्रह्मरूपेत्यर्थः। — component from the samasa above",
-      "ब्रह्माणमानयति — component from the samasa above",
-      "जीवयतीति — component from the samasa above"
+      "ब्रह्मरूपा — component from the samāsa above",
+      "अणी — component from the samāsa above",
+      "पुच्छम्। — component from the samāsa above",
+      "आनन्दमयकोशस्थपुच्छब्रह्मरूपेत्यर्थः। — component from the samāsa above",
+      "ब्रह्माणमानयति — component from the samāsa above",
+      "जीवयतीति — component from the samāsa above"
     ],
     "summary": [
-      "ब्रह्माणी means one who is Brahmani. She is connected with Brahmā and also with the Brahman principle. She is the tail or support of the Anandamaya sheath and the life-giving power of Brahmā."
+      "ब्रह्माणी means one who is Brahmāṇī. She is connected with Brahmā and also with the Brahman principle. She is the tail or support of the Ānandamaya sheath and the life-giving power of Brahmā."
     ],
-    "searchText": "821 ब्रह्माणी ब्रह्मरूपा अणी पुच्छम्। आनन्दमयकोशस्थपुच्छब्रह्मरूपेत्यर्थः। ब्रह्माणमानयति जीवयतीति वा। ब्रह्माणशब्दः पितामहपरस्तस्य स्त्री। ब्रह्मरूपा — component from the samasa above अणी — component from the samasa above पुच्छम्। — component from the samasa above आनन्दमयकोशस्थपुच्छब्रह्मरूपेत्यर्थः। — component from the samasa above ब्रह्माणमानयति — component from the samasa above जीवयतीति — component from the samasa above ब्रह्माणी means one who is brahmani. she is connected with brahmā and also with the brahman principle. she is the tail or support of the anandamaya sheath and the life-giving power of brahmā. the foundation of bliss: the upaniṣad describes the structure of bliss, concluding with “brahma pucchaṁ pratiṣṭhā” (\"brahman is the tail or structural foundation\"). as brahmāṇī, she functions as that absolute anchor point (puccha/aṇī) that stabilizes the entire framework of cosmic bliss, giving life to the creator deity himself.",
+    "searchText": "821 ब्रह्माणी ब्रह्मरूपा अणी पुच्छम्। आनन्दमयकोशस्थपुच्छब्रह्मरूपेत्यर्थः। ब्रह्माणमानयति जीवयतीति वा। ब्रह्माणशब्दः पितामहपरस्तस्य स्त्री। ब्रह्मरूपा — component from the samāsa above अणी — component from the samāsa above पुच्छम्। — component from the samāsa above आनन्दमयकोशस्थपुच्छब्रह्मरूपेत्यर्थः। — component from the samāsa above ब्रह्माणमानयति — component from the samāsa above जीवयतीति — component from the samāsa above ब्रह्माणी means one who is brahmāṇī. she is connected with brahmā and also with the brahman principle. she is the tail or support of the ānandamaya sheath and the life-giving power of brahmā. the foundation of bliss: she functions as the absolute anchor point, the tail or structural support that stabilizes the entire framework of cosmic bliss, giving life to the creator deity himself.",
     "esoteric": [
-      "The Foundation of Bliss: The Upaniṣad describes the structure of bliss, concluding with “Brahma pucchaṁ pratiṣṭhā” (\"Brahman is the tail or structural foundation\"). As Brahmāṇī, She functions as that absolute anchor point (puccha/aṇī) that stabilizes the entire framework of cosmic bliss, giving life to the creator deity himself."
+      "The Foundation of Bliss: She functions as the absolute anchor point, the tail or structural support that stabilizes the entire framework of cosmic bliss, giving life to the creator deity himself."
     ]
   },
   {
@@ -16330,9 +16328,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "ब्रह्म means one who is Brahman. Brahman is the knowledge attained by the liberated and is not different from the Self. She is that supreme Brahman itself."
     ],
-    "searchText": "822 ब्रह्म ब्रह्म यन्मुक्तप्राप्यं तत् स्वात्माभिन्नं ज्ञानम्। ब्रह्म — brahman ब्रह्म means one who is brahman. brahman is the knowledge attained by the liberated and is not different from the self. she is that supreme brahman itself. identity with the whole: lest a student think she is merely a secondary power belonging to a higher absolute, this name establishes she is the unconditioned, non-dual परब्रह्म (parabrahman). she is that non-dual knowledge (jñāna) that is accessed by liberated ascetics, completely identical with one's own core self (svātmābhinna).",
+    "searchText": "822 ब्रह्म ब्रह्म यन्मुक्तप्राप्यं तत् स्वात्माभिन्नं ज्ञानम्। ब्रह्म — brahman ब्रह्म means one who is brahman. brahman is the knowledge attained by the liberated and is not different from the self. she is that supreme brahman itself. identity with the whole: lest a student think she is merely a secondary power belonging to a higher absolute, this name establishes she is the unconditioned, non-dual परब्रह्म (parabrahman). she is that non-dual knowledge (jñāna) accessed by liberated ascetics, completely identical with one's own core self (svātmābhinna).",
     "esoteric": [
-      "Identity with the Whole: Lest a student think She is merely a secondary power belonging to a higher absolute, this name establishes She is the unconditioned, non-dual परब्रह्म (Parabrahman). She is that non-dual knowledge (jñāna) that is accessed by liberated ascetics, completely identical with one's own core Self (svātmābhinna)."
+      "Identity with the Whole: Lest a student think She is merely a secondary power belonging to a higher absolute, this name establishes She is the unconditioned, non-dual परब्रह्म (Parabrahman). She is that non-dual knowledge (jñāna) accessed by liberated ascetics, completely identical with one's own core Self (svātmābhinna)."
     ]
   },
   {
@@ -16343,19 +16341,19 @@ window.LALITHA_NAMES = [
       "(ब्रह्माणीपदनिर्वचनपरत्वेन ब्रह्मजननीत्येकं पदं स्वीकर्तुं युक्तम्। एतत्पक्षे ८१९ सर्वान्तर्यामिणीत्यत्र सर्वेति भिन्नं पदमास्थेयम्)।"
     ],
     "wordByWord": [
-      "सर्वप्रपञ्चस्योत्पादकत्वाज्जननी। — component from the samasa above",
-      "ब्रह्माणीपदनिर्वचनपरत्वेन — component from the samasa above",
-      "ब्रह्मजननीत्येकं — component from the samasa above",
-      "पदं — component from the samasa above",
-      "स्वीकर्तुं — component from the samasa above",
-      "युक्तम्। — component from the samasa above"
+      "सर्वप्रपञ्चस्योत्पादकत्वाज्जननी। — component from the samāsa above",
+      "ब्रह्माणीपदनिर्वचनपरत्वेन — component from the samāsa above",
+      "ब्रह्मजननीत्येकं — component from the samāsa above",
+      "पदं — component from the samāsa above",
+      "स्वीकर्तुं — component from the samāsa above",
+      "युक्तम्। — component from the samāsa above"
     ],
     "summary": [
-      "जननी means one who is the mother. She produces the entire manifest universe. Whether understood separately or along with Brahmani, the name proclaims Her as the source of creation."
+      "जननी means one who is the mother. She produces the entire manifest universe. Whether understood separately or along with Brahmāṇī, the name proclaims Her as the origin of creation."
     ],
-    "searchText": "823 जननी सर्वप्रपञ्चस्योत्पादकत्वाज्जननी। (ब्रह्माणीपदनिर्वचनपरत्वेन ब्रह्मजननीत्येकं पदं स्वीकर्तुं युक्तम्। एतत्पक्षे ८१९ सर्वान्तर्यामिणीत्यत्र सर्वेति भिन्नं पदमास्थेयम्)। सर्वप्रपञ्चस्योत्पादकत्वाज्जननी। — component from the samasa above ब्रह्माणीपदनिर्वचनपरत्वेन — component from the samasa above ब्रह्मजननीत्येकं — component from the samasa above पदं — component from the samasa above स्वीकर्तुं — component from the samasa above युक्तम्। — component from the samasa above जननी means one who is the mother. she produces the entire manifest universe. whether understood separately or along with brahmani, the name proclaims her as the source of creation. the source of the multiverse: she is the universal jananī because she is the primary womb out of which the complete manifestation of names, elements, and worlds is projected. reading this combined with the previous name as ब्रह्मजननी (brahma-jananī) identifies her as the source that brings forth even the functional creator principles.",
+    "searchText": "823 जननी सर्वप्रपञ्चस्योत्पादकत्वाज्जननी। (ब्रह्माणीपदनिर्वचनपरत्वेन ब्रह्मजननीत्येकं पदं स्वीकर्तुं युक्तम्। एतत्पक्षे ८१९ सर्वान्तर्यामिणीत्यत्र सर्वेति भिन्नं पदमास्थेयम्)। सर्वप्रपञ्चस्योत्पादकत्वाज्जननी। — component from the samāsa above ब्रह्माणीपदनिर्वचनपरत्वेन — component from the samāsa above ब्रह्मजननीत्येकं — component from the samāsa above पदं — component from the samāsa above स्वीकर्तुं — component from the samāsa above युक्तम्। — component from the samāsa above जननी means one who is the mother. she produces the entire manifest universe. whether understood separately or along with brahmāṇī, the name proclaims her as the origin of creation. the origin of the multiverse: she is the universal jananī because she is the primary womb out of which the complete manifestation of names, elements, and worlds is projected. when read with the previous name as ब्रह्मजननी (brahma-jananī), it identifies her as the origin that brings forth even the functional creator principles.",
     "esoteric": [
-      "The Source of the Multiverse: She is the universal Jananī because She is the primary womb out of which the complete manifestation of names, elements, and worlds is projected. reading this combined with the previous name as ब्रह्मजननी (Brahma-jananī) identifies Her as the source that brings forth even the functional creator principles."
+      "The Origin of the Multiverse: She is the universal Jananī because She is the primary womb out of which the complete manifestation of names, elements, and worlds is projected. When read with the previous name as ब्रह्मजननी (brahma-jananī), it identifies Her as the origin that brings forth even the functional creator principles."
     ]
   },
   {
@@ -16369,11 +16367,11 @@ window.LALITHA_NAMES = [
       "रूपाणि — forms"
     ],
     "summary": [
-      "बहुरूपा means one who has many forms. She assumes innumerable forms according to the needs of creation, worship and experience. The many deities and the many beings are Her expressions."
+      "बहुरूपा means one who has many forms. She assumes innumerable forms for creation, worship and experience. The many deities and the many beings are Her expressions."
     ],
-    "searchText": "824 बहुरूपा बहूनि रूपाणि यस्याः सा। बहूनि — many रूपाणि — forms बहुरूपा means one who has many forms. she assumes innumerable forms according to the needs of creation, worship and experience. the many deities and the many beings are her expressions. the singular multitude: though she is completely alone and non-dual (ekākinī), she is simultaneously bahurūpā because every single changing form, planet, cell, and creature in the universe is a mask assumed by her energy field. duality is merely her unity displaying its infinite potential.",
+    "searchText": "824 बहुरूपा बहूनि रूपाणि यस्याः सा। बहूनि — many रूपाणि — forms बहुरूपा means one who has many forms. she assumes innumerable forms for creation, worship and experience. the many deities and the many beings are her expressions. the singular multitude: though she is completely alone and non-dual (ekākinī), she is simultaneously bahurūpā because every single changing form, planet, cell, and creature in the universe is a mask assumed by her energy field. duality is merely her unity displaying its infinite potential.",
     "esoteric": [
-      "The Singular Multitude: Though She is completely alone and non-dual (Ekākinī), She is simultaneously Bahurūpā because every single changing form, planet, cell, and creature in the universe is a mask assumed by Her energy field. Duality is merely Her unity displaying its infinite potential."
+      "The Singular Multitude: Though She is completely alone and non-dual (ekākinī), She is simultaneously Bahurūpā because every single changing form, planet, cell, and creature in the universe is a mask assumed by Her energy field. Duality is merely Her unity displaying its infinite potential."
     ]
   },
   {
@@ -16383,13 +16381,13 @@ window.LALITHA_NAMES = [
       "बुधैर्ज्ञानिभिरर्चिता पूजिता।"
     ],
     "wordByWord": [
-      "बुधैर्ज्ञानिभिरर्चिता — component from the samasa above",
-      "पूजिता। — component from the samasa above"
+      "बुधैर्ज्ञानिभिरर्चिता — component from the samāsa above",
+      "पूजिता। — component from the samāsa above"
     ],
     "summary": [
       "बुधार्चिता means one who is worshipped by the wise. Budhas are learned and awakened persons. Those who know truth worship Her as the supreme principle."
     ],
-    "searchText": "825 बुधार्चिता बुधैर्ज्ञानिभिरर्चिता पूजिता। बुधैर्ज्ञानिभिरर्चिता — component from the samasa above पूजिता। — component from the samasa above बुधार्चिता means one who is worshipped by the wise. budhas are learned and awakened persons. those who know truth worship her as the supreme principle. the worship of the discerning: budha refers to those who have crossed past superficial emotionalism and dry logic, anchoring themselves in direct spiritual discernment (jñānīs). their structured adoration confirms that her path satisfies the highest operational demands of the human intellect.",
+    "searchText": "825 बुधार्चिता बुधैर्ज्ञानिभिरर्चिता पूजिता। बुधैर्ज्ञानिभिरर्चिता — component from the samāsa above पूजिता। — component from the samāsa above बुधार्चिता means one who is worshipped by the wise. budhas are learned and awakened persons. those who know truth worship her as the supreme principle. the worship of the discerning: budha refers to those who have crossed past superficial emotionalism and dry logic, anchoring themselves in direct spiritual discernment (jñānīs). their structured adoration confirms that her path satisfies the highest operational demands of the human intellect.",
     "esoteric": [
       "The Worship of the Discerning: Budha refers to those who have crossed past superficial emotionalism and dry logic, anchoring themselves in direct spiritual discernment (jñānīs). Their structured adoration confirms that Her path satisfies the highest operational demands of the human intellect."
     ]
@@ -16401,17 +16399,17 @@ window.LALITHA_NAMES = [
       "प्रकर्षेण वियदादिप्रपञ्चं प्रजा वा सूत इति प्रसवित्री।"
     ],
     "wordByWord": [
-      "प्रकर्षेण — component from the samasa above",
-      "वियदादिप्रपञ्चं — component from the samasa above",
-      "प्रजा — component from the samasa above",
-      "वा — component from the samasa above",
-      "सूत — component from the samasa above",
-      "इति — component from the samasa above"
+      "प्रकर्षेण — component from the samāsa above",
+      "वियदादिप्रपञ्चं — component from the samāsa above",
+      "प्रजा — component from the samāsa above",
+      "वा — component from the samāsa above",
+      "सूत — component from the samāsa above",
+      "इति — component from the samāsa above"
     ],
     "summary": [
       "प्रसवित्री means one who gives birth abundantly. She brings forth space and the rest of the universe, and also all creatures. She is the great power of manifestation and generation."
     ],
-    "searchText": "826 प्रसवित्री प्रकर्षेण वियदादिप्रपञ्चं प्रजा वा सूत इति प्रसवित्री। प्रकर्षेण — component from the samasa above वियदादिप्रपञ्चं — component from the samasa above प्रजा — component from the samasa above वा — component from the samasa above सूत — component from the samasa above इति — component from the samasa above प्रसवित्री means one who gives birth abundantly. she brings forth space and the rest of the universe, and also all creatures. she is the great power of manifestation and generation. the generative matrix: as prasavitrī, she executes the high-velocity generation of the elements, cascading outward from pure space (viyat) down to dense physical matter. she pushes the potential into kinetic manifestation with flawless excellence.",
+    "searchText": "826 प्रसवित्री प्रकर्षेण वियदादिप्रपञ्चं प्रजा वा सूत इति प्रसवित्री। प्रकर्षेण — component from the samāsa above वियदादिप्रपञ्चं — component from the samāsa above प्रजा — component from the samāsa above वा — component from the samāsa above सूत — component from the samāsa above इति — component from the samāsa above प्रसवित्री means one who gives birth abundantly. she brings forth space and the rest of the universe, and also all creatures. she is the great power of manifestation and generation. the generative matrix: as prasavitrī, she executes the high-velocity generation of the elements, cascading outward from pure space (viyat) down to dense physical matter. she pushes the potential into kinetic manifestation with flawless excellence.",
     "esoteric": [
       "The Generative Matrix: As Prasavitrī, She executes the high-velocity generation of the elements, cascading outward from pure space (viyat) down to dense physical matter. She pushes the potential into kinetic manifestation with flawless excellence."
     ]
@@ -16424,19 +16422,19 @@ window.LALITHA_NAMES = [
       "प्रकृष्टा प्रीतिविषयत्वेन चण्डा शङ्खपुष्पी यस्याः सा।"
     ],
     "wordByWord": [
-      "प्रकृष्टाश्चण्डाः — component from the samasa above",
-      "कोपना — component from the samasa above",
-      "यस्या — component from the samasa above",
-      "दूताः — component from the samasa above",
-      "सा। — component from the samasa above",
-      "प्रकृष्टा — component from the samasa above"
+      "प्रकृष्टाश्चण्डाः — component from the samāsa above",
+      "कोपना — component from the samāsa above",
+      "यस्या — component from the samāsa above",
+      "दूताः — component from the samāsa above",
+      "सा। — component from the samāsa above",
+      "प्रकृष्टा — component from the samāsa above"
     ],
     "summary": [
-      "प्रचण्डा means one who is exceedingly fierce. Her messengers and powers are intense and capable of destroying hostile forces. The name also allows a meaning connected with strong affection for the shankhapushpi flower."
+      "प्रचण्डा means one who is exceedingly fierce. Her messengers and powers are intense and capable of destroying hostile forces. The name also allows a meaning connected with strong affection for the śaṅkhapuṣpī flower."
     ],
-    "searchText": "827 प्रचण्डा प्रकृष्टाश्चण्डाः कोपना यस्या दूताः सा। प्रकृष्टा प्रीतिविषयत्वेन चण्डा शङ्खपुष्पी यस्याः सा। प्रकृष्टाश्चण्डाः — component from the samasa above कोपना — component from the samasa above यस्या — component from the samasa above दूताः — component from the samasa above सा। — component from the samasa above प्रकृष्टा — component from the samasa above प्रचण्डा means one who is exceedingly fierce. her messengers and powers are intense and capable of destroying hostile forces. the name also allows a meaning connected with strong affection for the shankhapushpi flower. the force of pure protection: she is pracaṇḍā because her protective heralds and defensive energy lines operate with unyielding, terrifying velocity (caṇḍatva) to crush egoic deviations. botanically, her connection to the cooling śaṅkhapuṣpī flower demonstrates that this intense fire serves to restore long-term internal peace.",
+    "searchText": "827 प्रचण्डा प्रकृष्टाश्चण्डाः कोपना यस्या दूताः सा। प्रकृष्टा प्रीतिविषयत्वेन चण्डा शङ्खपुष्पी यस्याः सा। प्रकृष्टाश्चण्डाः — component from the samāsa above कोपना — component from the samāsa above यस्या — component from the samāsa above दूताः — component from the samāsa above सा। — component from the samāsa above प्रकृष्टा — component from the samāsa above प्रचण्डा means one who is exceedingly fierce. her messengers and powers are intense and capable of destroying hostile forces. the name also allows a meaning connected with strong affection for the śaṅkhapuṣpī flower. the force of pure protection: she is pracaṇḍā because her protective heralds and defensive energy lines operate with unyielding, terrifying velocity (caṇḍatva) to crush egoic deviations. botanically, her connection to the cooling śaṅkhapuṣpī flower demonstrates that this intense fire serves to restore long-term internal peace.",
     "esoteric": [
-      "The Force of Pure Protection: She is Pracaṇḍā because Her protective heralds and defensive energy lines operate with unyielding, terrifying velocity (caṇḍatva) to crush egoic deviations. Botanically, Her connection to the cooling Śaṅkhapuṣpī flower demonstrates that this intense fire serves to restore long-term internal peace."
+      "The Force of Pure Protection: She is Pracaṇḍā because Her protective heralds and defensive energy lines operate with unyielding, terrifying velocity (caṇḍatva) to crush egoic deviations. Botanically, Her connection to the cooling śaṅkhapuṣpī flower demonstrates that this intense fire serves to restore long-term internal peace."
     ]
   },
   {
@@ -16446,14 +16444,14 @@ window.LALITHA_NAMES = [
       "भगवदिच्छारूपा।"
     ],
     "wordByWord": [
-      "भगवदिच्छारूपा। — component from the samasa above"
+      "भगवदिच्छारूपा। — component from the samāsa above"
     ],
     "summary": [
       "आज्ञा means one who is command. She is the very form of divine will and order. The universe functions by Her command."
     ],
-    "searchText": "828 आज्ञा भगवदिच्छारूपा। भगवदिच्छारूपा। — component from the samasa above आज्ञा means one who is command. she is the very form of divine will and order. the universe functions by her command. the executive decree of consciousness: she is the living embodiment of the supreme command (ājñā) issued by the absolute consciousness. this command is भगवदिच्छा (bhagavad-icchā — divine will), the unalterable cosmic law that dictates planetary orbits, elements, and karmic metrics. nothing moves outside this structural decree.",
+    "searchText": "828 आज्ञा भगवदिच्छारूपा। भगवदिच्छारूपा। — component from the samāsa above आज्ञा means one who is command. she is the very form of divine will and order. the universe functions by her command. the executive decree of consciousness: she is the living embodiment of the supreme command (ājñā) issued by absolute consciousness. this command is भगवदिच्छा (bhagavad-icchā), divine will, the unalterable cosmic law that dictates planetary orbits, elements, and karmic metrics. nothing moves outside this structural decree.",
     "esoteric": [
-      "The Executive Decree of Consciousness: She is the living embodiment of the supreme command (Ājñā) issued by the absolute consciousness. This command is भगवदिच्छा (Bhagavad-icchā — divine will), the unalterable cosmic law that dictates planetary orbits, elements, and karmic metrics. Nothing moves outside this structural decree."
+      "The Executive Decree of Consciousness: She is the living embodiment of the supreme command (ājñā) issued by absolute consciousness. This command is भगवदिच्छा (bhagavad-icchā), divine will, the unalterable cosmic law that dictates planetary orbits, elements, and karmic metrics. Nothing moves outside this structural decree."
     ]
   },
   {
@@ -16463,13 +16461,13 @@ window.LALITHA_NAMES = [
       "प्रतितिष्ठत्यस्यां विश्वमिति।"
     ],
     "wordByWord": [
-      "प्रतितिष्ठत्यस्यां — component from the samasa above",
-      "विश्वमिति। — component from the samasa above"
+      "प्रतितिष्ठत्यस्यां — component from the samāsa above",
+      "विश्वमिति। — component from the samāsa above"
     ],
     "summary": [
       "प्रतिष्ठा means one who is the foundation. The whole universe stands established in Her. She is the support in which all existence rests."
     ],
-    "searchText": "829 प्रतिष्ठा प्रतितिष्ठत्यस्यां विश्वमिति। प्रतितिष्ठत्यस्यां — component from the samasa above विश्वमिति। — component from the samasa above प्रतिष्ठा means one who is the foundation. the whole universe stands established in her. she is the support in which all existence rests. the substratum of the world movie: a moving picture requires an unmoving, white screen to be projected upon. she is pratiṣṭhā because she is that exact stable screen within which the entire manifest universe (viśvam) stands, operates, and resides, remaining untouched by the transformations of the movie.",
+    "searchText": "829 प्रतिष्ठा प्रतितिष्ठत्यस्यां विश्वमिति। प्रतितिष्ठत्यस्यां — component from the samāsa above विश्वमिति। — component from the samāsa above प्रतिष्ठा means one who is the foundation. the whole universe stands established in her. she is the support in which all existence rests. the substratum of the world movie: a moving picture requires an unmoving, white screen to be projected upon. she is pratiṣṭhā because she is that exact stable screen within which the entire manifest universe (viśvam) stands, operates, and resides, remaining untouched by the transformations of the movie.",
     "esoteric": [
       "The Substratum of the World Movie: A moving picture requires an unmoving, white screen to be projected upon. She is Pratiṣṭhā because She is that exact stable screen within which the entire manifest universe (viśvam) stands, operates, and resides, remaining untouched by the transformations of the movie."
     ]
@@ -16487,9 +16485,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "प्रकटाकृतिः means one whose form is manifest. Her form is clearly experienced by all through the universe and through worship. Though supreme and subtle, She also appears openly as the visible form of all existence."
     ],
-    "searchText": "830 प्रकटाकृतिः प्रकटा सर्वैरनुभूयमाना आकृतिः रूपं यस्याः सा। प्रकटा — manifest आकृतिः — form प्रकटाकृतिः means one whose form is manifest. her form is clearly experienced by all through the universe and through worship. though supreme and subtle, she also appears openly as the visible form of all existence. the obvious reality: sages often describe her as hidden (guhyā). every flash of sensory awareness, every breath, and every pulse of existence is her direct, manifest appearance, blindingly obvious to anyone who truly looks.",
+    "searchText": "830 प्रकटाकृतिः प्रकटा सर्वैरनुभूयमाना आकृतिः रूपं यस्याः सा। प्रकटा — manifest आकृतिः — form प्रकटाकृतिः means one whose form is manifest. her form is clearly experienced by all through the universe and through worship. though supreme and subtle, she also appears openly as the visible form of all existence. the obvious reality: though she may appear hidden, every flash of sensory awareness, every breath, and every pulse of existence is her direct, manifest appearance, blindingly obvious to anyone who truly looks.",
     "esoteric": [
-      "The Obvious Reality: Sages often describe Her as hidden (Guhyā). Every flash of sensory awareness, every breath, and every pulse of existence is Her direct, manifest appearance, blindingly obvious to anyone who truly looks."
+      "The Obvious Reality: Though She may appear hidden, every flash of sensory awareness, every breath, and every pulse of existence is Her direct, manifest appearance, blindingly obvious to anyone who truly looks."
     ]
   },
   {
