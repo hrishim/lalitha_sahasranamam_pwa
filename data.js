@@ -13897,11 +13897,11 @@ window.LALITHA_NAMES = [
       "चत्वारि — four"
     ],
     "summary": [
-      "चतुरङ्गबलेश्वरी means one who rules the fourfold army. The fourfold army consists of cavalry, elephants, chariots and infantry. For the soul, the four faculties are mind, intellect, volition and ego. The four aggregates are also explained through the deities connected with creation, protection and destruction; She is the head of all that is fourfold."
+      "चतुरङ्गबलेश्वरी means one who rules the fourfold army. The fourfold army consists of cavalry, elephants, chariots, and infantry. For the soul, the four faculties are mind, intellect, volition, and ego. The four aggregates are also explained through the deities connected with creation, protection, and destruction; She is the head of all that is fourfold."
     ],
-    "searchText": "691 चतुरङ्गबलेश्वरी चत्वारि हस्त्यश्वरथपादातरूपाण्यङ्गानि येषां तेषां बलानामीश्वरी। अङ्गान्येव बलं येषां तेऽङ्गबला व्यूहाः। चत्वारि — four चतुरङ्गबलेश्वरी means one who rules the fourfold army. the fourfold army consists of cavalry, elephants, chariots and infantry. for the soul, the four faculties are mind, intellect, volition and ego. the four aggregates are also explained through the deities connected with creation, protection and destruction; she is the head of all that is fourfold. the mistress of the four divisions: traditionally, a complete imperial army consists of elephants, cavalry, chariots, and infantry. she is the absolute empress (īśvarī) directing this four-fold defensive grid. esoterically, she commands the four internal functional divisions of the cognitive apparatus (अन्तःकरण) — mind, intellect, memory, and ego — marshaling them to protect the practitioner's path.",
+    "searchText": "691 चतुरङ्गबलेश्वरी चत्वारि हस्त्यश्वरथपादातरूपाण्यङ्गानि येषां तेषां बलानामीश्वरी। अङ्गान्येव बलं येषां तेऽङ्गबला व्यूहाः। चत्वारि — four चतुरङ्गबलेश्वरी means one who rules the fourfold army. the fourfold army consists of cavalry, elephants, chariots, and infantry. for the soul, the four faculties are mind, intellect, volition, and ego. the four aggregates are also explained through the deities connected with creation, protection, and destruction; she is the head of all that is fourfold. the mistress of the four divisions: a complete imperial army consists of elephants, cavalry, chariots, and infantry. she is the absolute empress, īśvarī, directing this fourfold defensive grid. inwardly, she commands the four internal functional divisions of the cognitive apparatus, अन्तःकरण: mind, intellect, memory, and ego, marshaling them to protect the practitioner's path.",
     "esoteric": [
-      "The Mistress of the Four Divisions: Traditionally, a complete imperial army consists of elephants, cavalry, chariots, and infantry. She is the absolute empress (Īśvarī) directing this four-fold defensive grid. Esoterically, She commands the four internal functional divisions of the cognitive apparatus (अन्तःकरण) — mind, intellect, memory, and ego — marshaling them to protect the practitioner's path."
+      "The Mistress of the Four Divisions: A complete imperial army consists of elephants, cavalry, chariots, and infantry. She is the absolute empress, Īśvarī, directing this fourfold defensive grid. Inwardly, She commands the four internal functional divisions of the cognitive apparatus, अन्तःकरण: mind, intellect, memory, and ego, marshaling them to protect the practitioner's path."
     ]
   },
   {
@@ -13916,9 +13916,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "साम्राज्यदायिनी means one who bestows imperial dominion on Her devotees. As indicated earlier in Rājyadāyinī, She directly blesses the devotees with sāmrājya, greater than other forms of rulership. She bestows the status of emperor or maṇḍaleśvara."
     ],
-    "searchText": "692 साम्राज्यदायिनी साम्राज्यं [ताच्छील्येन] दत्ते इति। word meanings are read directly from the samāsa expression above. साम्राज्यदायिनी means one who bestows imperial dominion on her devotees. as indicated earlier in rājyadāyinī, she directly blesses the devotees with sāmrājya, greater than other forms of rulership. she bestows the status of emperor or maṇḍaleśvara. the giver of spiritual sovereignty: while she can grant external material kingdoms, her primary gift as sāmrājyadāyinī is स्वाराज्य (svārājya — the inner empire of self-mastery). she bestows that high state of realization where the practitioner rules over their own senses, mind, and destinies, completely liberated from external dependency.",
+    "searchText": "692 साम्राज्यदायिनी साम्राज्यं [ताच्छील्येन] दत्ते इति। word meanings are read directly from the samāsa expression above. साम्राज्यदायिनी means one who bestows imperial dominion on her devotees. as indicated earlier in rājyadāyinī, she directly blesses the devotees with sāmrājya, greater than other forms of rulership. she bestows the status of emperor or maṇḍaleśvara. the giver of spiritual sovereignty: while she can grant external material kingdoms, her primary gift as sāmrājyadāyinī is स्वाराज्य, svārājya, the inner empire of self-mastery. she bestows that high state of realization where the practitioner rules over the senses, mind, and destiny, completely liberated from external dependency.",
     "esoteric": [
-      "The Giver of Spiritual Sovereignty: While She can grant external material kingdoms, Her primary gift as Sāmrājyadāyinī is स्वाराज्य (Svārājya — the inner empire of self-mastery). She bestows that high state of realization where the practitioner rules over their own senses, mind, and destinies, completely liberated from external dependency."
+      "The Giver of Spiritual Sovereignty: While She can grant external material kingdoms, Her primary gift as Sāmrājyadāyinī is स्वाराज्य, svārājya, the inner empire of self-mastery. She bestows that high state of realization where the practitioner rules over the senses, mind, and destiny, completely liberated from external dependency."
     ]
   },
   {
@@ -13935,9 +13935,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "सत्यसन्धा means one whose promises and vows are unbroken. The promises of Śrīdevī and Her limits of protection cannot be broken by anyone. She has vowed to protect the entire universe and firmly keeps Her word."
     ],
-    "searchText": "693 सत्यसन्धा सत्ये अनुल्लङ्घ्ये सन्धे प्रतिज्ञामर्यादे यस्याः सा। सत्ये — in truth सन्धे — in vow; promise यस्याः — of whom; whose सत्यसन्धा means one whose promises and vows are unbroken. the promises of śrīdevī and her limits of protection cannot be broken by anyone. she has vowed to protect the entire universe and firmly keeps her word. the absolute guarantee: her vows and universal laws are अनुल्लङ्घ्य (anullaṅghya — inviolable/unbreakable). when she promises protection, grace, or eventual liberation to a devotee who surrenders to her path, that vow is absolute truth. cosmic laws may bend, but her covenant with her children remains unyielding.",
+    "searchText": "693 सत्यसन्धा सत्ये अनुल्लङ्घ्ये सन्धे प्रतिज्ञामर्यादे यस्याः सा। सत्ये — in truth सन्धे — in vow; promise यस्याः — of whom; whose सत्यसन्धा means one whose promises and vows are unbroken. the promises of śrīdevī and her limits of protection cannot be broken by anyone. she has vowed to protect the entire universe and firmly keeps her word. the absolute guarantee: her vows and universal laws are अनुल्लङ्घ्य, anullaṅghya, inviolable and unbreakable. when she promises protection, grace, or eventual liberation to a devotee who surrenders to her path, that vow is absolute truth. cosmic laws may bend, but her covenant with her children remains unyielding.",
     "esoteric": [
-      "The Absolute Guarantee: Her vows and universal laws are अनुल्लङ्घ्य (anullaṅghya — inviolable/unbreakable). When She promises protection, grace, or eventual liberation to a devotee who surrenders to Her path, that vow is absolute truth. Cosmic laws may bend, but Her covenant with Her children remains unyielding."
+      "The Absolute Guarantee: Her vows and universal laws are अनुल्लङ्घ्य, anullaṅghya, inviolable and unbreakable. When She promises protection, grace, or eventual liberation to a devotee who surrenders to Her path, that vow is absolute truth. Cosmic laws may bend, but Her covenant with Her children remains unyielding."
     ]
   },
   {
@@ -13954,9 +13954,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "सागरमेखला means one whose girdle is the ocean. The oceans themselves form Her girdle. This points to Her cosmic body, in which the seas encircle the worlds as an ornament."
     ],
-    "searchText": "694 सागरमेखला सागराः समुद्रा एव मेखला काञ्ची यस्याः सा। सागराः — oceans मेखला — girdle यस्याः — of whom; whose सागरमेखला means one whose girdle is the ocean. the oceans themselves form her girdle. this points to her cosmic body, in which the seas encircle the worlds as an ornament. the sovereign of the earth body: the physical earth is her manifest body, wrapped around the center by the vast oceans acting as a royal waistband (mekhalā). this reinforces her absolute presence across the terrestrial grid, showing that the physical structures of geography are components of her form.",
+    "searchText": "694 सागरमेखला सागराः समुद्रा एव मेखला काञ्ची यस्याः सा। सागराः — oceans मेखला — girdle यस्याः — of whom; whose सागरमेखला means one whose girdle is the ocean. the oceans themselves form her girdle. this points to her cosmic body, in which the seas encircle the worlds as an ornament. the sovereign of the earth body: the physical earth is her manifest body, wrapped around the center by the vast oceans acting as a royal waistband, mekhalā. this reinforces her absolute presence across the terrestrial grid, showing that the physical structures of geography are components of her form.",
     "esoteric": [
-      "The Sovereign of the Earth Body: The physical earth is Her manifest body, wrapped around the center by the vast oceans acting as a royal waistband (mekhalā). This reinforces Her absolute presence across the terrestrial grid, showing that the physical structures of geography are components of Her form."
+      "The Sovereign of the Earth Body: The physical earth is Her manifest body, wrapped around the center by the vast oceans acting as a royal waistband, mekhalā. This reinforces Her absolute presence across the terrestrial grid, showing that the physical structures of geography are components of Her form."
     ]
   },
   {
@@ -13972,11 +13972,11 @@ window.LALITHA_NAMES = [
       "दीक्षा — initiation"
     ],
     "summary": [
-      "दीक्षिता means one who helps others gain knowledge through initiation. Dīkṣā destroys the sins of disciples through the giving of mantra. This is the duty of the teacher. Since Śrīdevī is Gurumūrti, She is Dīkṣitā. There is no difference between the teacher, mantra and presiding deity."
+      "दीक्षिता means one who helps others gain knowledge through initiation. Dīkṣā destroys the sins of disciples through the giving of mantra. This is the duty of the teacher. Since Śrīdevī is Gurumūrti, She is Dīkṣitā. There is no difference between the teacher, mantra, and presiding deity."
     ],
-    "searchText": "695 दीक्षिता दीक्षा। धियं ज्ञानं क्षिणोति प्रापयतीति। शिष्येभ्यो मन्त्रदानेन पापं क्षपयतीति। दीक्षा अस्य सञ्जाता इति दीक्षितः। तदभिन्ना। दीक्षा — initiation दीक्षिता means one who helps others gain knowledge through initiation. dīkṣā destroys the sins of disciples through the giving of mantra. this is the duty of the teacher. since śrīdevī is gurumūrti, she is dīkṣitā. there is no difference between the teacher, mantra and presiding deity. the core of initiatory power: दी signifies the bestowal of spiritual knowledge (dhiyaṁ jñānaṁ dadāti), and क्षा signifies the absolute destruction of past binding sins (pāpaṁ kṣapayati). she is dīkṣitā because she is the internal source and the non-dual power running through the initiation process, performing the purification of the student's soul.",
+    "searchText": "695 दीक्षिता दीक्षा। धियं ज्ञानं क्षिणोति प्रापयतीति। शिष्येभ्यो मन्त्रदानेन पापं क्षपयतीति। दीक्षा अस्य सञ्जाता इति दीक्षितः। तदभिन्ना। दीक्षा — initiation दीक्षिता means one who helps others gain knowledge through initiation. dīkṣā destroys the sins of disciples through the giving of mantra. this is the duty of the teacher. since śrīdevī is gurumūrti, she is dīkṣitā. there is no difference between the teacher, mantra, and presiding deity. the core of initiatory power: दी signifies the bestowal of spiritual knowledge, dhiyaṃ jñānaṃ dadāti, and क्षा signifies the absolute destruction of past binding sins, pāpaṃ kṣapayati. she is dīkṣitā because she is the internal origin and non-dual power running through the initiation process, performing the purification of the student's soul.",
     "esoteric": [
-      "The Core of Initiatory Power: दी signifies the bestowal of spiritual knowledge (dhiyaṁ jñānaṁ dadāti), and क्षा signifies the absolute destruction of past binding sins (pāpaṁ kṣapayati). She is Dīkṣitā because She is the internal source and the non-dual power running through the initiation process, performing the purification of the student's soul."
+      "The Core of Initiatory Power: दी signifies the bestowal of spiritual knowledge, dhiyaṃ jñānaṃ dadāti, and क्षा signifies the absolute destruction of past binding sins, pāpaṃ kṣapayati. She is Dīkṣitā because She is the internal origin and non-dual power running through the initiation process, performing the purification of the student's soul."
     ]
   },
   {
@@ -13991,9 +13991,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "दैत्यशमनी means one who destroys or pacifies demons. Daityas such as Bhaṇḍāsura are subdued by Her. The name indicates Her protective power that removes the forces opposed to divine order."
     ],
-    "searchText": "696 दैत्यशमनी दैत्यानां भण्डादीनां शमनी नाशिका। शमनी — pacifier; destroyer दैत्यशमनी means one who destroys or pacifies demons. daityas such as bhaṇḍāsura are subdued by her. the name indicates her protective power that removes the forces opposed to divine order. the pacification of egotism: demons (daityas) represent the wild, aggressive distortions of rajas and tamas inside the mind. she does not just fight them; she pacifies (śamanī) them, drawing the chaotic energy back into its baseline source, converting the practitioner's inner turbulence into tranquil silence.",
+    "searchText": "696 दैत्यशमनी दैत्यानां भण्डादीनां शमनी नाशिका। शमनी — pacifier; destroyer दैत्यशमनी means one who destroys or pacifies demons. daityas such as bhaṇḍāsura are subdued by her. the name indicates her protective power that removes the forces opposed to divine order. the pacification of egotism: demons, daityas, represent the wild, aggressive distortions of rajas and tamas inside the mind. she does not just fight them; she pacifies them, śamanī, drawing the chaotic energy back into its baseline origin and converting the practitioner's inner turbulence into tranquil silence.",
     "esoteric": [
-      "The Pacification of Egotism: Demons (Daityas) represent the wild, aggressive distortions of rajas and tamas inside the mind. She does not just fight them; She pacifies (śamanī) them, drawing the chaotic energy back into its baseline source, converting the practitioner's inner turbulence into tranquil silence."
+      "The Pacification of Egotism: Demons, daityas, represent the wild, aggressive distortions of rajas and tamas inside the mind. She does not just fight them; She pacifies them, śamanī, drawing the chaotic energy back into its baseline origin and converting the practitioner's inner turbulence into tranquil silence."
     ]
   },
   {
@@ -14008,9 +14008,9 @@ window.LALITHA_NAMES = [
       "स्ववशे — under one’s control"
     ],
     "summary": [
-      "सर्वलोकवशङ्करी means one who brings all worlds under Her control. She makes all worlds act according to Her will. All lokas and beings are governed by Her sovereign power."
+      "सर्वलोकवशङ्करी means one who brings all worlds under Her control. She makes all worlds act by Her will. All lokas and beings are governed by Her sovereign power."
     ],
-    "searchText": "697 सर्वलोकवशङ्करी सर्वान् लोकान् स्ववशे कुरुते। सर्वान् — all लोकान् — worlds स्ववशे — under one’s control सर्वलोकवशङ्करी means one who brings all worlds under her control. she makes all worlds act according to her will. all lokas and beings are governed by her sovereign power. the supreme fascination: she does not enforce control through external tyrannical violence. she is sarvalokavaśaṅkarī because her essential nature is so boundlessly beautiful, blissful, and full of truth that every realm, deity, and living soul is naturally fascinated, drawn inward, and aligned under her command.",
+    "searchText": "697 सर्वलोकवशङ्करी सर्वान् लोकान् स्ववशे कुरुते। सर्वान् — all लोकान् — worlds स्ववशे — under one’s control सर्वलोकवशङ्करी means one who brings all worlds under her control. she makes all worlds act by her will. all lokas and beings are governed by her sovereign power. the supreme fascination: she does not enforce control through external tyrannical violence. she is sarvalokavaśaṅkarī because her essential nature is so boundlessly beautiful, blissful, and full of truth that every realm, deity, and living soul is naturally fascinated, drawn inward, and aligned under her command.",
     "esoteric": [
       "The Supreme Fascination: She does not enforce control through external tyrannical violence. She is Sarvalokavaśaṅkarī because Her essential nature is so boundlessly beautiful, blissful, and full of truth that every realm, deity, and living soul is naturally fascinated, drawn inward, and aligned under Her command."
     ]
@@ -14025,11 +14025,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "सर्वार्थदात्री means one who gives all aims of life. She grants the four puruṣārthas: dharma, artha, kāma and mokṣa. Thus every true human aim is obtained through Her grace."
+      "सर्वार्थदात्री means one who gives all aims of life. She grants the four puruṣārthas: dharma, artha, kāma, and mokṣa. Thus every true human aim is obtained through Her grace."
     ],
-    "searchText": "698 सर्वार्थदात्री सर्वेषां चतुर्णामर्थानां पुरुषार्थानां दात्री। word meanings are read directly from the samāsa expression above. सर्वार्थदात्री means one who gives all aims of life. she grants the four puruṣārthas: dharma, artha, kāma and mokṣa. thus every true human aim is obtained through her grace. the dispenser of the four aims: she handles the complete grid of the four human objectives: धर्म (righteousness), अर्थ (wealth), काम (desire), and मोक्ष (liberation). she ensures that her devotees do not suffer material lack while seeking spirit, nor get trapped in wealth without spirit, organizing a balanced distribution of all human aims.",
+    "searchText": "698 सर्वार्थदात्री सर्वेषां चतुर्णामर्थानां पुरुषार्थानां दात्री। word meanings are read directly from the samāsa expression above. सर्वार्थदात्री means one who gives all aims of life. she grants the four puruṣārthas: dharma, artha, kāma, and mokṣa. thus every true human aim is obtained through her grace. the dispenser of the four aims: she handles the complete grid of the four human objectives: धर्म, dharma, righteousness; अर्थ, artha, wealth; काम, kāma, desire; and मोक्ष, mokṣa, liberation. she ensures that her devotees do not suffer material lack while seeking spirit, nor get trapped in wealth without spirit, organizing a balanced distribution of all human aims.",
     "esoteric": [
-      "The Dispenser of the Four Aims: She handles the complete grid of the four human objectives: धर्म (righteousness), अर्थ (wealth), काम (desire), and मोक्ष (liberation). She ensures that Her devotees do not suffer material lack while seeking spirit, nor get trapped in wealth without spirit, organizing a balanced distribution of all human aims."
+      "The Dispenser of the Four Aims: She handles the complete grid of the four human objectives: धर्म, dharma, righteousness; अर्थ, artha, wealth; काम, kāma, desire; and मोक्ष, mokṣa, liberation. She ensures that Her devotees do not suffer material lack while seeking spirit, nor get trapped in wealth without spirit, organizing a balanced distribution of all human aims."
     ]
   },
   {
@@ -14042,11 +14042,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "सावित्री means She is Sāvitrī. Savitṛ is the creator or impeller of the world; She is the Śakti of that supreme source. The name also recalls the Gāyatrī-Sāvitrī contemplation connected with the Sun and the supreme being."
+      "सावित्री means one who is Sāvitrī. Savitṛ is the creator or impeller of the world; She is the Śakti of that supreme origin. The name also recalls the Gāyatrī-Sāvitrī contemplation connected with the Sun and the supreme being."
     ],
-    "searchText": "699 सावित्री सवितुर्जगत्प्रसूतेः परशिवस्येयं सावित्री। word meanings are read directly from the samāsa expression above. सावित्री means she is sāvitrī. savitṛ is the creator or impeller of the world; she is the śakti of that supreme source. the name also recalls the gāyatrī-sāvitrī contemplation connected with the sun and the supreme being. the power of the divine creator: सवीतृ (savitā) refers to the supreme generator of the universe—paramaśiva. she is his non-dual dynamic power (sāvitrī). this confirms her absolute identity with the inner essence of the gāyatrī mantra, acting as the brilliant light that awakens the spiritual intellect.",
+    "searchText": "699 सावित्री सवितुर्जगत्प्रसूतेः परशिवस्येयं सावित्री। word meanings are read directly from the samāsa expression above. सावित्री means one who is sāvitrī. savitṛ is the creator or impeller of the world; she is the śakti of that supreme origin. the name also recalls the gāyatrī-sāvitrī contemplation connected with the sun and the supreme being. the power of the divine creator: सवितृ, savitṛ, refers to the supreme generator of the universe, paramaśiva. she is his non-dual dynamic power, sāvitrī. this confirms her absolute identity with the inner essence of the gāyatrī-mantra, acting as the brilliant light that awakens the spiritual intellect.",
     "esoteric": [
-      "The Power of the Divine Creator: सवीतृ (Savitā) refers to the supreme generator of the universe—Paramaśiva. She is His non-dual dynamic power (Sāvitrī). This confirms Her absolute identity with the inner essence of the Gāyatrī Mantra, acting as the brilliant light that awakens the spiritual intellect."
+      "The Power of the Divine Creator: सवितृ, Savitṛ, refers to the supreme generator of the universe, paramaśiva. She is His non-dual dynamic power, Sāvitrī. This confirms Her absolute identity with the inner essence of the Gāyatrī-mantra, acting as the brilliant light that awakens the spiritual intellect."
     ]
   },
   {
@@ -14059,11 +14059,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "सच्चिदानन्दरूपिणी means one whose form is existence, consciousness and bliss. Sat, cit and ānanda together constitute Brahman. That Brahman is Śrīdevī; this completes the group of kalās described here."
+      "सच्चिदानन्दरूपिणी means one whose form is existence, consciousness, and bliss. sat, cit, and ānanda together constitute Brahman. That Brahman is Śrīdevī; this completes the group of kalās here."
     ],
-    "searchText": "700 सच्चिदानन्दरूपिणी सत्त्वं चित्त्वमानन्दश्च रूपं स्वरूपमस्या इति। word meanings are read directly from the samāsa expression above. सच्चिदानन्दरूपिणी means one whose form is existence, consciousness and bliss. sat, cit and ānanda together constitute brahman. that brahman is śrīdevī; this completes the group of kalās described here. the supreme definition of brahman: this name frames her identity with the unconditioned absolute. she is not a passing manifestation; her entire essential body is made of nothing but pure, uncorrupted, eternal existence (sat), infinite, self-luminous awareness (cit), and boundless, unshakeable bliss (ānanda), serving as the ultimate refuge of reality.",
+    "searchText": "700 सच्चिदानन्दरूपिणी सत्त्वं चित्त्वमानन्दश्च रूपं स्वरूपमस्या इति। word meanings are read directly from the samāsa expression above. सच्चिदानन्दरूपिणी means one whose form is existence, consciousness, and bliss. sat, cit, and ānanda together constitute brahman. that brahman is śrīdevī; this completes the group of kalās here. the supreme definition of brahman: this name frames her identity with the unconditioned absolute. she is not a passing manifestation; her entire essential body is made of nothing but pure, uncorrupted, eternal existence, sat, infinite self-luminous awareness, cit, and boundless, unshakeable bliss, ānanda, serving as the ultimate refuge of reality.",
     "esoteric": [
-      "The Supreme Definition of Brahman: This name frames Her identity with the unconditioned absolute. She is not a passing manifestation; Her entire essential body is made of nothing but pure, uncorrupted, eternal existence (Sat), infinite, self-luminous awareness (Cit), and boundless, unshakeable bliss (Ānanda), serving as the ultimate refuge of reality."
+      "The Supreme Definition of Brahman: This name frames Her identity with the unconditioned absolute. She is not a passing manifestation; Her entire essential body is made of nothing but pure, uncorrupted, eternal existence, sat, infinite self-luminous awareness, cit, and boundless, unshakeable bliss, ānanda, serving as the ultimate refuge of reality."
     ]
   },
   {
@@ -14076,11 +14076,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "देशकालापरिच्छिन्ना means one who is not limited by space and time. Some things are limited by place or time; She is eternal and available at all times, so such distinctions do not apply to Her. The meanings of Nityā, Nirnāśā and Vyāpinī are brought together in this name."
+      "देशकालापरिच्छिन्ना means one who is not limited by space and time. Some things are limited by place or time; She is eternal and available at all times, so such distinctions do not apply to Her. The meanings of Nityā, Nirnāśā, and Vyāpinī are brought together in this name."
     ],
-    "searchText": "701 देशकालापरिच्छिन्ना देशकालाभ्यामपरिच्छिन्ना। word meanings are read directly from the samāsa expression above. देशकालापरिच्छिन्ना means one who is not limited by space and time. some things are limited by place or time; she is eternal and available at all times, so such distinctions do not apply to her. the meanings of nityā, nirnāśā and vyāpinī are brought together in this name. spatial and temporal infinity: material entities exist at a specific location and endure for a finite duration. she is deśakālāparicchinnā because she stands completely outside these structural coordinates. she lacks spatial boundaries, meaning she is omnipresent; and she lacks temporal boundaries, meaning she is eternal. she acts as the baseline screen within which space and time themselves unfold.",
+    "searchText": "701 देशकालापरिच्छिन्ना देशकालाभ्यामपरिच्छिन्ना। word meanings are read directly from the samāsa expression above. देशकालापरिच्छिन्ना means one who is not limited by space and time. some things are limited by place or time; she is eternal and available at all times, so such distinctions do not apply to her. the meanings of nityā, nirnāśā, and vyāpinī are brought together in this name. spatial and temporal infinity: material entities exist at a specific location and endure for a finite duration. she is deśakālāparicchinnā because she stands completely outside these structural coordinates. she lacks spatial boundaries, meaning she is omnipresent, and she lacks temporal boundaries, meaning she is eternal. she acts as the baseline screen within which space and time themselves unfold.",
     "esoteric": [
-      "Spatial and Temporal Infinity: Material entities exist at a specific location and endure for a finite duration. She is Deśakālāparicchinnā because She stands completely outside these structural coordinates. She lacks spatial boundaries, meaning She is omnipresent; and She lacks temporal boundaries, meaning She is eternal. She acts as the baseline screen within which space and time themselves unfold."
+      "Spatial and Temporal Infinity: Material entities exist at a specific location and endure for a finite duration. She is Deśakālāparicchinnā because She stands completely outside these structural coordinates. She lacks spatial boundaries, meaning She is omnipresent, and She lacks temporal boundaries, meaning She is eternal. She acts as the baseline screen within which space and time themselves unfold."
     ]
   },
   {
@@ -14095,9 +14095,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "सर्वगा means one who pervades all. She reaches all things by non-difference and is present everywhere. No place or object is outside Her presence."
     ],
-    "searchText": "702 सर्वगा सर्वं वस्तुमात्रं गच्छत्यभेदेन प्राप्नोतीति सर्वगा। word meanings are read directly from the samāsa expression above. सर्वगा means one who pervades all. she reaches all things by non-difference and is present everywhere. no place or object is outside her presence. the pervasive substance: she does not simply move from place to place. she is sarvagā because she reaches and permeates every single objective entity (vastu-mātra) through absolute structural identity (अभेदेन). there is no gap between her consciousness field and the material forms it animates; she is the essential substance inside every coordinate of the universe.",
+    "searchText": "702 सर्वगा सर्वं वस्तुमात्रं गच्छत्यभेदेन प्राप्नोतीति सर्वगा। word meanings are read directly from the samāsa expression above. सर्वगा means one who pervades all. she reaches all things by non-difference and is present everywhere. no place or object is outside her presence. the pervasive substance: she does not simply move from place to place. she is sarvagā because she reaches and permeates every single objective entity, vastu-mātra, through absolute structural identity, अभेदेन. there is no gap between her consciousness field and the material forms it animates; she is the essential substance inside every coordinate of the universe.",
     "esoteric": [
-      "The Pervasive Substance: She does not simply move from place to place. She is Sarvagā because She reaches and permeates every single objective entity (vastu-mātra) through absolute structural identity (अभेदेन). There is no gap between Her consciousness field and the material forms it animates; She is the essential substance inside every coordinate of the universe."
+      "The Pervasive Substance: She does not simply move from place to place. She is Sarvagā because She reaches and permeates every single objective entity, vastu-mātra, through absolute structural identity, अभेदेन. There is no gap between Her consciousness field and the material forms it animates; She is the essential substance inside every coordinate of the universe."
     ]
   },
   {
@@ -14110,11 +14110,11 @@ window.LALITHA_NAMES = [
       "मोहयति — bewilders"
     ],
     "summary": [
-      "सर्वमोहिनी means one who bewilders all. She bewilders ordinary people who take apparent duality as real and deprives them of the knowledge of unity. The apparent difference between Brahman and the universe is illusory; this power of bewilderment is described also in Saptashatī."
+      "सर्वमोहिनी means one who bewilders all. She bewilders ordinary people who take apparent duality as real and deprives them of the knowledge of unity. The apparent difference between Brahman and the universe is illusory; this power of bewilderment is also part of Her play."
     ],
-    "searchText": "703 सर्वमोहिनी सर्वान्प्राकृतजनान् भेदभाने सत्यत्वं मन्यमानान् मोहयति अद्वैतविषयकज्ञानविधुरान् कुरुते इति। मोहयति — bewilders सर्वमोहिनी means one who bewilders all. she bewilders ordinary people who take apparent duality as real and deprives them of the knowledge of unity. the apparent difference between brahman and the universe is illusory; this power of bewilderment is described also in saptashatī. the magic of duality: as sarvamohinī, she binds those who view the relative world as an absolute reality (bheda-bhāna). she temporarily veils their non-dual realization (advaita-jñāna-vidhura), causing them to see differences instead of unity. this enchantment is the foundational mechanism that allows the cosmic play (līlā) to appear real to the individual observer.",
+    "searchText": "703 सर्वमोहिनी सर्वान्प्राकृतजनान् भेदभाने सत्यत्वं मन्यमानान् मोहयति अद्वैतविषयकज्ञानविधुरान् कुरुते इति। मोहयति — bewilders सर्वमोहिनी means one who bewilders all. she bewilders ordinary people who take apparent duality as real and deprives them of the knowledge of unity. the apparent difference between brahman and the universe is illusory; this power of bewilderment is also part of her play. the magic of duality: as sarvamohinī, she binds those who view the relative world as an absolute reality, bheda-bhāna. she temporarily veils their non-dual realization, advaita-jñāna-vidhura, causing them to see differences instead of unity. this enchantment is the foundational mechanism that allows the cosmic play, līlā, to appear real to the individual observer.",
     "esoteric": [
-      "The Magic of Duality: As Sarvamohinī, She binds those who view the relative world as an absolute reality (bheda-bhāna). She temporarily veils their non-dual realization (advaita-jñāna-vidhura), causing them to see differences instead of unity. This enchantment is the foundational mechanism that allows the cosmic play (Līlā) to appear real to the individual observer."
+      "The Magic of Duality: As Sarvamohinī, She binds those who view the relative world as an absolute reality, bheda-bhāna. She temporarily veils their non-dual realization, advaita-jñāna-vidhura, causing them to see differences instead of unity. This enchantment is the foundational mechanism that allows the cosmic play, līlā, to appear real to the individual observer."
     ]
   },
   {
@@ -14130,12 +14130,11 @@ window.LALITHA_NAMES = [
       "सरो — lake; water"
     ],
     "summary": [
-      "सरस्वती means She is the form of knowledge and speech, and the deity presiding over knowledge. Sarasvatī. She is like an ocean of knowledge and is also connected with the traditional form of Sarasvatī."
+      "सरस्वती means Sarasvatī, the form of knowledge and speech. She is the deity presiding over knowledge. She is like an ocean of knowledge and is also connected with the traditional form of Sarasvatī."
     ],
-    "searchText": "704 सरस्वती सरो नीरं तद्वत् रसो वा अस्त्यस्या इति। द्विवर्षा तु सरस्वतीति धौम्यवचनात्तादृशकन्यारूपति। विषयानवच्छिन्नज्ञानरूपेति। ज्ञानाभिमानिनी देवता ज्ञानसमुद्ररूपेत्यर्थः। सरो — lake; water सरस्वती means she is the form of knowledge and speech, and the deity presiding over knowledge. sarasvatī. she is like an ocean of knowledge and is also connected with the traditional form of sarasvatī. the shoreless ocean of wisdom: she is identical to the supreme goddess of wisdom, sarasvatī. she represents unconditioned awareness (viṣayānavacchinna-jñāna), flowing like a vast, fluid ocean of insight. ritual maidens: in the liturgical framework of kumārī-pūjā defined by sage dhaumya, she manifests as the pristine energy of a two-year-old girl, representing pure potential before worldly conditioning.",
+    "searchText": "704 सरस्वती सरो नीरं तद्वत् रसो वा अस्त्यस्या इति। द्विवर्षा तु सरस्वतीति धौम्यवचनात्तादृशकन्यारूपति। विषयानवच्छिन्नज्ञानरूपेति। ज्ञानाभिमानिनी देवता ज्ञानसमुद्ररूपेत्यर्थः। सरो — lake; water सरस्वती means sarasvatī, the form of knowledge and speech. she is the deity presiding over knowledge. she is like an ocean of knowledge and is also connected with the traditional form of sarasvatī. the shoreless ocean of wisdom: she is identical to the supreme goddess of wisdom, sarasvatī. she represents unconditioned awareness, viṣayānavacchinna-jñāna, flowing like a vast, fluid ocean of insight. in kumārī-pūjā, she manifests as the pristine energy of a two-year-old girl, representing pure potential before worldly conditioning.",
     "esoteric": [
-      "The Shoreless Ocean of Wisdom: She is identical to the supreme goddess of wisdom, Sarasvatī. She represents unconditioned awareness (viṣayānavacchinna-jñāna), flowing like a vast, fluid ocean of insight.",
-      "Ritual Maidens: In the liturgical framework of Kumārī-Pūjā defined by Sage Dhaumya, She manifests as the pristine energy of a two-year-old girl, representing pure potential before worldly conditioning."
+      "The Shoreless Ocean of Wisdom: She is identical to the supreme goddess of wisdom, Sarasvatī. She represents unconditioned awareness, viṣayānavacchinna-jñāna, flowing like a vast, fluid ocean of insight. In Kumārī-pūjā, She manifests as the pristine energy of a two-year-old girl, representing pure potential before worldly conditioning."
     ]
   },
   {
@@ -14149,11 +14148,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "शास्त्रमयी means one who is composed of śāstra. The scriptures beginning with teachings such as sarvaṃ khalvidaṃ brahma are centred on Her. Her body is understood as made of scripture, or as the source and transformation of śāstra."
+      "शास्त्रमयी means one who is composed of śāstra. Teachings such as sarvaṃ khalvidaṃ brahma are centred on Her. Her body is understood as made of scripture, or as the origin and transformation of śāstra."
     ],
-    "searchText": "705 शास्त्रमयी सर्वं खल्विदं ब्रह्मेत्यादिशास्त्रप्रधाना। शास्त्रात्मकस्वावयवशालिविग्रहत्वाच्छास्त्रविकारेत्यप्यर्थः। word meanings are read directly from the samāsa expression above. शास्त्रमयी means one who is composed of śāstra. the scriptures beginning with teachings such as sarvaṃ khalvidaṃ brahma are centred on her. her body is understood as made of scripture, or as the source and transformation of śāstra. the body of the sacred word: she is śāstramayī because her subtle body is woven out of the foundational declarations of non-duality, such as “sarvaṁ khalvidaṁ brahma” (\"all this is indeed brahman\"). every sacred science, text, and structural formula is a limb of her manifest form, making her the literal substance of divine revelation.",
+    "searchText": "705 शास्त्रमयी सर्वं खल्विदं ब्रह्मेत्यादिशास्त्रप्रधाना। शास्त्रात्मकस्वावयवशालिविग्रहत्वाच्छास्त्रविकारेत्यप्यर्थः। word meanings are read directly from the samāsa expression above. शास्त्रमयी means one who is composed of śāstra. teachings such as sarvaṃ khalvidaṃ brahma are centred on her. her body is understood as made of scripture, or as the origin and transformation of śāstra. the body of the sacred word: she is śāstramayī because her subtle body is woven out of the foundational declarations of non-duality, such as sarvaṃ khalvidaṃ brahma, all this is indeed brahman. every sacred science, text, and structural formula is a limb of her manifest form, making her the literal substance of divine revelation.",
     "esoteric": [
-      "The Body of the Sacred Word: She is Śāstramayī because Her subtle body is woven out of the foundational declarations of non-duality, such as “Sarvaṁ khalvidaṁ Brahma” (\"All this is indeed Brahman\"). every sacred science, text, and structural formula is a limb of Her manifest form, making Her the literal substance of divine revelation."
+      "The Body of the Sacred Word: She is Śāstramayī because Her subtle body is woven out of the foundational declarations of non-duality, such as sarvaṃ khalvidaṃ brahma, all this is indeed Brahman. Every sacred science, text, and structural formula is a limb of Her manifest form, making Her the literal substance of divine revelation."
     ]
   },
   {
@@ -14168,11 +14167,11 @@ window.LALITHA_NAMES = [
       "माता — mother"
     ],
     "summary": [
-      "गुहाम्बा means one who dwells in the cave. The cave is the heart. The Upaniṣadic idea of shadow and light in the cave of the heart is discussed here. The name may also mean the mother of Guha or Subrahmaṇya, as narrated in Purāṇic accounts."
+      "गुहाम्बा means one who dwells in the cave. The cave is the heart, where shadow and light are contemplated. The name may also mean the mother of Guha or Subrahmaṇya."
     ],
-    "searchText": "706 गुहाम्बा गुहायां स्थिताम्बा। गुहस्य स्कन्दस्याम्बा माता गुहस्य — of guha/subrahmaṇya माता — mother गुहाम्बा means one who dwells in the cave. the cave is the heart. the upaniṣadic idea of shadow and light in the cave of the heart is discussed here. the name may also mean the mother of guha or subrahmaṇya, as narrated in purāṇic accounts. the guardian of the secret cavern: mythologically, she is the mother of the warrior lord skanda (guha). esoterically, गुहा (guhā) refers to the hidden, secret cavern of the human heart. she is the primordial, protective mother energy (ambā) that sits inside this internal cave, guarding the individual spark of consciousness.",
+    "searchText": "706 गुहाम्बा गुहायां स्थिताम्बा। गुहस्य स्कन्दस्याम्बा माता गुहस्य — of guha/subrahmaṇya माता — mother गुहाम्बा means one who dwells in the cave. the cave is the heart, where shadow and light are contemplated. the name may also mean the mother of guha or subrahmaṇya. the guardian of the secret cavern: she is the mother of the warrior lord guha. inwardly, गुहा, guhā, refers to the hidden, secret cavern of the human heart. she is the primordial, protective mother energy, ambā, that sits inside this internal cave, guarding the individual spark of consciousness.",
     "esoteric": [
-      "The Guardian of the Secret Cavern: Mythologically, She is the mother of the warrior lord Skanda (Guha). Esoterically, गुहा (guhā) refers to the hidden, secret cavern of the human heart. She is the primordial, protective mother energy (Ambā) that sits inside this internal cave, guarding the individual spark of consciousness."
+      "The Guardian of the Secret Cavern: She is the mother of the warrior lord Guha. Inwardly, गुहा, guhā, refers to the hidden, secret cavern of the human heart. She is the primordial, protective mother energy, Ambā, that sits inside this internal cave, guarding the individual spark of consciousness."
     ]
   },
   {
@@ -14187,9 +14186,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "गुह्यरूपिणी means one whose form is most secret. The permanent truth is secret, beyond the phenomenal universe and beyond the senses. She is the secret knowledge residing in the secret place, beloved by secret devotees."
     ],
-    "searchText": "707 गुह्यरूपिणी गुहायां स्थितं गुह्यं परमरहस्यं व्यावहारिकदृष्ट्ययोग्यं ज्ञानमेव रूपमस्याः। word meanings are read directly from the samāsa expression above. गुह्यरूपिणी means one whose form is most secret. the permanent truth is secret, beyond the phenomenal universe and beyond the senses. she is the secret knowledge residing in the secret place, beloved by secret devotees. the transcendent secret: ordinary physical vision is tuned exclusively to capture relative, external material objects. her true, essential form is guhya — a supreme secret that cannot be objectified by common, worldly intellects (vyāvahārika-dṛṣṭi-ayogya). she is the unmanifested, mystical core of reality, realized solely through internal absorption.",
+    "searchText": "707 गुह्यरूपिणी गुहायां स्थितं गुह्यं परमरहस्यं व्यावहारिकदृष्ट्ययोग्यं ज्ञानमेव रूपमस्याः। word meanings are read directly from the samāsa expression above. गुह्यरूपिणी means one whose form is most secret. the permanent truth is secret, beyond the phenomenal universe and beyond the senses. she is the secret knowledge residing in the secret place, beloved by secret devotees. the transcendent secret: ordinary physical vision is tuned exclusively to capture relative, external material objects. her true, essential form is guhya, a supreme secret that cannot be objectified by common, worldly intellects, vyāvahārika-dṛṣṭi-ayogya. she is the unmanifested, mystical core of reality, realized solely through internal absorption.",
     "esoteric": [
-      "The Transcendent Secret: Ordinary physical vision is tuned exclusively to capture relative, external material objects. Her true, essential form is Guhya — a supreme secret that cannot be objectified by common, worldly intellects (vyāvahārika-dṛṣṭi-ayogya). She is the unmanifested, mystical core of reality, realized solely through internal absorption."
+      "The Transcendent Secret: Ordinary physical vision is tuned exclusively to capture relative, external material objects. Her true, essential form is Guhya, a supreme secret that cannot be objectified by common, worldly intellects, vyāvahārika-dṛṣṭi-ayogya. She is the unmanifested, mystical core of reality, realized solely through internal absorption."
     ]
   },
   {
@@ -14205,11 +14204,11 @@ window.LALITHA_NAMES = [
       "मुक्ता — free"
     ],
     "summary": [
-      "सर्वोपाधिविनिर्मुक्ता means one who is free from all limitations and adjuncts. Every attribute becomes a limiting adjunct of place, time or object. She is free from all such upādhis. The relation of qualities to the qualified thing is ultimately illusory; She, as Brahman, is unrelated to every limiting quality."
+      "सर्वोपाधिविनिर्मुक्ता means one who is free from all limitations and adjuncts. Every attribute becomes a limiting adjunct of place, time, or object. She is free from all such upādhis. The relation of qualities to the qualified thing is ultimately illusory; She, as Brahman, is unrelated to every limiting quality."
     ],
-    "searchText": "708 सर्वोपाधिविनिर्मुक्ता सर्वैः उपाधिभिः विशिष्य निःशेषेण मुक्ता त्यक्ता धर्मसम्बन्धशून्या। तार्किकप्रसिद्धोपाधिशून्या तादृशसद्धेतुगम्येति। सर्वैः — by all उपाधिभिः — by limiting adjuncts मुक्ता — free सर्वोपाधिविनिर्मुक्ता means one who is free from all limitations and adjuncts. every attribute becomes a limiting adjunct of place, time or object. she is free from all such upādhis. the relation of qualities to the qualified thing is ultimately illusory; she, as brahman, is unrelated to every limiting quality. absolute freedom from adjuncts: an upādhi is a conditioning lens—like a piece of red glass that makes a clear crystal appear red. space, time, names, forms, and elements are all cosmic lenses. she is sarvopādhivinirmuktā because in her pristine essential nature as parabrahman, she stands completely free from all these attributes (धर्मसम्बन्धशून्या), remaining unconditioned and pure.",
+    "searchText": "708 सर्वोपाधिविनिर्मुक्ता सर्वैः उपाधिभिः विशिष्य निःशेषेण मुक्ता त्यक्ता धर्मसम्बन्धशून्या। तार्किकप्रसिद्धोपाधिशून्या तादृशसद्धेतुगम्येति। सर्वैः — by all उपाधिभिः — by limiting adjuncts मुक्ता — free सर्वोपाधिविनिर्मुक्ता means one who is free from all limitations and adjuncts. every attribute becomes a limiting adjunct of place, time, or object. she is free from all such upādhis. the relation of qualities to the qualified thing is ultimately illusory; she, as brahman, is unrelated to every limiting quality. absolute freedom from adjuncts: an upādhi is a conditioning lens, like a piece of red glass that makes a clear crystal appear red. space, time, names, forms, and elements are all cosmic lenses. she is sarvopādhivinirmuktā because in her pristine essential nature as parabrahman, she stands completely free from all these attributes, धर्मसम्बन्धशून्या, remaining unconditioned and pure.",
     "esoteric": [
-      "Absolute Freedom from Adjuncts: An Upādhi is a conditioning lens—like a piece of red glass that makes a clear crystal appear red. Space, time, names, forms, and elements are all cosmic lenses. She is Sarvopādhivinirmuktā because in Her pristine essential nature as Parabrahman, She stands completely free from all these attributes (धर्मसम्बन्धशून्या), remaining unconditioned and pure."
+      "Absolute Freedom from Adjuncts: An upādhi is a conditioning lens, like a piece of red glass that makes a clear crystal appear red. Space, time, names, forms, and elements are all cosmic lenses. She is Sarvopādhivinirmuktā because in Her pristine essential nature as Parabrahman, She stands completely free from all these attributes, धर्मसम्बन्धशून्या, remaining unconditioned and pure."
     ]
   },
   {
@@ -14226,9 +14225,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "सदाशिवपतिव्रता means one who is the devoted spouse of Sadāśiva. She remains always with Śiva in all three times. This name establishes Her equality with, and inseparability from, Brahman while preserving the devotional image of Śiva and Śakti."
     ],
-    "searchText": "709 सदाशिवपतिव्रता शिव एव पतिरिति व्रतं नियमः सदा सार्वकालिको यस्याः सा। सदाशिवस्य पतिव्रतेति। सदा — always यस्याः — of whom; whose सदाशिवपतिव्रता means one who is the devoted spouse of sadāśiva. she remains always with śiva in all three times. this name establishes her equality with, and inseparability from, brahman while preserving the devotional image of śiva and śakti. the eternal fusion of consciousness and energy: this names the absolute, unbreakable dynamic law of non-duality. she (śakti) possesses an unceasing, timeless vow (sada-vrata) to never separate herself from sadāśiva (pure, static consciousness). energy cannot exist without consciousness, and consciousness cannot express itself without energy. they remain in an eternal, unbroken embrace.",
+    "searchText": "709 सदाशिवपतिव्रता शिव एव पतिरिति व्रतं नियमः सदा सार्वकालिको यस्याः सा। सदाशिवस्य पतिव्रतेति। सदा — always यस्याः — of whom; whose सदाशिवपतिव्रता means one who is the devoted spouse of sadāśiva. she remains always with śiva in all three times. this name establishes her equality with, and inseparability from, brahman while preserving the devotional image of śiva and śakti. the eternal fusion of consciousness and energy: this name reveals the absolute, unbreakable dynamic law of non-duality. she, śakti, possesses an unceasing, timeless vow, sadā-vrata, to never separate herself from sadāśiva, pure static consciousness. energy cannot exist without consciousness, and consciousness cannot express itself without energy. they remain in an eternal, unbroken embrace.",
     "esoteric": [
-      "The Eternal Fusion of Consciousness and Energy: This names the absolute, unbreakable dynamic law of non-duality. She (Śakti) possesses an unceasing, timeless vow (sada-vrata) to never separate Herself from Sadāśiva (pure, static consciousness). Energy cannot exist without consciousness, and consciousness cannot express itself without energy. They remain in an eternal, unbroken embrace."
+      "The Eternal Fusion of Consciousness and Energy: This name reveals the absolute, unbreakable dynamic law of non-duality. She, Śakti, possesses an unceasing, timeless vow, sadā-vrata, to never separate Herself from Sadāśiva, pure static consciousness. Energy cannot exist without consciousness, and consciousness cannot express itself without energy. They remain in an eternal, unbroken embrace."
     ]
   },
   {
@@ -14243,9 +14242,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "सम्प्रदायेश्वरी means one who is the ruler of the tradition. Sampradāya is that which is properly handed down from teacher to disciple. She is the authority and power behind that lineage and its transmission."
     ],
-    "searchText": "710 सम्प्रदायेश्वरी सम्यक् शिष्येभ्यः प्रदीयत इति सम्प्रदायः। तत्रेश्वरी समर्था समर्थनक्षमा। शिष्येभ्यः — to disciples सम्प्रदायेश्वरी means one who is the ruler of the tradition. sampradāya is that which is properly handed down from teacher to disciple. she is the authority and power behind that lineage and its transmission. the mistress of the lineage: सम्प्रदाय (sampradāya) is the uninterrupted chain through which sacred wisdom is correctly and directly transmitted from master to disciple (samyak pradīyate). she is the absolute ruler and animating spirit behind this entire pedagogical pipeline, ensuring that the initiatory power stays alive and uncorrupted across generations.",
+    "searchText": "710 सम्प्रदायेश्वरी सम्यक् शिष्येभ्यः प्रदीयत इति सम्प्रदायः। तत्रेश्वरी समर्था समर्थनक्षमा। शिष्येभ्यः — to disciples सम्प्रदायेश्वरी means one who is the ruler of the tradition. sampradāya is that which is properly handed down from teacher to disciple. she is the authority and power behind that lineage and its transmission. the mistress of the lineage: सम्प्रदाय, sampradāya, is the uninterrupted chain through which sacred wisdom is correctly and directly transmitted from master to disciple, samyak pradīyate. she is the absolute ruler and animating spirit behind this entire teaching current, ensuring that the initiatory power stays alive and uncorrupted across generations.",
     "esoteric": [
-      "The Mistress of the Lineage: सम्प्रदाय (Sampradāya) is the uninterrupted chain through which sacred wisdom is correctly and directly transmitted from master to disciple (samyak pradīyate). She is the absolute ruler and animating spirit behind this entire pedagogical pipeline, ensuring that the initiatory power stays alive and uncorrupted across generations."
+      "The Mistress of the Lineage: सम्प्रदाय, sampradāya, is the uninterrupted chain through which sacred wisdom is correctly and directly transmitted from master to disciple, samyak pradīyate. She is the absolute ruler and animating spirit behind this entire teaching current, ensuring that the initiatory power stays alive and uncorrupted across generations."
     ]
   },
   {
