@@ -15359,7 +15359,7 @@ window.LALITHA_NAMES = [
     ],
     "searchText": "772 दुराधर्षा दुःखरूप आधर्षः स्वायत्तीकरणं यस्याः सा। यस्याः — whose; of whom दुराधर्षा means one who is hard to resist or subdue. she cannot be attracted by luxury or strength. she is attained only through devotion. unconquerable by egoic assault: the individual ego often tries to conquer spiritual energy using aggressive manipulation, raw intellectual pride, or forced mechanical loops. she is durādharṣā because her field is completely unassailable. she bows to no external command, remaining independent (svātantrya) and accessible only through total surrender (prapatti).",
     "esoteric": [
-      "Unconquerable by Egoic Assault: The individual ego often tries to conquer spiritual energy using aggressive manipulation, raw intellectual pride, or forced mechanical loops. She is Durādharṣā because Her field is completely unassailable. She bows to no external command, remaining independent (Svātantrya) and accessible only through total surrender (prapatti)."
+      "Unconquerable by Egoic Assault: The individual ego often tries to conquer spiritual energy using aggressive manipulation, raw intellectual pride, or forced mechanical loops. She is Durādharṣā because Her field is completely unassailable. She bows to no external command, remaining independent (svātantrya) and accessible only through total surrender (prapatti)."
     ]
   },
   {
@@ -15373,11 +15373,11 @@ window.LALITHA_NAMES = [
       "यस्याः — whose; of whom"
     ],
     "summary": [
-      "पाटलीकुसुमप्रिया means one who is fond of the pāṭalī flower. This flower has a mixed red and white colour, suggesting the union of Śiva and Śakti. Other names also mention flowers dear to Śrīdevī, such as Kadamba, Campaka, Mandāra and the flower of consciousness."
+      "पाटलीकुसुमप्रिया means one who is fond of the pāṭalī flower. This flower has a mixed red and white colour, suggesting the union of Śiva and Śakti. Other names also mention flowers dear to Śrīdevī, such as kadamba, campaka, mandāra and the flower of consciousness."
     ],
-    "searchText": "773 पाटलीकुसुमप्रिया पाटलीनामकं कुसुमं प्रियं यस्याः सा। प्रियं — dear; desired यस्याः — whose; of whom पाटलीकुसुमप्रिया means one who is fond of the pāṭalī flower. this flower has a mixed red and white colour, suggesting the union of śiva and śakti. other names also mention flowers dear to śrīdevī, such as kadamba, campaka, mandāra and the flower of consciousness. the hue of balanced devotion: the pāṭalī flower exhibits a soft, pale-red or pink color metric. in tantric visualization, this specific shade represents a harmonious blending of intense devotion with quiet internal peace. offering this frequency back to her calms the practitioner's nervous system, realigning the heart channels.",
+    "searchText": "773 पाटलीकुसुमप्रिया पाटलीनामकं कुसुमं प्रियं यस्याः सा। प्रियं — dear; desired यस्याः — whose; of whom पाटलीकुसुमप्रिया means one who is fond of the pāṭalī flower. this flower has a mixed red and white colour, suggesting the union of śiva and śakti. other names also mention flowers dear to śrīdevī, such as kadamba, campaka, mandāra and the flower of consciousness. the hue of balanced devotion: the pāṭalī flower exhibits a soft, pale-red or pink colour. in tāntric visualization, this specific shade represents a harmonious blending of intense devotion with quiet internal peace. offering this frequency back to her calms the practitioner's nervous system, realigning the heart channels.",
     "esoteric": [
-      "The Hue of Balanced Devotion: The Pāṭalī flower exhibits a soft, pale-red or pink color metric. In Tantric visualization, this specific shade represents a harmonious blending of intense devotion with quiet internal peace. Offering this frequency back to Her calms the practitioner's nervous system, realigning the heart channels."
+      "The Hue of Balanced Devotion: The pāṭalī flower exhibits a soft, pale-red or pink colour. In tāntric visualization, this specific shade represents a harmonious blending of intense devotion with quiet internal peace. Offering this frequency back to Her calms the practitioner's nervous system, realigning the heart channels."
     ]
   },
   {
@@ -15393,13 +15393,11 @@ window.LALITHA_NAMES = [
       "Word meanings are read directly from the samāsa expression above."
     ],
     "summary": [
-      "महती means one who is very great. She is greater than the greatest, as indicated by the Upaniṣadic expression Mahato Mahīyān. Other things can be measured only through Her. The name also means one worthy of worship. Mahatī is also the name of Nārada's vīṇā; She is in that form also."
+      "महती means one who is very great. She is greater than the greatest, as indicated by the expression mahato mahīyān. Other things can be measured only through Her. The name also means one worthy of worship. This is also the name of Nārada's vīṇā; She is in that form also."
     ],
-    "searchText": "774 महती परममहत्परिमाणत्वात्। महान्कस्मान्मानेनान्याञ्जहतीति। महनीयो भवतीति। नारदमुनेर्वीणाविशेषो, तत्स्वरूपा। word meanings are read directly from the samāsa expression above. महती means one who is very great. she is greater than the greatest, as indicated by the upaniṣadic expression mahato mahīyān. other things can be measured only through her. the name also means one worthy of worship. mahatī is also the name of nārada's vīṇā; she is in that form also. the shoreless scale: she is mahatī because her metric of size represents absolute, infinite expansion, leaving nothing outside herself (मानेन अन्यान् जहतीति). the absolute object of worship: she commands automatic, timeless reverence from every tier of intelligence. the lute of resonance: mythologically, she is identical to the highly sacred lute (mahatī) played by sage nārada, acting as the soul of all spiritual harmonics.",
+    "searchText": "774 महती परममहत्परिमाणत्वात्। महान्कस्मान्मानेनान्याञ्जहतीति। महनीयो भवतीति। नारदमुनेर्वीणाविशेषो, तत्स्वरूपा। word meanings are read directly from the samāsa expression above. महती means one who is very great. she is greater than the greatest, as indicated by the expression mahato mahīyān. other things can be measured only through her. the name also means one worthy of worship. this is also the name of nārada's vīṇā; she is in that form also. the shoreless scale: she bears this name because her measure of size represents absolute, infinite expansion, leaving nothing outside herself (मानेन अन्यान् जहतीति). the absolute object of worship: she commands automatic, timeless reverence from every tier of intelligence. the lute of resonance: mythologically, she is identical to the highly sacred lute played by sage nārada, acting as the soul of all spiritual harmonics.",
     "esoteric": [
-      "The Shoreless Scale: She is Mahatī because Her metric of size represents absolute, infinite expansion, leaving nothing outside Herself (मानेन अन्यान् जहतीति).",
-      "The Absolute Object of Worship: She commands automatic, timeless reverence from every tier of intelligence.",
-      "The Lute of Resonance: Mythologically, She is identical to the highly sacred lute (Mahatī) played by Sage Nārada, acting as the soul of all spiritual harmonics."
+      "The Shoreless Scale: She bears this name because Her measure of size represents absolute, infinite expansion, leaving nothing outside Herself (मानेन अन्यान् जहतीति). The Absolute Object of Worship: She commands automatic, timeless reverence from every tier of intelligence. The Lute of Resonance: Mythologically, She is identical to the highly sacred lute played by Sage Nārada, acting as the soul of all spiritual harmonics."
     ]
   },
   {
@@ -15414,11 +15412,11 @@ window.LALITHA_NAMES = [
       "निलयः — abode"
     ],
     "summary": [
-      "मेरुनिलया means one who dwells in Meru. Meru is the golden mountain; Śrīdevī's Cintāmaṇi house is said to be on the central peak. After the destruction of Bhaṇḍāsura, the divine architects constructed the cities and abodes of Śrīdevī on the peaks and regions connected with Meru. In Śrīcakra worship, Meru-prastāra is one of the modes of contemplation, and She has that Meru as Her dwelling. Meru may also mean the nine-letter mantra from which all mantras arise, or the central point in a rosary or counting method; She dwells there also."
+      "मेरुनिलया means one who dwells in Meru. Meru is the golden mountain; Śrīdevī's Cintāmaṇi house is on the central peak. After the destruction of Bhaṇḍāsura, the divine architects constructed the cities and abodes of Śrīdevī on the peaks and regions connected with Meru. In Śrīcakra worship, Meru-prastāra is one of the modes of contemplation, and She has that Meru as Her dwelling. Meru may also mean the nine-letter mantra from which all mantras arise, or the central point in a rosary or counting method; She dwells there also."
     ],
-    "searchText": "775 मेरुनिलया मेरुरेव निलयो यस्याः सा। नवाक्षरो मन्त्रो मेरुपदवाच्यः स एव निलयः सर्वमन्त्रोद्भवस्थानं यस्याः सा। यस्याः — whose; of whom निलयः — abode मेरुनिलया means one who dwells in meru. meru is the golden mountain; śrīdevī's cintāmaṇi house is said to be on the central peak. after the destruction of bhaṇḍāsura, the divine architects constructed the cities and abodes of śrīdevī on the peaks and regions connected with meru. in śrīcakra worship, meru-prastāra is one of the modes of contemplation, and she has that meru as her dwelling. meru may also mean the nine-letter mantra from which all mantras arise, or the central point in a rosary or counting method; she dwells there also. the axis of the cosmos and mantras: geographically, she sits at the peak of mount meru, the golden center axis of planetary worlds. internally, meru corresponds to the vertical pillar of the suṣumṇā channel. critically, in high mantra grammar, meru refers to the supreme nine-syllabled code matrix that acts as the original source for all subsequent mantras. she sits at the absolute hub of this formula.",
+    "searchText": "775 मेरुनिलया मेरुरेव निलयो यस्याः सा। नवाक्षरो मन्त्रो मेरुपदवाच्यः स एव निलयः सर्वमन्त्रोद्भवस्थानं यस्याः सा। यस्याः — whose; of whom निलयः — abode मेरुनिलया means one who dwells in meru. meru is the golden mountain; śrīdevī's cintāmaṇi house is on the central peak. after the destruction of bhaṇḍāsura, the divine architects constructed the cities and abodes of śrīdevī on the peaks and regions connected with meru. in śrīcakra worship, meru-prastāra is one of the modes of contemplation, and she has that meru as her dwelling. meru may also mean the nine-letter mantra from which all mantras arise, or the central point in a rosary or counting method; she dwells there also. the axis of the cosmos and mantras: geographically, she sits at the peak of mount meru, the golden center axis of planetary worlds. internally, meru corresponds to the vertical pillar of the suṣumṇā channel. critically, in high mantra grammar, meru refers to the supreme nine-syllabled code matrix from which all subsequent mantras arise. she sits at the absolute hub of this formula.",
     "esoteric": [
-      "The Axis of the Cosmos and Mantras: Geographically, She sits at the peak of Mount Meru, the golden center axis of planetary worlds. Internally, Meru corresponds to the vertical pillar of the Suṣumṇā channel. Critically, in high mantra grammar, Meru refers to the supreme nine-syllabled code matrix that acts as the original source for all subsequent mantras. She sits at the absolute hub of this formula."
+      "The Axis of the Cosmos and Mantras: Geographically, She sits at the peak of Mount Meru, the golden center axis of planetary worlds. Internally, Meru corresponds to the vertical pillar of the suṣumṇā channel. Critically, in high mantra grammar, Meru refers to the supreme nine-syllabled code matrix from which all subsequent mantras arise. She sits at the absolute hub of this formula."
     ]
   },
   {
@@ -15428,16 +15426,16 @@ window.LALITHA_NAMES = [
       "मन्दारो देवतरुः श्वेतार्को वा तस्य कुसुमं प्रियं यस्याः सा।"
     ],
     "wordByWord": [
-      "मन्दारो — Mandara tree or flower",
+      "मन्दारो — mandāra tree or flower",
       "देवतरुः — celestial tree",
       "प्रियं — dear"
     ],
     "summary": [
-      "मन्दारकुसुमप्रिया means one who is fond of Mandara flowers. Mandara is a celestial tree and is also identified with the white arka flower. Flowers used in worship represent pure and fragrant devotion offered to Śrīdevī. As She was earlier described as dwelling in Meru, the heavenly Mandara flower is fittingly mentioned as dear to Her."
+      "मन्दारकुसुमप्रिया means one who is fond of mandāra flowers. Mandāra is a celestial tree and is also identified with the white arka flower. Flowers used in worship represent pure and fragrant devotion offered to Śrīdevī. As She was earlier described as dwelling in Meru, the heavenly mandāra flower fittingly remains dear to Her."
     ],
-    "searchText": "776 मन्दारकुसुमप्रिया मन्दारो देवतरुः श्वेतार्को वा तस्य कुसुमं प्रियं यस्याः सा। मन्दारो — mandara tree or flower देवतरुः — celestial tree प्रियं — dear मन्दारकुसुमप्रिया means one who is fond of mandara flowers. mandara is a celestial tree and is also identified with the white arka flower. flowers used in worship represent pure and fragrant devotion offered to śrīdevī. as she was earlier described as dwelling in meru, the heavenly mandara flower is fittingly mentioned as dear to her. the ray of unfading light: the mandāra is a legendary tree of the heavenly worlds whose blossoms never fade. earthly liturgy maps it onto the highly potent śvetārka (white calotropis). this flower represents pure, uncorrupted, and resilient solar energy. offering this frequency back to her signifies the surrender of one's immortal potential, stabilizing the internal centers.",
+    "searchText": "776 मन्दारकुसुमप्रिया मन्दारो देवतरुः श्वेतार्को वा तस्य कुसुमं प्रियं यस्याः सा। मन्दारो — mandāra tree or flower देवतरुः — celestial tree प्रियं — dear मन्दारकुसुमप्रिया means one who is fond of mandāra flowers. mandāra is a celestial tree and is also identified with the white arka flower. flowers used in worship represent pure and fragrant devotion offered to śrīdevī. as she was earlier described as dwelling in meru, the heavenly mandāra flower fittingly remains dear to her. the ray of unfading light: the mandāra is a legendary tree of the heavenly worlds whose blossoms never fade. earthly liturgy maps it onto the highly potent śvetārka, or white calotropis. this flower represents pure, uncorrupted, and resilient solar energy. offering this frequency back to her signifies the surrender of one's immortal potential, stabilizing the internal centers.",
     "esoteric": [
-      "The Ray of Unfading Light: The Mandāra is a legendary tree of the heavenly worlds whose blossoms never fade. Earthly liturgy maps it onto the highly potent Śvetārka (white calotropis). This flower represents pure, uncorrupted, and resilient solar energy. Offering this frequency back to Her signifies the surrender of one's immortal potential, stabilizing the internal centers."
+      "The Ray of Unfading Light: The mandāra is a legendary tree of the heavenly worlds whose blossoms never fade. Earthly liturgy maps it onto the highly potent śvetārka, or white calotropis. This flower represents pure, uncorrupted, and resilient solar energy. Offering this frequency back to Her signifies the surrender of one's immortal potential, stabilizing the internal centers."
     ]
   },
   {
@@ -15450,11 +15448,11 @@ window.LALITHA_NAMES = [
       "वीरैः — by heroes"
     ],
     "summary": [
-      "वीराराध्या means one who is worshipped by heroes. Vira means a heroic worshipper, one who has steadiness, courage and fitness for the path of worship. Śrīdevī is adored by such qualified upasakas who are firm in practice and are not overcome by fear or weakness."
+      "वीराराध्या means one who is worshipped by heroes. Vīra means a heroic worshipper, one who has steadiness, courage and fitness for the path of worship. Śrīdevī is adored by such qualified upāsakas who are firm in practice and are not overcome by fear or weakness."
     ],
-    "searchText": "777 वीराराध्या वीरैः आराध्या। वीरैः — by heroes वीराराध्या means one who is worshipped by heroes. vira means a heroic worshipper, one who has steadiness, courage and fitness for the path of worship. śrīdevī is adored by such qualified upasakas who are firm in practice and are not overcome by fear or weakness. the path of heroic consecration: in agamic classification, practitioners are stratified into three temperaments: paśu (bound/animalistic), vīra (heroic/dynamic), and divya (divine/absorbed). she is vīrārādhyā because she is correctly approached through the वीर-भाव (vīra-bhāva) — the path of intense, courageous, and uncompromising internal discipline where the seeker treats their own egoic doubts as enemies to be crushed, fighting forward without fear.",
+    "searchText": "777 वीराराध्या वीरैः आराध्या। वीरैः — by heroes वीराराध्या means one who is worshipped by heroes. vīra means a heroic worshipper, one who has steadiness, courage and fitness for the path of worship. śrīdevī is adored by such qualified upāsakas who are firm in practice and are not overcome by fear or weakness. the path of heroic consecration: in āgamic classification, practitioners are stratified into three temperaments: paśu (bound), vīra (heroic), and divya (divine). she is vīrārādhyā because she is correctly approached through vīra-bhāva, the path of intense, courageous, and uncompromising internal discipline where the seeker treats their own egoic doubts as enemies to be crushed, fighting forward without fear.",
     "esoteric": [
-      "The Path of Heroic Consecration: In Agamic classification, practitioners are stratified into three temperaments: Paśu (bound/animalistic), Vīra (heroic/dynamic), and Divya (divine/absorbed). She is Vīrārādhyā because She is correctly approached through the वीर-भाव (Vīra-bhāva) — the path of intense, courageous, and uncompromising internal discipline where the seeker treats their own egoic doubts as enemies to be crushed, fighting forward without fear."
+      "The Path of Heroic Consecration: In āgamic classification, practitioners are stratified into three temperaments: paśu (bound), vīra (heroic), and divya (divine). She is Vīrārādhyā because She is correctly approached through vīra-bhāva, the path of intense, courageous, and uncompromising internal discipline where the seeker treats their own egoic doubts as enemies to be crushed, fighting forward without fear."
     ]
   },
   {
@@ -15464,14 +15462,14 @@ window.LALITHA_NAMES = [
       "विराड् रूपं यस्याः सा।"
     ],
     "wordByWord": [
-      "विराड् — cosmic form; Virat"
+      "विराड् — cosmic form; virāṭ"
     ],
     "summary": [
-      "विराड्रूपा means one whose form is the Virat. The Virat is the cosmic form, the gross universal body. All beings and worlds are included in that vast manifestation. Śrīdevī is not merely an individual deity-form; She is the universal form itself."
+      "विराड्रूपा means one whose form is the virāṭ. The virāṭ is the cosmic form, the gross universal body. All beings and worlds are included in that vast manifestation. Śrīdevī is not merely an individual deity-form; She is the universal form itself."
     ],
-    "searchText": "778 विराड्रूपा विराड् रूपं यस्याः सा। विराड् — cosmic form; virat विराड्रूपा means one whose form is the virat. the virat is the cosmic form, the gross universal body. all beings and worlds are included in that vast manifestation. śrīdevī is not merely an individual deity-form; she is the universal form itself. the visible garment of god: lest a practitioner think that she remains hidden only in secret unmanifested corners, this name establishes that the entire visible, physical universe—stars, mountains, oceans, and living shapes—is her macrocosmic body (virāṭ-sūtra). every atom seen is a cell of her physical form, proving her presence in the element layer.",
+    "searchText": "778 विराड्रूपा विराड् रूपं यस्याः सा। विराड् — cosmic form; virāṭ विराड्रूपा means one whose form is the virāṭ. the virāṭ is the cosmic form, the gross universal body. all beings and worlds are included in that vast manifestation. śrīdevī is not merely an individual deity-form; she is the universal form itself. the visible garment of god: lest a practitioner think that she remains hidden only in secret unmanifested corners, this name establishes that the entire visible, physical universe, including stars, mountains, oceans, and living shapes, is her macrocosmic body (virāṭ-sūtra). every atom seen is a cell of her physical form, proving her presence in the element layer.",
     "esoteric": [
-      "The Visible Garment of God: Lest a practitioner think that She remains hidden only in secret unmanifested corners, this name establishes that the entire visible, physical universe—stars, mountains, oceans, and living shapes—is Her macrocosmic body (Virāṭ-sūtra). Every atom seen is a cell of Her physical form, proving Her presence in the element layer."
+      "The Visible Garment of God: Lest a practitioner think that She remains hidden only in secret unmanifested corners, this name establishes that the entire visible, physical universe, including stars, mountains, oceans, and living shapes, is Her macrocosmic body (virāṭ-sūtra). Every atom seen is a cell of Her physical form, proving Her presence in the element layer."
     ]
   },
   {
@@ -15485,11 +15483,11 @@ window.LALITHA_NAMES = [
       "रजः — rajas; dust; impurity; sin"
     ],
     "summary": [
-      "विरजा means one who is free from rajas or impurity. Rajas may mean dust, passion, activity or sin. She is untouched by these impurities. She is pure consciousness, beyond the taint of karma and the agitations born of rajas."
+      "विरजा means one who is free from rajas or impurity. rajas may mean dust, passion, activity or sin. She is untouched by these impurities. She is pure consciousness, beyond the taint of karma and the agitations born of rajas."
     ],
     "searchText": "779 विरजा विगतं रजः पापं यस्याः सा। विगतं — gone; free from रजः — rajas; dust; impurity; sin विरजा means one who is free from rajas or impurity. rajas may mean dust, passion, activity or sin. she is untouched by these impurities. she is pure consciousness, beyond the taint of karma and the agitations born of rajas. the spotless screen: रजस् (rajas) represents the dust of mental agitation, binding desires, and the stains of karmic impurity (pāpa). she is virajā because her essential nature is completely free from this friction. she remains an unblemished screen, allowing worlds to turn without gathering any dark residue.",
     "esoteric": [
-      "The Spotless Screen: रजस् (Rajas) represents the dust of mental agitation, binding desires, and the stains of karmic impurity (pāpa). She is Virajā because Her essential nature is completely free from this friction. She remains an unblemished screen, allowing worlds to turn without gathering any dark residue."
+      "The Spotless Screen: रजस् (rajas) represents the dust of mental agitation, binding desires, and the stains of karmic impurity (pāpa). She is Virajā because Her essential nature is completely free from this friction. She remains an unblemished screen, allowing worlds to turn without gathering any dark residue."
     ]
   },
   {
@@ -15526,9 +15524,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "प्रत्यग्रूपा means one whose form is the inner Self. Pratyag means inward or inner. Her real form is known by turning within. She is not merely an external object of worship but the innermost consciousness in the worshipper."
     ],
-    "searchText": "781 प्रत्यग्रूपा प्रत्यगवलोक्यमानं रूपं स्वरूपं यस्याः सा। प्रत्यगवलोक्यमानं — component from the samasa above रूपं — component from the samasa above स्वरूपं — component from the samasa above यस्याः — component from the samasa above सा। — component from the samasa above प्रत्यग्रूपा means one whose form is the inner self. pratyag means inward or inner. her real form is known by turning within. she is not merely an external object of worship but the innermost consciousness in the worshipper. the subjective core: most human tracking looks outward (parāñci) to process objects. she is pratyagrūpā because her form is discovered exclusively when the attention is turned 180 degrees backward, looking directly into the internal observer (pratyag-ātman). she is the ultimate inner subject, found by tracking the source of the \"i\" sensation.",
+    "searchText": "781 प्रत्यग्रूपा प्रत्यगवलोक्यमानं रूपं स्वरूपं यस्याः सा। प्रत्यगवलोक्यमानं — component from the samasa above रूपं — component from the samasa above स्वरूपं — component from the samasa above यस्याः — component from the samasa above सा। — component from the samasa above प्रत्यग्रूपा means one whose form is the inner self. pratyag means inward or inner. her real form is known by turning within. she is not merely an external object of worship but the innermost consciousness in the worshipper. the subjective core: most human tracking looks outward (parāñci) to process objects. she is pratyagrūpā because her form is discovered exclusively when the attention is turned 180 degrees backward, looking directly into the internal observer (pratyag-ātman). she is the ultimate inner subject, found by tracking the origin of the \"i\" sensation.",
     "esoteric": [
-      "The Subjective Core: Most human tracking looks outward (parāñci) to process objects. She is Pratyagrūpā because Her form is discovered exclusively when the attention is turned 180 degrees backward, looking directly into the internal observer (pratyag-ātman). She is the ultimate inner subject, found by tracking the source of the \"I\" sensation."
+      "The Subjective Core: Most human tracking looks outward (parāñci) to process objects. She is Pratyagrūpā because Her form is discovered exclusively when the attention is turned 180 degrees backward, looking directly into the internal observer (pratyag-ātman). She is the ultimate inner subject, found by tracking the origin of the \"I\" sensation."
     ]
   },
   {
@@ -15543,12 +15541,11 @@ window.LALITHA_NAMES = [
       "पर — higher; supreme"
     ],
     "summary": [
-      "पराकाशा means one who is the supreme ether. Akasha is space; Parakasha is the higher and subtler space beyond ordinary physical space. She is the supreme expanse of consciousness in which everything appears and into which everything resolves. The samasa also allows meanings connected with removal of sin and suffering through supreme tapas."
+      "पराकाशा means one who is the supreme ether. Ākāśa is space; parākāśa is the higher and subtler space beyond ordinary physical space. She is the supreme expanse of consciousness in which everything appears and into which everything resolves. The samāsa also allows meanings connected with removal of sin and suffering through supreme tapas."
     ],
-    "searchText": "782 पराकाशा पर उत्कृष्टश्चासावाकाशश्च। पराकशब्दः कृच्छ्रविशेषवाचकः संस्तपोमात्रोपलक्षकः तस्य आशा दिक्। परे उत्कृष्टे अके पापदुःखे अश्नाति नाशयतीति। पर — higher; supreme पराकाशा means one who is the supreme ether. akasha is space; parakasha is the higher and subtler space beyond ordinary physical space. she is the supreme expanse of consciousness in which everything appears and into which everything resolves. the samasa also allows meanings connected with removal of sin and suffering through supreme tapas. the ultimate sky of spirit: she is the parākāśa — the pristine, unconditioned, and high-velocity space of pure consciousness (cidākāśa) that sits above and inside the material space element. the purifier of distress: alternatively, she functions as the absolute target of intense physical penance (parāka-tapas), and acts as the active force that devours (aśnati) the practitioner's stored sins and existential suffering (aka).",
+    "searchText": "782 पराकाशा पर उत्कृष्टश्चासावाकाशश्च। पराकशब्दः कृच्छ्रविशेषवाचकः संस्तपोमात्रोपलक्षकः तस्य आशा दिक्। परे उत्कृष्टे अके पापदुःखे अश्नाति नाशयतीति। पर — higher; supreme पराकाशा means one who is the supreme ether. ākāśa is space; parākāśa is the higher and subtler space beyond ordinary physical space. she is the supreme expanse of consciousness in which everything appears and into which everything resolves. the samāsa also allows meanings connected with removal of sin and suffering through supreme tapas. the ultimate sky of spirit: she is the parākāśa, the pristine, unconditioned, and high-velocity space of pure consciousness (cidākāśa) that sits above and inside the material space element. the purifier of distress: alternatively, she functions as the absolute target of intense physical penance (parāka-tapas), and acts as the active force that devours (aśnati) the practitioner's stored sins and existential suffering (aka).",
     "esoteric": [
-      "The Ultimate Sky of Spirit: She is the Parākāśa — the pristine, unconditioned, and high-velocity space of pure consciousness (Cidākāśa) that sits above and inside the material space element.",
-      "The Purifier of Distress: Alternatively, She functions as the absolute target of intense physical penance (parāka-tapas), and acts as the active force that devours (aśnati) the practitioner's stored sins and existential suffering (aka)."
+      "The Ultimate Sky of Spirit: She is the parākāśa, the pristine, unconditioned, and high-velocity space of pure consciousness (cidākāśa) that sits above and inside the material space element. The Purifier of Distress: Alternatively, She functions as the absolute target of intense physical penance (parāka-tapas), and acts as the active force that devours (aśnati) the practitioner's stored sins and existential suffering (aka)."
     ]
   },
   {
@@ -15562,9 +15559,9 @@ window.LALITHA_NAMES = [
       "दत्ते — gives"
     ],
     "summary": [
-      "प्राणदा means one who gives life-breath. prāṇa is the vital force by which living beings function. Śrīdevī grants and sustains prana in all beings; life itself is Her gift."
+      "प्राणदा means one who gives life-breath. Prāṇa is the vital force by which living beings function. Śrīdevī grants and sustains prāṇa in all beings; life itself is Her gift."
     ],
-    "searchText": "783 प्राणदा प्राणान् दत्ते इति। प्राणान् — life-breaths दत्ते — gives प्राणदा means one who gives life-breath. prāṇa is the vital force by which living beings function. śrīdevī grants and sustains prana in all beings; life itself is her gift. the fountain of life: physical bodies are merely cold combinations of element matter until they are animated by the vital breaths (prāṇa). she is prāṇadā because she dispenses this underlying life-force currency, breathing her active energy into the biological shell to initiate heartbeat, breath, and sensory transmission.",
+    "searchText": "783 प्राणदा प्राणान् दत्ते इति। प्राणान् — life-breaths दत्ते — gives प्राणदा means one who gives life-breath. prāṇa is the vital force by which living beings function. śrīdevī grants and sustains prāṇa in all beings; life itself is her gift. the fountain of life: physical bodies are merely cold combinations of element matter until they are animated by the vital breaths (prāṇa). she is prāṇadā because she dispenses this underlying life-force currency, breathing her active energy into the biological shell to initiate heartbeat, breath, and sensory transmission.",
     "esoteric": [
       "The Fountain of Life: Physical bodies are merely cold combinations of element matter until they are animated by the vital breaths (prāṇa). She is Prāṇadā because She dispenses this underlying life-force currency, breathing Her active energy into the biological shell to initiate heartbeat, breath, and sensory transmission."
     ]
@@ -15580,11 +15577,11 @@ window.LALITHA_NAMES = [
       "ब्रह्म — Brahman"
     ],
     "summary": [
-      "प्राणरूपिणी means one who is in the form of prana. prāṇa is also understood as Brahman in the scriptures. She is the life-principle itself, not merely the giver of life."
+      "प्राणरूपिणी means one who is in the form of prāṇa. Prāṇa is also understood as Brahman. She is the life-principle itself, not merely the giver of life."
     ],
-    "searchText": "784 प्राणरूपिणी प्राणः ब्रह्म रूपं यस्याः सा। प्राणः — life-breath; vital force ब्रह्म — brahman प्राणरूपिणी means one who is in the form of prana. prāṇa is also understood as brahman in the scriptures. she is the life-principle itself, not merely the giver of life. identity with the life current: lest a student think she is a distant deity who simply hands over breath like a machine, this name establishes her body is the vital life current itself (prāṇa-svarūpa). every internal movement of energy running through the nāḍīs is the literal pulsing of her cosmic form inside the practitioner.",
+    "searchText": "784 प्राणरूपिणी प्राणः ब्रह्म रूपं यस्याः सा। प्राणः — life-breath; vital force ब्रह्म — brahman प्राणरूपिणी means one who is in the form of prāṇa. prāṇa is also understood as brahman. she is the life-principle itself, not merely the giver of life. identity with the life current: lest a student think she is a distant deity who simply hands over breath like a machine, this name establishes her body is the vital life current itself (prāṇa-svarūpa). every internal movement of energy running through the nāḍīs is the literal pulsing of her cosmic form inside the practitioner.",
     "esoteric": [
-      "Identity with the Life Current: Lest a student think She is a distant deity who simply hands over breath like a machine, this name establishes Her body is the vital life current itself (Prāṇa-svarūpa). Every internal movement of energy running through the Nāḍīs is the literal pulsing of Her cosmic form inside the practitioner."
+      "Identity with the Life Current: Lest a student think She is a distant deity who simply hands over breath like a machine, this name establishes Her body is the vital life current itself (prāṇa-svarūpa). Every internal movement of energy running through the nāḍīs is the literal pulsing of Her cosmic form inside the practitioner."
     ]
   },
   {
@@ -15594,12 +15591,12 @@ window.LALITHA_NAMES = [
       "मार्ताण्डभैरवाभ्यामाराध्या।"
     ],
     "wordByWord": [
-      "मार्ताण्डभैरवाभ्यामाराध्या। — component from the samasa above"
+      "मार्ताण्डभैरवाभ्यामाराध्या। — component from the samāsa above"
     ],
     "summary": [
-      "मार्ताण्डभैरवाराध्या means one who is worshipped by Martanda Bhairava. Martanda is connected with the Sun and Bhairava with the fierce form of Śiva. Even such powerful deities worship Her, showing Her supreme status in the tradition."
+      "मार्ताण्डभैरवाराध्या means one who is worshipped by Mārtāṇḍa Bhairava. Mārtāṇḍa is connected with the Sun and Bhairava with the fierce form of Śiva. Even such powerful deities worship Her, showing Her supreme status in the tradition."
     ],
-    "searchText": "785 मार्ताण्डभैरवाराध्या मार्ताण्डभैरवाभ्यामाराध्या। मार्ताण्डभैरवाभ्यामाराध्या। — component from the samasa above मार्ताण्डभैरवाराध्या means one who is worshipped by martanda bhairava. martanda is connected with the sun and bhairava with the fierce form of śiva. even such powerful deities worship her, showing her supreme status in the tradition. adoration by the solar commander: mārtāṇḍa bhairava represents the high-velocity, blazing solar consciousness that commands the defense of the energetic grid. his adoration at her feet demonstrates that even the most brilliant, crushing solar forces in nature act as entry-level ministers submissive to her central throne.",
+    "searchText": "785 मार्ताण्डभैरवाराध्या मार्ताण्डभैरवाभ्यामाराध्या। मार्ताण्डभैरवाभ्यामाराध्या। — component from the samāsa above मार्ताण्डभैरवाराध्या means one who is worshipped by mārtāṇḍa bhairava. mārtāṇḍa is connected with the sun and bhairava with the fierce form of śiva. even such powerful deities worship her, showing her supreme status in the tradition. adoration by the solar commander: mārtāṇḍa bhairava represents the high-velocity, blazing solar consciousness that commands the defense of the energetic grid. his adoration at her feet demonstrates that even the most brilliant, crushing solar forces in nature act as entry-level ministers submissive to her central throne.",
     "esoteric": [
       "Adoration by the Solar Commander: Mārtāṇḍa Bhairava represents the high-velocity, blazing solar consciousness that commands the defense of the energetic grid. His adoration at Her feet demonstrates that even the most brilliant, crushing solar forces in nature act as entry-level ministers submissive to Her central throne."
     ]
@@ -15617,9 +15614,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "मन्त्रिणीन्यस्तराज्यधूः means one who placed the burden of the kingdom upon Mantriṇī. Mantriṇī, the minister-deity of Śrīdevī, is entrusted with the administration of Her empire. The name indicates the royal order of Śrīdevī's kingdom and the confidence with which She delegates the work of governance to Her ministerial power."
     ],
-    "searchText": "786 मन्त्रिणीन्यस्तराज्यधूः मन्त्रिणः नयतीति मन्त्रिणी। तस्मिन् न्यस्ता राज्यस्य स्वसाम्राज्यरूपस्यैक्यरहस्यस्य धूः तज्जनकतावच्छेदको धर्मो यया सा। न्यस्ता — entrusted; placed राज्यस्य — of kingdom मन्त्रिणीन्यस्तराज्यधूः means one who placed the burden of the kingdom upon mantriṇī. mantriṇī, the minister-deity of śrīdevī, is entrusted with the administration of her empire. the name indicates the royal order of śrīdevī's kingdom and the confidence with which she delegates the work of governance to her ministerial power. the delegation of governance: she sits at the absolute center of the śrī cakra as pure, unmoving, non-dual bliss. to run the heavy, complex mechanics of universe administration and scriptural instruction, she delegates the complete operational burden (dhura) to her trusted minister mantriṇī (goddess śyāmalā). this allows the practitioner to approach the minister first to gain clean access to the queen.",
+    "searchText": "786 मन्त्रिणीन्यस्तराज्यधूः मन्त्रिणः नयतीति मन्त्रिणी। तस्मिन् न्यस्ता राज्यस्य स्वसाम्राज्यरूपस्यैक्यरहस्यस्य धूः तज्जनकतावच्छेदको धर्मो यया सा। न्यस्ता — entrusted; placed राज्यस्य — of kingdom मन्त्रिणीन्यस्तराज्यधूः means one who placed the burden of the kingdom upon mantriṇī. mantriṇī, the minister-deity of śrīdevī, is entrusted with the administration of her empire. the name indicates the royal order of śrīdevī's kingdom and the confidence with which she delegates the work of governance to her ministerial power. the delegation of governance: she sits at the absolute center of the śrīcakra as pure, unmoving, non-dual bliss. to run the heavy, complex mechanics of universe administration and scriptural instruction, she delegates the complete operational burden (dhura) to her trusted minister mantriṇī, goddess śyāmalā. this allows the practitioner to approach the minister first to gain clean access to the queen.",
     "esoteric": [
-      "The Delegation of Governance: She sits at the absolute center of the Śrī Cakra as pure, unmoving, non-dual bliss. To run the heavy, complex mechanics of universe administration and scriptural instruction, She delegates the complete operational burden (dhura) to Her trusted minister Mantriṇī (Goddess Śyāmalā). This allows the practitioner to approach the minister first to gain clean access to the Queen."
+      "The Delegation of Governance: She sits at the absolute center of the Śrīcakra as pure, unmoving, non-dual bliss. To run the heavy, complex mechanics of universe administration and scriptural instruction, She delegates the complete operational burden (dhura) to Her trusted minister Mantriṇī, Goddess Śyāmalā. This allows the practitioner to approach the minister first to gain clean access to the Queen."
     ]
   },
   {
@@ -15636,11 +15633,11 @@ window.LALITHA_NAMES = [
       "तदभेदादियमम्बापि। — component from the samasa above"
     ],
     "summary": [
-      "त्रिपुरेशी means one who is the ruler of Tripurā. Tripurā means the three cities, the three states, or the threefold universe. She is the sovereign of all triplicities and is identified with the Tripureshi of the Śrī cakra tradition."
+      "त्रिपुरेशी means one who is the ruler of Tripurā. Tripurā means the three cities, the three states, or the threefold universe. She is the sovereign of all triplicities and is identified with Tripureśī of the Śrīcakra tradition."
     ],
-    "searchText": "787 त्रिपुरेशी त्रिपुराणामीशी। सर्वाशापरिपूरकचक्राधीश्वर्यास्त्रिपुरेशीति नाम। तदभेदादियमम्बापि। त्रिपुराणामीशी। — component from the samasa above सर्वाशापरिपूरकचक्राधीश्वर्यास्त्रिपुरेशीति — component from the samasa above नाम। — component from the samasa above तदभेदादियमम्बापि। — component from the samasa above त्रिपुरेशी means one who is the ruler of tripurā. tripurā means the three cities, the three states, or the threefold universe. she is the sovereign of all triplicities and is identified with the tripureshi of the śrī cakra tradition. the ruler of the outer ring: in the anatomy of the śrī yantra, tripureśī is the specific administrative deity placed in absolute charge of the fifth major enclosure—the सर्वाशापरिपूरक चक्र (sarvāśāparipūraka cakra — the circle that fulfills all desires). she is non-different from this structural goddess, commanding the fulfillment of spiritual aspirations.",
+    "searchText": "787 त्रिपुरेशी त्रिपुराणामीशी। सर्वाशापरिपूरकचक्राधीश्वर्यास्त्रिपुरेशीति नाम। तदभेदादियमम्बापि। त्रिपुराणामीशी। — component from the samasa above सर्वाशापरिपूरकचक्राधीश्वर्यास्त्रिपुरेशीति — component from the samasa above नाम। — component from the samasa above तदभेदादियमम्बापि। — component from the samasa above त्रिपुरेशी means one who is the ruler of tripurā. tripurā means the three cities, the three states, or the threefold universe. she is the sovereign of all triplicities and is identified with tripureśī of the śrīcakra tradition. the ruler of the outer ring: in the anatomy of the śrīyantra, tripureśī is the specific administrative deity placed in absolute charge of the fifth major enclosure, the सर्वाशापरिपूरक चक्र (sarvāśāparipūraka cakra), the circle that fulfills all desires. she is non-different from this structural goddess, commanding the fulfillment of spiritual aspirations.",
     "esoteric": [
-      "The Ruler of the Outer Ring: In the anatomy of the Śrī Yantra, Tripureśī is the specific administrative deity placed in absolute charge of the fifth major enclosure—the सर्वाशापरिपूरक चक्र (Sarvāśāparipūraka Cakra — the circle that fulfills all desires). She is non-different from this structural goddess, commanding the fulfillment of spiritual aspirations."
+      "The Ruler of the Outer Ring: In the anatomy of the Śrīyantra, Tripureśī is the specific administrative deity placed in absolute charge of the fifth major enclosure, the सर्वाशापरिपूरक चक्र (sarvāśāparipūraka cakra), the circle that fulfills all desires. She is non-different from this structural goddess, commanding the fulfillment of spiritual aspirations."
     ]
   },
   {
@@ -15656,9 +15653,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "जयत्सेना means one whose army is victorious. Her army consists of divine Śaktis who always overcome hostile forces. The victory of Her army symbolises the victory of divine knowledge and power over ignorance and obstruction."
     ],
-    "searchText": "788 जयत्सेना जयन्ती सेना शक्तिसमूहो यस्याः सा। जयन्ती — victorious सेना — army जयत्सेना means one whose army is victorious. her army consists of divine śaktis who always overcome hostile forces. the victory of her army symbolises the victory of divine knowledge and power over ignorance and obstruction. the victorious host of shaktis: her \"army\" (senā) is the corporate assembly of internal energy channels, guardian deities, and structural light rays that fight against ignorance. this host is jayantī — it cannot be checked, defeated, or turned back by chaotic forces, ensuring the eventual victory of the sincere seeker.",
+    "searchText": "788 जयत्सेना जयन्ती सेना शक्तिसमूहो यस्याः सा। जयन्ती — victorious सेना — army जयत्सेना means one whose army is victorious. her army consists of divine śaktis who always overcome hostile forces. the victory of her army symbolises the victory of divine knowledge and power over ignorance and obstruction. the victorious host of śaktis: her army (senā) is the corporate assembly of internal energy channels, guardian deities, and structural light rays that fight against ignorance. this host is jayantī; it cannot be checked, defeated, or turned back by chaotic forces, ensuring the eventual victory of the sincere seeker.",
     "esoteric": [
-      "The Victorious Host of Shaktis: Her \"army\" (Senā) is the corporate assembly of internal energy channels, guardian deities, and structural light rays that fight against ignorance. This host is jayantī — it cannot be checked, defeated, or turned back by chaotic forces, ensuring the eventual victory of the sincere seeker."
+      "The Victorious Host of Śaktis: Her army (senā) is the corporate assembly of internal energy channels, guardian deities, and structural light rays that fight against ignorance. This host is jayantī; it cannot be checked, defeated, or turned back by chaotic forces, ensuring the eventual victory of the sincere seeker."
     ]
   },
   {
@@ -15671,11 +15668,11 @@ window.LALITHA_NAMES = [
       "निर्गतं — gone; free from"
     ],
     "summary": [
-      "निस्त्रैगुण्या means one who is beyond the three gunas. Sattva, rajas and tamas belong to Prakriti and to the manifested world. Though She manifests through them, in Her supreme nature She is free from their limitation."
+      "निस्त्रैगुण्या means one who is beyond the three guṇas. sattva, rajas and tamas belong to prakṛti and to the manifested world. Though She manifests through them, in Her supreme nature She is free from their limitation."
     ],
-    "searchText": "789 निस्त्रैगुण्या निर्गतं त्रैगुण्यं गुणत्रयवत्त्वं यस्याः  सा। निर्गतं — gone; free from निस्त्रैगुण्या means one who is beyond the three gunas. sattva, rajas and tamas belong to prakriti and to the manifested world. though she manifests through them, in her supreme nature she is free from their limitation. beyond the element play: while she manifests the three qualities to construct forms (triguṇātmikā), her essential, unconditioned nature as parabrahman sits completely past this triad (nirguṇa). she instructs the practitioner to step out of the shifting currents of light, motion, and mass, anchoring themselves in her clean, quality-less space.",
+    "searchText": "789 निस्त्रैगुण्या निर्गतं त्रैगुण्यं गुणत्रयवत्त्वं यस्याः  सा। निर्गतं — gone; free from निस्त्रैगुण्या means one who is beyond the three guṇas. sattva, rajas and tamas belong to prakṛti and to the manifested world. though she manifests through them, in her supreme nature she is free from their limitation. beyond the element play: while she manifests the three qualities to construct forms (triguṇātmikā), her essential, unconditioned nature as parabrahman sits completely past this triad (nirguṇa). she instructs the practitioner to step out of the shifting currents of light, motion, and mass, anchoring themselves in her clean, quality-less space.",
     "esoteric": [
-      "Beyond the Element Play: While She manifests the three qualities to construct forms (Triguṇātmikā), Her essential, unconditioned nature as Parabrahman sits completely past this triad (Nirguṇa). She instructs the practitioner to step out of the shifting currents of light, motion, and mass, anchoring themselves in Her clean, quality-less space."
+      "Beyond the Element Play: While She manifests the three qualities to construct forms (triguṇātmikā), Her essential, unconditioned nature as Parabrahman sits completely past this triad (nirguṇa). She instructs the practitioner to step out of the shifting currents of light, motion, and mass, anchoring themselves in Her clean, quality-less space."
     ]
   },
   {
@@ -15692,11 +15689,11 @@ window.LALITHA_NAMES = [
       "वाचकस्तत्स्वरूपा। — component from the samasa above"
     ],
     "summary": [
-      "परापरा means one who is both para and apara. Para means the supreme, and apara means the lower or manifested form. She is both the transcendental Reality and the manifested universe; therefore She is Para-apara."
+      "परापरा means one who is both parā and aparā. Parā means the supreme, and aparā means the lower or manifested form. She is both the transcendental Reality and the manifested universe; therefore She is parā-aparā."
     ],
-    "searchText": "790 परापरा परशब्दोऽपरशब्दः परापरशब्दो वा यस्य वाचकस्तत्स्वरूपा। परशब्दोऽपरशब्दः — component from the samasa above परापरशब्दो — component from the samasa above वा — component from the samasa above यस्य — component from the samasa above वाचकस्तत्स्वरूपा। — component from the samasa above परापरा means one who is both para and apara. para means the supreme, and apara means the lower or manifested form. she is both the transcendental reality and the manifested universe; therefore she is para-apara. the non-dual integration: she is both परा (parā — the hidden, formless, unconditioned absolute) and अपरा (aparā — the visible, multiform, material universe of objects). she does not exclude the relative world to stay holy, nor does she lose her absolute status when projecting forms. she is the holistic reality that integrates both dimensions simultaneously, leaving zero room for structural duality.",
+    "searchText": "790 परापरा परशब्दोऽपरशब्दः परापरशब्दो वा यस्य वाचकस्तत्स्वरूपा। परशब्दोऽपरशब्दः — component from the samasa above परापरशब्दो — component from the samasa above वा — component from the samasa above यस्य — component from the samasa above वाचकस्तत्स्वरूपा। — component from the samasa above परापरा means one who is both parā and aparā. parā means the supreme, and aparā means the lower or manifested form. she is both the transcendental reality and the manifested universe; therefore she is parā-aparā. the non-dual integration: she is both परा (parā), the hidden, formless, unconditioned absolute, and अपरा (aparā), the visible, multiform, material universe of objects. she does not exclude the relative world to stay holy, nor does she lose her absolute status when projecting forms. she is the holistic reality that integrates both dimensions simultaneously, leaving zero room for structural duality.",
     "esoteric": [
-      "The Non-Dual Integration: She is both परा (Parā — the hidden, formless, unconditioned absolute) and अपरा (Aparā — the visible, multiform, material universe of objects). She does not exclude the relative world to stay holy, nor does She lose Her absolute status when projecting forms. She is the holistic reality that integrates both dimensions simultaneously, leaving zero room for structural duality."
+      "The Non-Dual Integration: She is both परा (parā), the hidden, formless, unconditioned absolute, and अपरा (aparā), the visible, multiform, material universe of objects. She does not exclude the relative world to stay holy, nor does She lose Her absolute status when projecting forms. She is the holistic reality that integrates both dimensions simultaneously, leaving zero room for structural duality."
     ]
   },
   {
