@@ -16499,20 +16499,20 @@ window.LALITHA_NAMES = [
       "प्रकृष्टोऽणः शब्दो वेदरूपस्तदीश्वरी तत्प्रतिपाद्यदेवता।"
     ],
     "wordByWord": [
-      "प्राणानाम् — of the pranas or vital powers",
+      "प्राणानाम् — of the prāṇas or vital powers",
       "इन्द्रियाणाम् — of the senses",
       "अधिष्ठातृत्वात् — because of presiding over",
       "ईश्वरी — ruler; governing goddess",
-      "प्राणस्य — of prana",
+      "प्राणस्य — of prāṇa",
       "पञ्चवृत्तिकस्य — having five functions",
       "अधिपतिः — lord; ruler"
     ],
     "summary": [
-      "प्राणेश्वरी means one who is the ruler of the pranas. prāṇa also denotes the vital functions and the senses. Śrīdevī presides over them and directs their activity. She is also the deity indicated by the Vedic sound, which is the highest form of sacred speech."
+      "प्राणेश्वरी means one who is the ruler of the prāṇas. Prāṇa also denotes the vital functions and the senses. Śrīdevī presides over them and directs their activity. She is also the deity indicated by the highest form of sacred speech."
     ],
-    "searchText": "831 प्राणेश्वरी प्राणानामिन्द्रियाणामधिष्ठातृत्वादीश्वरी। प्राणस्य पञ्चवृत्तिकस्याधिपतिर्वा। प्रकृष्टोऽणः शब्दो वेदरूपस्तदीश्वरी तत्प्रतिपाद्यदेवता। प्राणानाम् — of the pranas or vital powers इन्द्रियाणाम् — of the senses अधिष्ठातृत्वात् — because of presiding over ईश्वरी — ruler; governing goddess प्राणस्य — of prana पञ्चवृत्तिकस्य — having five functions अधिपतिः — lord; ruler प्राणेश्वरी means one who is the ruler of the pranas. prāṇa also denotes the vital functions and the senses. śrīdevī presides over them and directs their activity. she is also the deity indicated by the vedic sound, which is the highest form of sacred speech. the ruler of the five breaths: she is the supreme director governing the five-fold life current (prāṇa, apāna, vyāna, udāna, samāna). concurrently, she rules over the sensory apparatus networks (indriyas). under the phonic key, she is the inner consciousness targeted by the refined words of the veda (pra-aṇa).",
+    "searchText": "831 प्राणेश्वरी प्राणानामिन्द्रियाणामधिष्ठातृत्वादीश्वरी। प्राणस्य पञ्चवृत्तिकस्याधिपतिर्वा। प्रकृष्टोऽणः शब्दो वेदरूपस्तदीश्वरी तत्प्रतिपाद्यदेवता। प्राणानाम् — of the prāṇas or vital powers इन्द्रियाणाम् — of the senses अधिष्ठातृत्वात् — because of presiding over ईश्वरी — ruler; governing goddess प्राणस्य — of prāṇa पञ्चवृत्तिकस्य — having five functions अधिपतिः — lord; ruler प्राणेश्वरी means one who is the ruler of the prāṇas. prāṇa also denotes the vital functions and the senses. śrīdevī presides over them and directs their activity. she is also the deity indicated by the highest form of sacred speech. the ruler of the five breaths: she is the supreme director governing the five-fold life current: prāṇa, apāna, vyāna, udāna and samāna. concurrently, she rules over the sensory apparatus networks (indriyas). under the phonic key, she is the inner consciousness targeted by refined sacred sound (pra-aṇa).",
     "esoteric": [
-      "The Ruler of the Five Breaths: She is the supreme director governing the five-fold life current (prāṇa, apāna, vyāna, udāna, samāna). Concurrently, She rules over the sensory apparatus networks (indriyas). Under the phonic key, She is the inner consciousness targeted by the refined words of the Veda (pra-aṇa)."
+      "The Ruler of the Five Breaths: She is the supreme director governing the five-fold life current: prāṇa, apāna, vyāna, udāna and samāna. Concurrently, She rules over the sensory apparatus networks (indriyas). Under the phonic key, She is the inner consciousness targeted by refined sacred sound (pra-aṇa)."
     ]
   },
   {
@@ -16522,15 +16522,15 @@ window.LALITHA_NAMES = [
       "प्राणानां दात्री।"
     ],
     "wordByWord": [
-      "प्राणानाम् — of the pranas",
+      "प्राणानाम् — of the prāṇas",
       "दात्री — giver; bestower"
     ],
     "summary": [
-      "प्राणदात्री means one who gives prana. All life-breath and vitality proceed from Her. The living being functions because She grants the vital force."
+      "प्राणदात्री means one who gives prāṇa. All life-breath and vitality proceed from Her. The living being functions because She grants the vital force."
     ],
-    "searchText": "832 प्राणदात्री प्राणानां दात्री। प्राणानाम् — of the pranas दात्री — giver; bestower प्राणदात्री means one who gives prana. all life-breath and vitality proceed from her. the living being functions because she grants the vital force. the dispenser of vitality: she does not simply watch over the energy fields; she actively dispenses the actual currency of life-force (prāṇa) required to keep the physical tissues viable, ensuring that the biological framework remains integrated so the soul can complete its evolution.",
+    "searchText": "832 प्राणदात्री प्राणानां दात्री। प्राणानाम् — of the prāṇas दात्री — giver; bestower प्राणदात्री means one who gives prāṇa. all life-breath and vitality proceed from her. the living being functions because she grants the vital force. the dispenser of vitality: she does not simply watch over the energy fields; she actively dispenses the actual currency of life-force (prāṇa) required to keep the physical tissues viable, ensuring that the biological framework remains integrated so the soul can complete its evolution.",
     "esoteric": [
-      "The Dispenser of Vitality: She does not simply watch over the energy fields; She actively dispenses the actual currency of life-force (Prāṇa) required to keep the physical tissues viable, ensuring that the biological framework remains integrated so the soul can complete its evolution."
+      "The Dispenser of Vitality: She does not simply watch over the energy fields; She actively dispenses the actual currency of life-force (prāṇa) required to keep the physical tissues viable, ensuring that the biological framework remains integrated so the soul can complete its evolution."
     ]
   },
   {
@@ -16541,18 +16541,18 @@ window.LALITHA_NAMES = [
     ],
     "wordByWord": [
       "पञ्चाशत् — fifty",
-      "पीठ — sacred seat or pitha",
+      "पीठ — sacred seat or pīṭha",
       "रूपिणी — whose form is",
-      "कामरूपादि — beginning with Kamarupa",
-      "छायाछत्रान्त — ending with Chayachatra",
-      "पीठानि — pithas; sacred seats"
+      "कामरूपादि — beginning with Kāmarūpa",
+      "छायाछत्रान्त — ending with Chāyāchatra",
+      "पीठानि — pīṭhas; sacred seats"
     ],
     "summary": [
-      "पञ्चाशत्पीठरूपिणी means one whose form is the fifty-one pithas. The sacred seats beginning with Kamarupa and ending with Chayachatra are Her own forms. Thus the entire field of Śakti worship is included in Her body."
+      "पञ्चाशत्पीठरूपिणी means one whose form is the fifty-one pīṭhas. The sacred seats beginning with Kāmarūpa and ending with Chāyāchatra are Her own forms. Thus the entire field of Śakti worship is included in Her body."
     ],
-    "searchText": "833 पञ्चाशत्पीठरूपिणी कामरूपादिच्छायाछत्रान्तैकपञ्चाशत्पीठानि रूपमस्याः अस्तीति। पञ्चाशत् — fifty पीठ — sacred seat or pitha रूपिणी — whose form is कामरूपादि — beginning with kamarupa छायाछत्रान्त — ending with chayachatra पीठानि — pithas; sacred seats पञ्चाशत्पीठरूपिणी means one whose form is the fifty-one pithas. the sacred seats beginning with kamarupa and ending with chayachatra are her own forms. thus the entire field of śakti worship is included in her body. the geography of energy: the manifest landscape features fifty-one highly strategic energy vortexes (śākta-pīṭhas), running from kāmarūpa down to chāyāchhatra. internally, these seats correspond perfectly to the fifty-one phonic letters of the sanskrit alphabet (mātṛkā) distributed across the petals of the subtle body. she is the integrated grid that coordinates this entire layout.",
+    "searchText": "833 पञ्चाशत्पीठरूपिणी कामरूपादिच्छायाछत्रान्तैकपञ्चाशत्पीठानि रूपमस्याः अस्तीति। पञ्चाशत् — fifty पीठ — sacred seat or pīṭha रूपिणी — whose form is कामरूपादि — beginning with kāmarūpa छायाछत्रान्त — ending with chāyāchatra पीठानि — pīṭhas; sacred seats पञ्चाशत्पीठरूपिणी means one whose form is the fifty-one pīṭhas. the sacred seats beginning with kāmarūpa and ending with chāyāchatra are her own forms. thus the entire field of śakti worship is included in her body. the geography of energy: the manifest landscape features fifty-one highly strategic energy vortexes (śākta-pīṭhas), running from kāmarūpa down to chāyāchatra. internally, these seats correspond to the fifty-one phonic letters of the alphabet (mātṛkā) distributed across the petals of the subtle body. she is the integrated grid that coordinates this entire layout.",
     "esoteric": [
-      "The Geography of Energy: The manifest landscape features fifty-one highly strategic energy vortexes (Śākta-Pīṭhas), running from Kāmarūpa down to Chāyāchhatra. Internally, these seats correspond perfectly to the fifty-one phonic letters of the Sanskrit alphabet (Mātṛkā) distributed across the petals of the subtle body. She is the integrated grid that coordinates this entire layout."
+      "The Geography of Energy: The manifest landscape features fifty-one highly strategic energy vortexes (Śākta-pīṭhas), running from Kāmarūpa down to Chāyāchatra. Internally, these seats correspond to the fifty-one phonic letters of the alphabet (mātṛkā) distributed across the petals of the subtle body. She is the integrated grid that coordinates this entire layout."
     ]
   },
   {
@@ -16572,7 +16572,7 @@ window.LALITHA_NAMES = [
     ],
     "searchText": "834 विश‍ृङ्खला विगता शृङ्खला यस्याः सा। वि — without; free from शृङ्खला — chain; fetter विगतशृङ्खला — one whose chain has gone यस्याः सा — she whose विश‍ृङ्खला means one who is free from chains. a chain indicates bondage, dependence or limitation. she is unbound, independent and beyond every fetter. the unconditioned infinite: human minds are bound by the iron chains of linear logic, social convention, and emotional filters. the physical world is bound by laws of limitation. she is viśṛṅkhalā because her essential nature stands completely past these boundary lines, operating with absolute, unrestricted freedom (svātantrya).",
     "esoteric": [
-      "The Unconditioned Infinite: Human minds are bound by the iron chains of linear logic, social convention, and emotional filters. The physical world is bound by laws of limitation. She is Viśṛṅkhalā because Her essential nature stands completely past these boundary lines, operating with absolute, unrestricted freedom (Svātantrya)."
+      "The Unconditioned Infinite: Human minds are bound by the iron chains of linear logic, social convention, and emotional filters. The physical world is bound by laws of limitation. She is Viśṛṅkhalā because Her essential nature stands completely past these boundary lines, operating with absolute, unrestricted freedom (svātantrya)."
     ]
   },
   {
@@ -16590,11 +16590,11 @@ window.LALITHA_NAMES = [
       "आत्मानात्मविवेकशीलेषु — in those who discriminate Self and non-Self"
     ],
     "summary": [
-      "विविक्तस्था means one who abides in solitude and purity. Vivikta also means discrimination between the Self and the non-Self. She is present in the pure place and in the minds of those established in discrimination."
+      "विविक्तस्था means one who abides in solitude and purity. vivikta also means discrimination between the Self and the non-Self. She is present in the pure place and in the minds of those established in discrimination."
     ],
     "searchText": "835 विविक्तस्था विविक्ते पवित्रे विजने स्थले तिष्ठतीति। विविक्ते आत्मानात्मविवेकशीलेषु तिष्ठतीति। विविक्ते — in a pure, solitary or discriminating place पवित्रे — in purity विजने स्थले — in a secluded place तिष्ठति — abides आत्मानात्मविवेकशीलेषु — in those who discriminate self and non-self विविक्तस्था means one who abides in solitude and purity. vivikta also means discrimination between the self and the non-self. she is present in the pure place and in the minds of those established in discrimination. the coordinate of discernment: geometrically and physically, she loves silent, pure, and undisturbed spaces free from chaotic noise. internally, vivikta refers to the sharp, highly refined capacity to differentiate the eternal self from the transient non-self (आत्मानात्मविवेक). she stations herself directly inside intellects that possess this clarity.",
     "esoteric": [
-      "The Coordinate of Discernment: Geometrically and physically, She loves silent, pure, and undisturbed spaces free from chaotic noise. Internally, Vivikta refers to the sharp, highly refined capacity to differentiate the eternal Self from the transient non-self (आत्मानात्मविवेक). She stations Herself directly inside intellects that possess this clarity."
+      "The Coordinate of Discernment: Geometrically and physically, She loves silent, pure, and undisturbed spaces free from chaotic noise. Internally, vivikta refers to the sharp, highly refined capacity to differentiate the eternal Self from the transient non-self (आत्मानात्मविवेक). She stations Herself directly inside intellects that possess this clarity."
     ]
   },
   {
@@ -16606,17 +16606,17 @@ window.LALITHA_NAMES = [
     ],
     "wordByWord": [
       "वीराः — heroes; qualified worshippers",
-      "उपासकधुरन्धराः — eminent upasakas",
+      "उपासकधुरन्धराः — eminent upāsakas",
       "माता — mother",
-      "जननी — mother; source",
+      "जननी — mother; origin",
       "रणे अभिमुखे हताः — those who face battle and are slain"
     ],
     "summary": [
-      "वीरमाता means mother of heroes. Vira means the heroic upasaka, one fit for the demanding path of worship. She is the mother and source of such courageous devotees."
+      "वीरमाता means mother of heroes. Vīra means the heroic upāsaka, one fit for the demanding path of worship. She is the mother and origin of such courageous devotees."
     ],
-    "searchText": "836 वीरमाता वीरा उपासकधुरन्धरा, रणे अभिमुखे हता वा। तेषां माता जननी। वीरं मद्यस्य भाजने इति विश्वकोशात्पानपात्रं तन्मातीति वीराः — heroes; qualified worshippers उपासकधुरन्धराः — eminent upasakas माता — mother जननी — mother; source रणे अभिमुखे हताः — those who face battle and are slain वीरमाता means mother of heroes. vira means the heroic upasaka, one fit for the demanding path of worship. she is the mother and source of such courageous devotees. the mother of the fearless: vīras are those advanced, courageous practitioners (upāsaka-dhurandharāḥ) who treat spiritual practice as a martial campaign against their own internal limitations. she acts as their proud maternal source (mātā). under the agamic key, she is the intelligence that formats the sacred ritual vessel, containing the nectar of transformation.",
+    "searchText": "836 वीरमाता वीरा उपासकधुरन्धरा, रणे अभिमुखे हता वा। तेषां माता जननी। वीरं मद्यस्य भाजने इति विश्वकोशात्पानपात्रं तन्मातीति वीराः — heroes; qualified worshippers उपासकधुरन्धराः — eminent upāsakas माता — mother जननी — mother; origin रणे अभिमुखे हताः — those who face battle and are slain वीरमाता means mother of heroes. vīra means the heroic upāsaka, one fit for the demanding path of worship. she is the mother and origin of such courageous devotees. the mother of the fearless: vīras are advanced, courageous practitioners (upāsaka-dhurandharāḥ) who treat spiritual practice as a martial campaign against their own internal limitations. she acts as their proud maternal origin (mātā). under the ritual key, she is the intelligence that formats the sacred vessel containing the nectar of transformation.",
     "esoteric": [
-      "The Mother of the Fearless: Vīras are those advanced, courageous practitioners (upāsaka-dhurandharāḥ) who treat spiritual practice as a martial campaign against their own internal limitations. She acts as their proud maternal source (Mātā). Under the Agamic key, She is the intelligence that formats the sacred ritual vessel, containing the nectar of transformation."
+      "The Mother of the Fearless: Vīras are advanced, courageous practitioners (upāsaka-dhurandharāḥ) who treat spiritual practice as a martial campaign against their own internal limitations. She acts as their proud maternal origin (mātā). Under the ritual key, She is the intelligence that formats the sacred vessel containing the nectar of transformation."
     ]
   },
   {
@@ -16626,16 +16626,16 @@ window.LALITHA_NAMES = [
       "वियत आकाशस्य प्रसूर्जनिका।"
     ],
     "wordByWord": [
-      "वियत् — space; akasha",
+      "वियत् — space; ākāśa",
       "प्रसूः — mother; progenitress",
       "जनिका — producer; mother"
     ],
     "summary": [
-      "वियत्प्रसूः means mother of space. Viyat means akasha, the element of space. Space itself is born from Her; therefore She is the source of the subtle elements."
+      "वियत्प्रसूः means mother of space. Viyat means ākāśa, the element of space. Space itself is born from Her; therefore She is the origin of the subtle elements."
     ],
-    "searchText": "837 वियत्प्रसूः वियत आकाशस्य प्रसूर्जनिका। वियत् — space; akasha प्रसूः — mother; progenitress जनिका — producer; mother वियत्प्रसूः means mother of space. viyat means akasha, the element of space. space itself is born from her; therefore she is the source of the subtle elements. the sky before the sky: space (akāśa) is the first element projected during creation, providing the room within which the other elements can step down. she is viyatprasūḥ because she stands before this first boundary, acting as the parent consciousness that breathes out the space matrix itself.",
+    "searchText": "837 वियत्प्रसूः वियत आकाशस्य प्रसूर्जनिका। वियत् — space; ākāśa प्रसूः — mother; progenitress जनिका — producer; mother वियत्प्रसूः means mother of space. viyat means ākāśa, the element of space. space itself is born from her; therefore she is the origin of the subtle elements. the sky before the sky: space (ākāśa) is the first element projected during creation, providing the room within which the other elements can step down. she is viyatprasūḥ because she stands before this first boundary, acting as the parent consciousness that breathes out the space matrix itself.",
     "esoteric": [
-      "The Sky before the Sky: Space (Akāśa) is the first element projected during creation, providing the room within which the other elements can step down. She is Viyatprasūḥ because She stands before this first boundary, acting as the parent consciousness that breathes out the space matrix itself."
+      "The Sky before the Sky: Space (ākāśa) is the first element projected during creation, providing the room within which the other elements can step down. She is Viyatprasūḥ because She stands before this first boundary, acting as the parent consciousness that breathes out the space matrix itself."
     ]
   },
   {
@@ -16649,12 +16649,12 @@ window.LALITHA_NAMES = [
       "मुक्तिम् — liberation",
       "ददाति — gives",
       "मुकुन्दा — giver of liberation",
-      "विष्णुरूपत्वात् — because of being in the form of Vishnu"
+      "विष्णुरूपत्वात् — because of being in the form of Viṣṇu"
     ],
     "summary": [
-      "मुकुन्दा means one who gives liberation. Mukunda is one who grants mukti. The name also recalls Her identity with Viṣṇu, who is traditionally called Mukunda."
+      "मुकुन्दा means one who gives liberation. Mukunda is one who grants mukti. The name also recalls Her identity with Viṣṇu, who is called Mukunda."
     ],
-    "searchText": "838 मुकुन्दा मुक्तिं ददातीति मुकुन्दा। विष्णुरूपत्वाद्वा। मुक्तिम् — liberation ददाति — gives मुकुन्दा — giver of liberation विष्णुरूपत्वात् — because of being in the form of vishnu मुकुन्दा means one who gives liberation. mukunda is one who grants mukti. the name also recalls her identity with viṣṇu, who is traditionally called mukunda. the non-dual pervasive savior: mukunda is a celebrated title for lord viṣṇu as the savior who grants liberation. she is mukundā because she is completely identical with this preserving and liberating light field. she steps across nominal boundaries, confirming that the energy of viṣṇu is her own dynamic presence.",
+    "searchText": "838 मुकुन्दा मुक्तिं ददातीति मुकुन्दा। विष्णुरूपत्वाद्वा। मुक्तिम् — liberation ददाति — gives मुकुन्दा — giver of liberation विष्णुरूपत्वात् — because of being in the form of viṣṇu मुकुन्दा means one who gives liberation. mukunda is one who grants mukti. the name also recalls her identity with viṣṇu, who is called mukunda. the non-dual pervasive savior: mukunda is a celebrated title for lord viṣṇu as the savior who grants liberation. she is mukundā because she is completely identical with this preserving and liberating light field. she steps across nominal boundaries, confirming that the energy of viṣṇu is her own dynamic presence.",
     "esoteric": [
       "The Non-Dual Pervasive Savior: Mukunda is a celebrated title for Lord Viṣṇu as the savior who grants liberation. She is Mukundā because She is completely identical with this preserving and liberating light field. She steps across nominal boundaries, confirming that the energy of Viṣṇu is Her own dynamic presence."
     ]
@@ -16667,17 +16667,17 @@ window.LALITHA_NAMES = [
     ],
     "wordByWord": [
       "मुक्तीनाम् — of liberations",
-      "पञ्चविधमोक्षाणाम् — of the five kinds of moksha",
+      "पञ्चविधमोक्षाणाम् — of the five kinds of mokṣa",
       "निलयः — abode",
-      "आकरः — mine; source",
+      "आकरः — mine; origin",
       "यस्याम् सा — she in whom"
     ],
     "summary": [
-      "मुक्तिनिलया means the abode of liberation. The five kinds of liberation rest in Her. She is both the giver and the resting-place of moksha."
+      "मुक्तिनिलया means the abode of liberation. The five kinds of liberation rest in Her. She is both the giver and the resting-place of mokṣa."
     ],
-    "searchText": "839 मुक्तिनिलया मुक्तीनां पञ्चविधमोक्षाणां निलय आकरो यस्यां सा। मुक्तीनाम् — of liberations पञ्चविधमोक्षाणाम् — of the five kinds of moksha निलयः — abode आकरः — mine; source यस्याम् सा — she in whom मुक्तिनिलया means the abode of liberation. the five kinds of liberation rest in her. she is both the giver and the resting-place of moksha. the storehouse of the five freedoms: liberation is processed through five distinct functional stages: sālokya (sharing the realm), sāmīpya (proximity), sārūpya (similarity of form), sāyujya (complete absorption), and kaivalya (absolute non-dual oneness). she is muktinilayā because she acts as the definitive reservoir (ākaraḥ) containing all five states, serving as the final dock for the soul.",
+    "searchText": "839 मुक्तिनिलया मुक्तीनां पञ्चविधमोक्षाणां निलय आकरो यस्यां सा। मुक्तीनाम् — of liberations पञ्चविधमोक्षाणाम् — of the five kinds of mokṣa निलयः — abode आकरः — mine; origin यस्याम् सा — she in whom मुक्तिनिलया means the abode of liberation. the five kinds of liberation rest in her. she is both the giver and the resting-place of mokṣa. the storehouse of the five freedoms: liberation is processed through five distinct functional stages: sālokya, sharing the realm; sāmīpya, proximity; sārūpya, similarity of form; sāyujya, complete absorption; and kaivalya, absolute non-dual oneness. she is muktinilayā because she acts as the definitive reservoir (ākaraḥ) containing all five states, serving as the final dock for the soul.",
     "esoteric": [
-      "The Storehouse of the Five Freedoms: Liberation is processed through five distinct functional stages: Sālokya (sharing the realm), Sāmīpya (proximity), Sārūpya (similarity of form), Sāyujya (complete absorption), and Kaivalya (absolute non-dual oneness). She is Muktinilayā because She acts as the definitive reservoir (ākaraḥ) containing all five states, serving as the final dock for the soul."
+      "The Storehouse of the Five Freedoms: Liberation is processed through five distinct functional stages: sālokya, sharing the realm; sāmīpya, proximity; sārūpya, similarity of form; sāyujya, complete absorption; and kaivalya, absolute non-dual oneness. She is Muktinilayā because She acts as the definitive reservoir (ākaraḥ) containing all five states, serving as the final dock for the soul."
     ]
   },
   {
@@ -16689,16 +16689,16 @@ window.LALITHA_NAMES = [
     "wordByWord": [
       "मूल — root; original",
       "विग्रहः — form; image",
-      "राजराजेश्वरीविग्रहः — the form of Rajarajeshwari",
-      "बालाबगलादिशक्तीनाम् — of Bala, Bagala and other Shaktis",
+      "राजराजेश्वरीविग्रहः — the form of Rājarājeśvarī",
+      "बालाबगलादिशक्तीनाम् — of Bālā, Bagalā and other Śaktis",
       "रूपिणी — whose form is"
     ],
     "summary": [
-      "मूलविग्रहरूपिणी means one whose form is the original image. The basic form of Rajarajeshwari is the source of Bālā, Bagala and the other Śaktis. All derivative deity-forms have their root in Her."
+      "मूलविग्रहरूपिणी means one whose form is the original image. The basic form of Rājarājeśvarī is the origin of Bālā, Bagalā and the other Śaktis. All derivative deity-forms have their root in Her."
     ],
-    "searchText": "840 मूलविग्रहरूपिणी बालाबगलादिशक्तीनां मूलभूतो यो राजराजेश्वरीविग्रहः स एव रूपमस्याः सा। मूल — root; original विग्रहः — form; image राजराजेश्वरीविग्रहः — the form of rajarajeshwari बालाबगलादिशक्तीनाम् — of bala, bagala and other shaktis रूपिणी — whose form is मूलविग्रहरूपिणी means one whose form is the original image. the basic form of rajarajeshwari is the source of bālā, bagala and the other śaktis. all derivative deity-forms have their root in her. the source behind the ray-deities: the tradition projects thousands of specialized female deities—such as bālā, bagalāmukhī, vārāhī, and mātaṅgī—to run distinct cosmic lines. this name reveals that all these goddesses are partial rays branching out from a single central master structure. that original, primordial matrix body (mūla-vigraha) is ललिता महात्रिपुरसुन्दरी (lalitā mahā-tripurasundarī / rājarājeśvarī). she sits at the absolute core of this form, anchoring the entire system to her person.",
+    "searchText": "840 मूलविग्रहरूपिणी बालाबगलादिशक्तीनां मूलभूतो यो राजराजेश्वरीविग्रहः स एव रूपमस्याः सा। मूल — root; original विग्रहः — form; image राजराजेश्वरीविग्रहः — the form of rājarājeśvarī बालाबगलादिशक्तीनाम् — of bālā, bagalā and other śaktis रूपिणी — whose form is मूलविग्रहरूपिणी means one whose form is the original image. the basic form of rājarājeśvarī is the origin of bālā, bagalā and the other śaktis. all derivative deity-forms have their root in her. the origin behind the ray-deities: specialized female deities such as bālā, bagalāmukhī, vārāhī and mātaṅgī run distinct cosmic lines. all these goddesses are partial rays branching out from a single central master structure. that original, primordial matrix body (mūla-vigraha) is ललिता महात्रिपुरसुन्दरी (lalitā mahātripurasundarī / rājarājeśvarī). she sits at the absolute core of this form, anchoring the entire system to her person.",
     "esoteric": [
-      "The Source behind the Ray-Deities: The tradition projects thousands of specialized female deities—such as Bālā, Bagalāmukhī, Vārāhī, and Mātaṅgī—to run distinct cosmic lines. This name reveals that all these goddesses are partial rays branching out from a single central master structure. That original, primordial matrix body (Mūla-vigraha) is ललिता महात्रिपुरसुन्दरी (Lalitā Mahā-Tripurasundarī / Rājarājeśvarī). She sits at the absolute core of this form, anchoring the entire system to Her person."
+      "The Origin behind the Ray-Deities: Specialized female deities such as Bālā, Bagalāmukhī, Vārāhī and Mātaṅgī run distinct cosmic lines. All these goddesses are partial rays branching out from a single central master structure. That original, primordial matrix body (mūla-vigraha) is ललिता महात्रिपुरसुन्दरी (Lalitā Mahātripurasundarī / Rājarājeśvarī). She sits at the absolute core of this form, anchoring the entire system to Her person."
     ]
   },
   {
@@ -16710,17 +16710,17 @@ window.LALITHA_NAMES = [
     "wordByWord": [
       "भावान् — states, feelings or modes",
       "जानाति — knows",
-      "भवस्य — of Bhava, Shiva or worldly existence",
+      "भवस्य — of bhava, Śiva or worldly existence",
       "भक्तिः — devotion",
       "भाः — light; brilliance",
       "कान्तिः — lustre"
     ],
     "summary": [
-      "भावज्ञा means one who knows all states and feelings. Bhava may mean change, worldly existence, Śiva, devotion, light, or the shining powers such as the Sun. She knows all these bhavas and the inner disposition of every devotee."
+      "भावज्ञा means one who knows all states and feelings. bhava may mean change, worldly existence, Śiva, devotion, light, or the shining powers such as the Sun. She knows all these bhāvas and the inner disposition of every devotee."
     ],
-    "searchText": "841 भावज्ञा षड्विकाराः षट्पदार्थाः, संसारः,  भवस्य शिवस्य इमे, भक्तिः, भाः कान्तिः तां वान्ति इति सूर्यादयः च भावाः। तान् जानातीति। भावान् — states, feelings or modes जानाति — knows भवस्य — of bhava, shiva or worldly existence भक्तिः — devotion भाः — light; brilliance कान्तिः — lustre भावज्ञा means one who knows all states and feelings. bhava may mean change, worldly existence, śiva, devotion, light, or the shining powers such as the sun. she knows all these bhavas and the inner disposition of every devotee. comprehending the inner context: she is bhāvajñā because she understands every possible definition of existence: the six transformations of matter (ṣaḍ-vikāra), the categories of logic, the currents of devotion (bhakti) in the heart, and the secret code rays belonging to lord śiva (bhava). she captures the true internal intent behind every manifestation.",
+    "searchText": "841 भावज्ञा षड्विकाराः षट्पदार्थाः, संसारः,  भवस्य शिवस्य इमे, भक्तिः, भाः कान्तिः तां वान्ति इति सूर्यादयः च भावाः। तान् जानातीति। भावान् — states, feelings or modes जानाति — knows भवस्य — of bhava, śiva or worldly existence भक्तिः — devotion भाः — light; brilliance कान्तिः — lustre भावज्ञा means one who knows all states and feelings. bhava may mean change, worldly existence, śiva, devotion, light, or the shining powers such as the sun. she knows all these bhāvas and the inner disposition of every devotee. comprehending the inner context: she is bhāvajñā because she understands every possible definition of existence: the six transformations of matter (ṣaḍ-vikāra), the categories of logic, the currents of devotion (bhakti) in the heart, and the secret code rays belonging to lord śiva as bhava. she captures the true internal intent behind every manifestation.",
     "esoteric": [
-      "Comprehending the Inner Context: She is Bhāvajñā because She understands every possible definition of existence: the six transformations of matter (ṣaḍ-vikāra), the categories of logic, the currents of devotion (bhakti) in the heart, and the secret code rays belonging to Lord Śiva (Bhava). She captures the true internal intent behind every manifestation."
+      "Comprehending the Inner Context: She is Bhāvajñā because She understands every possible definition of existence: the six transformations of matter (ṣaḍ-vikāra), the categories of logic, the currents of devotion (bhakti) in the heart, and the secret code rays belonging to Lord Śiva as bhava. She captures the true internal intent behind every manifestation."
     ]
   },
   {
@@ -16730,18 +16730,18 @@ window.LALITHA_NAMES = [
       "भवः संसार एव रोगस्तं हन्ति इति।"
     ],
     "wordByWord": [
-      "भवः — worldly existence; samsara",
+      "भवः — worldly existence; saṃsāra",
       "संसारः — the cycle of worldly life",
       "रोगः — disease",
       "घ्नी — destroyer",
       "तं हन्ति — destroys that"
     ],
     "summary": [
-      "भवरोगघ्नी means one who destroys the disease of worldly existence. saṃsāra is compared to a disease because it causes repeated suffering. She cures that disease by giving knowledge and liberation."
+      "भवरोगघ्नी means one who destroys the disease of worldly existence. Saṃsāra is like a disease because it causes repeated suffering. She cures that disease by giving knowledge and liberation."
     ],
-    "searchText": "842 भवरोगघ्नी भवः संसार एव रोगस्तं हन्ति इति। भवः — worldly existence; samsara संसारः — the cycle of worldly life रोगः — disease घ्नी — destroyer तं हन्ति — destroys that भवरोगघ्नी means one who destroys the disease of worldly existence. saṃsāra is compared to a disease because it causes repeated suffering. she cures that disease by giving knowledge and liberation. the medicine for rebirth: worldly existence (bhava) is not viewed merely as a political space; it is classified as a chronic, systemic psycho-spiritual disease (roga) that causes the soul to wander in friction. she acts as the ultimate physician, forcefully eradicating this root sickness and restoring the soul to its healthy state of pure consciousness.",
+    "searchText": "842 भवरोगघ्नी भवः संसार एव रोगस्तं हन्ति इति। भवः — worldly existence; saṃsāra संसारः — the cycle of worldly life रोगः — disease घ्नी — destroyer तं हन्ति — destroys that भवरोगघ्नी means one who destroys the disease of worldly existence. saṃsāra is like a disease because it causes repeated suffering. she cures that disease by giving knowledge and liberation. the medicine for rebirth: worldly existence (bhava) is not viewed merely as a political space; it is classified as a chronic, systemic psycho-spiritual disease (roga) that causes the soul to wander in friction. she acts as the ultimate physician, forcefully eradicating this root sickness and restoring the soul to its healthy state of pure consciousness.",
     "esoteric": [
-      "The Medicine for Rebirth: Worldly existence (Bhava) is not viewed merely as a political space; it is classified as a chronic, systemic psycho-spiritual disease (roga) that causes the soul to wander in friction. She acts as the ultimate physician, forcefully eradicating this root sickness and restoring the soul to its healthy state of pure consciousness."
+      "The Medicine for Rebirth: Worldly existence (bhava) is not viewed merely as a political space; it is classified as a chronic, systemic psycho-spiritual disease (roga) that causes the soul to wander in friction. She acts as the ultimate physician, forcefully eradicating this root sickness and restoring the soul to its healthy state of pure consciousness."
     ]
   },
   {
@@ -16752,17 +16752,17 @@ window.LALITHA_NAMES = [
       "भवचक्रवत्प्रवर्तयतीति।"
     ],
     "wordByWord": [
-      "भवचक्रम् — wheel of becoming; wheel of samsara",
+      "भवचक्रम् — wheel of becoming; wheel of saṃsāra",
       "संसारमण्डलम् — circle of worldly existence",
       "प्रवर्तते — moves; turns",
       "प्रवर्तयति — sets in motion"
     ],
     "summary": [
-      "भवचक्रप्रवर्तिनी means one who sets the wheel of becoming in motion. Bhavachakra is the wheel of samsara. She turns this wheel as the power behind creation and worldly experience."
+      "भवचक्रप्रवर्तिनी means one who sets the wheel of becoming in motion. bhavacakra is the wheel of saṃsāra. She turns this wheel as the power behind creation and worldly experience."
     ],
-    "searchText": "843 भवचक्रप्रवर्तिनी भवचक्रं संसारमण्डलं प्रवर्ततीति। भवचक्रवत्प्रवर्तयतीति। भवचक्रम् — wheel of becoming; wheel of samsara संसारमण्डलम् — circle of worldly existence प्रवर्तते — moves; turns प्रवर्तयति — sets in motion भवचक्रप्रवर्तिनी means one who sets the wheel of becoming in motion. bhavachakra is the wheel of samsara. she turns this wheel as the power behind creation and worldly experience. the director of the cosmic wheel: the universe passes through massive cyclical rotations—birth, growth, decay, and death—known as the भवचक्र (bhava-cakra — the wheel of shifting becoming). she stands at the absolute hub of this wheel, acting as the dynamic axis that keeps the entire wheel spinning to execute cosmic evolution.",
+    "searchText": "843 भवचक्रप्रवर्तिनी भवचक्रं संसारमण्डलं प्रवर्ततीति। भवचक्रवत्प्रवर्तयतीति। भवचक्रम् — wheel of becoming; wheel of saṃsāra संसारमण्डलम् — circle of worldly existence प्रवर्तते — moves; turns प्रवर्तयति — sets in motion भवचक्रप्रवर्तिनी means one who sets the wheel of becoming in motion. bhavacakra is the wheel of saṃsāra. she turns this wheel as the power behind creation and worldly experience. the director of the cosmic wheel: the universe passes through massive cyclical rotations: birth, growth, decay and death, known as the भवचक्र (bhava-cakra), the wheel of shifting becoming. she stands at the absolute hub of this wheel, acting as the dynamic axis that keeps the entire wheel spinning to execute cosmic evolution.",
     "esoteric": [
-      "The Director of the Cosmic Wheel: The universe passes through massive cyclical rotations—birth, growth, decay, and death—known as the भवचक्र (Bhava-cakra — the wheel of shifting becoming). She stands at the absolute hub of this wheel, acting as the dynamic axis that keeps the entire wheel spinning to execute cosmic evolution."
+      "The Director of the Cosmic Wheel: The universe passes through massive cyclical rotations: birth, growth, decay and death, known as the भवचक्र (bhava-cakra), the wheel of shifting becoming. She stands at the absolute hub of this wheel, acting as the dynamic axis that keeps the entire wheel spinning to execute cosmic evolution."
     ]
   },
   {
@@ -16772,17 +16772,17 @@ window.LALITHA_NAMES = [
       "छन्दःसु सारो निष्कर्षो यस्याः सा।"
     ],
     "wordByWord": [
-      "छन्दःसु — in the Vedic metres or Vedas",
+      "छन्दःसु — in the sacred metres",
       "सारः — essence",
       "निष्कर्षः — extracted essence",
       "यस्याः सा — she whose"
     ],
     "summary": [
-      "छन्दःसारा means the essence of the Vedas as metre. Chandas refers to Vedic metres and to the Veda itself. She is the essential meaning and power hidden in the Vedic metres."
+      "छन्दःसारा means the essence of sacred metre. chandas refers to sacred metres and to sacred speech itself. She is the essential meaning and power hidden in those metres."
     ],
-    "searchText": "844 छन्दःसारा छन्दःसु सारो निष्कर्षो यस्याः सा। छन्दःसु — in the vedic metres or vedas सारः — essence निष्कर्षः — extracted essence यस्याः सा — she whose छन्दःसारा means the essence of the vedas as metre. chandas refers to vedic metres and to the veda itself. she is the essential meaning and power hidden in the vedic metres. the soul of the metric grid: छन्दस् (chandas) denotes the sacred rhythmic meters of the vedas (like gāyatrī or anuṣṭubh) that contain light frequencies. she is chandaḥsārā because she is the exact, concentrated distillation (sāra) of these meters, acting as the underlying acoustic pulse that makes scriptural revelation effective.",
+    "searchText": "844 छन्दःसारा छन्दःसु सारो निष्कर्षो यस्याः सा। छन्दःसु — in the sacred metres सारः — essence निष्कर्षः — extracted essence यस्याः सा — she whose छन्दःसारा means the essence of sacred metre. chandas refers to sacred metres and to sacred speech itself. she is the essential meaning and power hidden in those metres. the soul of the metric grid: छन्दस् (chandas) denotes sacred rhythmic meters such as gāyatrī or anuṣṭubh, which contain light frequencies. she is chandaḥsārā because she is the exact, concentrated distillation (sāra) of these meters, acting as the underlying acoustic pulse that makes sacred revelation effective.",
     "esoteric": [
-      "The Soul of the Metric Grid: छन्दस् (Chandas) denotes the sacred rhythmic meters of the Vedas (like Gāyatrī or Anuṣṭubh) that contain light frequencies. She is Chandaḥsārā because She is the exact, concentrated distillation (sāra) of these meters, acting as the underlying acoustic pulse that makes scriptural revelation effective."
+      "The Soul of the Metric Grid: छन्दस् (chandas) denotes sacred rhythmic meters such as gāyatrī or anuṣṭubh, which contain light frequencies. She is Chandaḥsārā because She is the exact, concentrated distillation (sāra) of these meters, acting as the underlying acoustic pulse that makes sacred revelation effective."
     ]
   },
   {
@@ -16798,11 +16798,11 @@ window.LALITHA_NAMES = [
       "यस्याः सा — she whose"
     ],
     "summary": [
-      "शास्त्रसारा means the essence of the scriptures. The shastras have value because they reveal Her and lead the devotee to Her. She is the core teaching contained in all sacred texts."
+      "शास्त्रसारा means the essence of the śāstras. The śāstras have value because they reveal Her and lead the devotee to Her. She is the core teaching contained in all sacred texts."
     ],
-    "searchText": "845 शास्त्रसारा शास्त्रं शास्त्रे वा सारो यस्याः सा। शास्त्रम् — scripture शास्त्रे — in scripture सारः — essence यस्याः सा — she whose शास्त्रसारा means the essence of the scriptures. the shastras have value because they reveal her and lead the devotee to her. she is the core teaching contained in all sacred texts. the ultimate scriptural conclusion: sacred texts contain extensive procedural instructions, debates, and local charts. she is śāstrasārā because if one strips away the conditional wrappers of all these sciences, the ultimate, non-dual essence left at the bottom is strictly her own nature, serving as the shared target of all true knowledge.",
+    "searchText": "845 शास्त्रसारा शास्त्रं शास्त्रे वा सारो यस्याः सा। शास्त्रम् — scripture शास्त्रे — in scripture सारः — essence यस्याः सा — she whose शास्त्रसारा means the essence of the śāstras. the śāstras have value because they reveal her and lead the devotee to her. she is the core teaching contained in all sacred texts. the ultimate śāstric conclusion: sacred texts contain extensive procedural instructions, debates, and local charts. she is śāstrasārā because if one strips away the conditional wrappers of all these sciences, the ultimate, non-dual essence left at the bottom is strictly her own nature, serving as the shared target of all true knowledge.",
     "esoteric": [
-      "The Ultimate Scriptural Conclusion: Sacred texts contain extensive procedural instructions, debates, and local charts. She is Śāstrasārā because if one strips away the conditional wrappers of all these sciences, the ultimate, non-dual essence left at the bottom is strictly Her own nature, serving as the shared target of all true knowledge."
+      "The Ultimate Śāstric Conclusion: Sacred texts contain extensive procedural instructions, debates, and local charts. She is Śāstrasārā because if one strips away the conditional wrappers of all these sciences, the ultimate, non-dual essence left at the bottom is strictly Her own nature, serving as the shared target of all true knowledge."
     ]
   },
   {
@@ -16839,7 +16839,7 @@ window.LALITHA_NAMES = [
       "यस्याः सा — she whose"
     ],
     "summary": [
-      "तलोदरी means one whose belly is slender like the palm. Tala may mean the palm or a flat surface. The name is part of the description of Her graceful form."
+      "तलोदरी means one whose belly is slender like the palm. tala may mean the palm or a flat surface. The name is part of the description of Her graceful form."
     ],
     "searchText": "847 तलोदरी तलं करतलादि तद्वत्कृशं समं चोदरं यस्याः सा। तलम् — palm or flat surface करतलादि — palm and similar flat things कृशम् — slender समम् — even; smooth उदरम् — belly यस्याः सा — she whose तलोदरी means one whose belly is slender like the palm. tala may mean the palm or a flat surface. the name is part of the description of her graceful form. the slenderness of causal space: her description as slim-waisted (talodarī) represents the absolute refinement and lack of gross material density at her core center. she is free from physical bloating, symbolizing the clean, highly compressed causal space where cosmic energy is gathered before its outward projection.",
     "esoteric": [
@@ -16863,9 +16863,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "उदारकीर्तिः means one of noble fame. Her glory is vast, excellent and widely spread. Worship of Her quickly leads to honour, merit and spiritual fruit."
     ],
-    "searchText": "848 उदारकीर्तिः उदारा महत्तरा कीर्तिर्यस्याः सा। उत्कृष्टा आसमन्ताद्व्याप्ता च अरा शीघ्रसाध्या च कीर्तिर्यदुपासनया यस्याः सा। उदारा — noble; great महत्तरा — very great कीर्तिः — fame व्याप्ता — spread; pervading उपासना — worship उदारकीर्तिः means one of noble fame. her glory is vast, excellent and widely spread. worship of her quickly leads to honour, merit and spiritual fruit. the fame of boundless grace: her renown is udāra because it spreads without boundaries (vyāptā). her practice is अरा (arā — swiftly successful). by aligning with her system, the practitioner's inner merit and pure spiritual voice are amplified across the cosmic grid with extreme speed.",
+    "searchText": "848 उदारकीर्तिः उदारा महत्तरा कीर्तिर्यस्याः सा। उत्कृष्टा आसमन्ताद्व्याप्ता च अरा शीघ्रसाध्या च कीर्तिर्यदुपासनया यस्याः सा। उदारा — noble; great महत्तरा — very great कीर्तिः — fame व्याप्ता — spread; pervading उपासना — worship उदारकीर्तिः means one of noble fame. her glory is vast, excellent and widely spread. worship of her quickly leads to honour, merit and spiritual fruit. the fame of boundless grace: her renown is udāra because it spreads without boundaries (vyāptā). her practice is अरा (arā), swiftly successful. by aligning with her system, the practitioner's inner merit and pure spiritual voice are amplified across the cosmic grid with extreme speed.",
     "esoteric": [
-      "The Fame of Boundless Grace: Her renown is Udāra because it spreads without boundaries (vyāptā). Her practice is अरा (arā — swiftly successful). By aligning with Her system, the practitioner's inner merit and pure spiritual voice are amplified across the cosmic grid with extreme speed."
+      "The Fame of Boundless Grace: Her renown is udāra because it spreads without boundaries (vyāptā). Her practice is अरा (arā), swiftly successful. By aligning with Her system, the practitioner's inner merit and pure spiritual voice are amplified across the cosmic grid with extreme speed."
     ]
   },
   {
@@ -16882,9 +16882,9 @@ window.LALITHA_NAMES = [
       "अनवच्छिन्नम् — unlimited"
     ],
     "summary": [
-      "उद्दामवैभवा means one whose splendour is unbounded. Dama is a limiting cord; uddama means beyond limitation. Her majesty cannot be confined or measured."
+      "उद्दामवैभवा means one whose splendour is unbounded. Dāma is a limiting cord; uddāma means beyond limitation. Her majesty cannot be confined or measured."
     ],
-    "searchText": "849 उद्दामवैभवा दाम बन्धनरज्जुः परिच्छेत्री तदुत्क्रान्तमुद्दामेयत्तानवच्छिन्नं वैभवं यस्याः सा। दाम — cord; binding rope बन्धनरज्जुः — rope of bondage उद्दाम — beyond restraint; unbounded वैभवम् — splendour; majesty अनवच्छिन्नम् — unlimited उद्दामवैभवा means one whose splendour is unbounded. dama is a limiting cord; uddama means beyond limitation. her majesty cannot be confined or measured. sovereignty past the rope of metric: a dāma is a cord used to measure boundaries or bind animals. her cosmic majesty, structural capacity, and infinite glory (vaibhava) have completely broken past this rope (इयत्तानवच्छिन्नम्). her power cannot be computed, quantified, or restricted by any conceptual grid, standing completely absolute.",
+    "searchText": "849 उद्दामवैभवा दाम बन्धनरज्जुः परिच्छेत्री तदुत्क्रान्तमुद्दामेयत्तानवच्छिन्नं वैभवं यस्याः सा। दाम — cord; binding rope बन्धनरज्जुः — rope of bondage उद्दाम — beyond restraint; unbounded वैभवम् — splendour; majesty अनवच्छिन्नम् — unlimited उद्दामवैभवा means one whose splendour is unbounded. dāma is a limiting cord; uddāma means beyond limitation. her majesty cannot be confined or measured. sovereignty past the rope of metric: a dāma is a cord used to measure boundaries or bind animals. her cosmic majesty, structural capacity, and infinite glory (vaibhava) have completely broken past this rope (इयत्तानवच्छिन्नम्). her power cannot be computed, quantified, or restricted by any conceptual grid, standing completely absolute.",
     "esoteric": [
       "Sovereignty Past the Rope of Metric: A dāma is a cord used to measure boundaries or bind animals. Her cosmic majesty, structural capacity, and infinite glory (vaibhava) have completely broken past this rope (इयत्तानवच्छिन्नम्). Her power cannot be computed, quantified, or restricted by any conceptual grid, standing completely absolute."
     ]
@@ -16902,11 +16902,11 @@ window.LALITHA_NAMES = [
       "यस्याः सा — she whose"
     ],
     "summary": [
-      "वर्णरूपिणी means one whose form is the letters. The letters of the Sanskrit alphabet are Her forms. Speech, mantra and sacred sound all arise as Her manifestation."
+      "वर्णरूपिणी means one whose form is the letters. The letters of the varṇamālā are Her forms. Speech, mantra and sacred sound all arise as Her manifestation."
     ],
-    "searchText": "850 वर्णरूपिणी वर्णाश्चतुःषष्टिसंख्याका रूपमस्याः सा। वर्णाः — letters or colours चतुःषष्टिसंख्यकाः — sixty-four in number रूपम् — form यस्याः सा — she whose वर्णरूपिणी means one whose form is the letters. the letters of the sanskrit alphabet are her forms. speech, mantra and sacred sound all arise as her manifestation. the phonic and chromatic synthesis: वर्ण (varṇa) operates on two simultaneous non-dual tracks: it signifies the absolute matrix of the sanskrit phonic alphabet (mātṛkā) that constructs all spoken mantras, and it signifies the primary color ray frequencies that format the visible universe. she is varṇarūpiṇī because her entire manifest body is composed of this integrated grid of light and sound, ensuring that every word spoken and every ray seen is a literal cell of her cosmic form.",
+    "searchText": "850 वर्णरूपिणी वर्णाश्चतुःषष्टिसंख्याका रूपमस्याः सा। वर्णाः — letters or colours चतुःषष्टिसंख्यकाः — sixty-four in number रूपम् — form यस्याः सा — she whose वर्णरूपिणी means one whose form is the letters. the letters of the varṇamālā are her forms. speech, mantra and sacred sound all arise as her manifestation. the phonic and chromatic synthesis: वर्ण (varṇa) operates on two simultaneous non-dual tracks: it signifies the absolute matrix of the phonic alphabet (mātṛkā) that constructs all spoken mantras, and it signifies the primary colour ray frequencies that format the visible universe. she is varṇarūpiṇī because her entire manifest body is composed of this integrated grid of light and sound, ensuring that every word spoken and every ray seen is a literal cell of her cosmic form.",
     "esoteric": [
-      "The Phonic and Chromatic Synthesis: वर्ण (Varṇa) operates on two simultaneous non-dual tracks: it signifies the absolute matrix of the Sanskrit phonic alphabet (Mātṛkā) that constructs all spoken mantras, and it signifies the primary color ray frequencies that format the visible universe. She is Varṇarūpiṇī because Her entire manifest body is composed of this integrated grid of light and sound, ensuring that every word spoken and every ray seen is a literal cell of Her cosmic form."
+      "The Phonic and Chromatic Synthesis: वर्ण (varṇa) operates on two simultaneous non-dual tracks: it signifies the absolute matrix of the phonic alphabet (mātṛkā) that constructs all spoken mantras, and it signifies the primary colour ray frequencies that format the visible universe. She is Varṇarūpiṇī because Her entire manifest body is composed of this integrated grid of light and sound, ensuring that every word spoken and every ray seen is a literal cell of Her cosmic form."
     ]
   },
   {

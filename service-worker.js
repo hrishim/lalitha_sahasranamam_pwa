@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lalitha-sahasranamam-pwa-v49';
+const CACHE_NAME = 'lalitha-sahasranamam-pwa-v50';
 const APP_SHELL = [
   './',
   './index.html',
