@@ -17345,9 +17345,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "बहिर्मुखसुदुर्लभा means one who is very difficult for the outward-facing. Those whose minds run only after external objects do not easily attain Her. She is found by inwardness, not by outward distraction."
     ],
-    "searchText": "871 बहिर्मुखसुदुर्लभा बहिर्विषयैकप्रवणं मुखं येषां ते। तेषां सुष्ठु दुर्लभा। बहिः — outward विषयैकप्रवणम् — inclined only to objects मुखम् — face; orientation सुदुर्लभा — very difficult to attain बहिर्मुखसुदुर्लभा means one who is very difficult for the outward-facing. those whose minds run only after external objects do not easily attain her. she is found by inwardness, not by outward distraction. the locked gate of externalism: when an observer's intellect remains completely driven by external objects, sensory desires, and material differences (bahir-mukha), they are moving away from the source. she is sudurlabhā to this state of mind. no amount of aggressive external calculation can uncover her, as long as the internal coordinates remain neglected.",
+    "searchText": "871 बहिर्मुखसुदुर्लभा बहिर्विषयैकप्रवणं मुखं येषां ते। तेषां सुष्ठु दुर्लभा। बहिः — outward विषयैकप्रवणम् — inclined only to objects मुखम् — face; orientation सुदुर्लभा — very difficult to attain बहिर्मुखसुदुर्लभा means one who is very difficult for the outward-facing. those whose minds run only after external objects do not easily attain her. she is found by inwardness, not by outward distraction. the locked gate of externalism: when an observer's intellect remains completely driven by external objects, sensory desires, and material differences (bahirmukha), they are moving away from the origin. she is sudurlabhā to this state of mind. no amount of aggressive external calculation can uncover her as long as the internal coordinates remain neglected.",
     "esoteric": [
-      "The Locked Gate of Externalism: When an observer's intellect remains completely driven by external objects, sensory desires, and material differences (bahir-mukha), they are moving away from the source. She is Sudurlabhā to this state of mind. No amount of aggressive external calculation can uncover Her, as long as the internal coordinates remain neglected."
+      "The Locked Gate of Externalism: When an observer's intellect remains completely driven by external objects, sensory desires, and material differences (bahirmukha), they are moving away from the origin. She is Sudurlabhā to this state of mind. No amount of aggressive external calculation can uncover Her as long as the internal coordinates remain neglected."
     ]
   },
   {
@@ -17362,11 +17362,11 @@ window.LALITHA_NAMES = [
       "रूपा — whose form is"
     ],
     "summary": [
-      "त्रयी means one who is the three Vedas. Trayi refers to the Vedic triad. She is the very form of Vedic revelation."
+      "त्रयी means one who is the three Vedas. Trayī refers to the triad of sacred revelation. She is that revelation itself."
     ],
-    "searchText": "872 त्रयी वेदत्रयरूपा। त्रयी — the three vedas वेदत्रय — the triad of vedas रूपा — whose form is त्रयी means one who is the three vedas. trayi refers to the vedic triad. she is the very form of vedic revelation. the soul of the three vedas: she is the living phonic embodiment of the त्रयी (trayī — the corporate triad of the ṛg, yajur, and sāma vedas). she is not a post-vedic addition; she is the code, the metric grid, and the dynamic resonance running through these primary revelations, formatting the laws of nature.",
+    "searchText": "872 त्रयी वेदत्रयरूपा। त्रयी — the three vedas वेदत्रय — the triad of vedas रूपा — whose form is त्रयी means one who is the three vedas. trayī refers to the triad of sacred revelation. she is that revelation itself. the soul of the three vedas: she is the living phonic embodiment of the त्रयी (trayī), the triad of ṛg, yajur and sāma. she is the code, the metric grid, and the dynamic resonance running through these primary revelations, formatting the laws of nature.",
     "esoteric": [
-      "The Soul of the Three Vedas: She is the living phonic embodiment of the त्रयी (Trayī — the corporate triad of the Ṛg, Yajur, and Sāma Vedas). She is not a post-Vedic addition; She is the code, the metric grid, and the dynamic resonance running through these primary revelations, formatting the laws of nature."
+      "The Soul of the Three Vedas: She is the living phonic embodiment of the त्रयी (trayī), the triad of Ṛg, Yajur and Sāma. She is the code, the metric grid, and the dynamic resonance running through these primary revelations, formatting the laws of nature."
     ]
   },
   {
@@ -17376,18 +17376,18 @@ window.LALITHA_NAMES = [
       "त्रिवर्गो धर्मकामार्थैरिति कोशः। तस्य निलयः स्थानं यस्यां सा।"
     ],
     "wordByWord": [
-      "त्रिवर्गः — dharma, artha and kama",
+      "त्रिवर्गः — dharma, artha and kāma",
       "धर्म — righteousness",
       "काम — desire",
       "अर्थ — wealth or purpose",
       "निलयः — abode"
     ],
     "summary": [
-      "त्रिवर्गनिलया means the abode of the three aims. Trivarga means dharma, artha and kama. These aims of life rest in Her and are fulfilled through Her grace."
+      "त्रिवर्गनिलया means the abode of the three aims. Trivarga means dharma, artha and kāma. These aims of life rest in Her and are fulfilled through Her grace."
     ],
-    "searchText": "873 त्रिवर्गनिलया त्रिवर्गो धर्मकामार्थैरिति कोशः। तस्य निलयः स्थानं यस्यां सा। त्रिवर्गः — dharma, artha and kama धर्म — righteousness काम — desire अर्थ — wealth or purpose निलयः — abode त्रिवर्गनिलया means the abode of the three aims. trivarga means dharma, artha and kama. these aims of life rest in her and are fulfilled through her grace. the sanctuary of balanced aspiration: she does not simply stand as a distant destination for ascetics. she is trivarganilayā because she acts as the absolute home and organizing source within which धर्म (virtue), अर्थ (stability), and काम (desire) find their proper coordinates, keeping human life in equilibrium.",
+    "searchText": "873 त्रिवर्गनिलया त्रिवर्गो धर्मकामार्थैरिति कोशः। तस्य निलयः स्थानं यस्यां सा। त्रिवर्गः — dharma, artha and kāma धर्म — righteousness काम — desire अर्थ — wealth or purpose निलयः — abode त्रिवर्गनिलया means the abode of the three aims. trivarga means dharma, artha and kāma. these aims of life rest in her and are fulfilled through her grace. the sanctuary of balanced aspiration: she does not simply stand as a distant destination for ascetics. she is trivarganilayā because she acts as the absolute home and organizing origin within which धर्म (virtue), अर्थ (stability), and काम (desire) find their proper coordinates, keeping human life in equilibrium.",
     "esoteric": [
-      "The Sanctuary of Balanced Aspiration: She does not simply stand as a distant destination for ascetics. She is Trivarganilayā because She acts as the absolute home and organizing source within which धर्म (virtue), अर्थ (stability), and काम (desire) find their proper coordinates, keeping human life in equilibrium."
+      "The Sanctuary of Balanced Aspiration: She does not simply stand as a distant destination for ascetics. She is Trivarganilayā because She acts as the absolute home and organizing origin within which धर्म (virtue), अर्थ (stability), and काम (desire) find their proper coordinates, keeping human life in equilibrium."
     ]
   },
   {
@@ -17400,16 +17400,16 @@ window.LALITHA_NAMES = [
     "wordByWord": [
       "त्रिषु — in three",
       "भूतादिकालेषु — in the three times",
-      "अकारोकारमकारेषु — in A, U and M",
+      "अकारोकारमकारेषु — in a, u and m",
       "स्थितिः — abiding",
       "लोकादिषु — in worlds and the like"
     ],
     "summary": [
       "त्रिस्था means one who abides in the three. She stands in the three times, the three letters a-u-m, or the three worlds. She pervades every threefold principle without separation."
     ],
-    "searchText": "874 त्रिस्था त्रिषु भूतादिकालेष्वकारोकारमकारेषु वा स्था स्थितिर्यस्याः सा। त्रिषु लोकादिष्वभेदेन तिष्ठतीति। त्रिषु — in three भूतादिकालेषु — in the three times अकारोकारमकारेषु — in a, u and m स्थितिः — abiding लोकादिषु — in worlds and the like त्रिस्था means one who abides in the three. she stands in the three times, the three letters a-u-m, or the three worlds. she pervades every threefold principle without separation. the pervader of the triple states: she stands anchored uniformly across the three tenses of time (past, present, future), lives inside the three phonemes of the praṇava (अ, उ, म), and permeates the three states of human consciousness (jāgrat, svapna, suṣupti) without structural cleavage.",
+    "searchText": "874 त्रिस्था त्रिषु भूतादिकालेष्वकारोकारमकारेषु वा स्था स्थितिर्यस्याः सा। त्रिषु लोकादिष्वभेदेन तिष्ठतीति। त्रिषु — in three भूतादिकालेषु — in the three times अकारोकारमकारेषु — in a, u and m स्थितिः — abiding लोकादिषु — in worlds and the like त्रिस्था means one who abides in the three. she stands in the three times, the three letters a-u-m, or the three worlds. she pervades every threefold principle without separation. the pervader of the triple states: she stands anchored uniformly across the three tenses of time, lives inside the three phonemes of praṇava (अ, उ, म), and permeates the three states of human consciousness (jāgrat, svapna, suṣupti) without structural cleavage.",
     "esoteric": [
-      "The Pervader of the Triple States: She stands anchored uniformly across the three tenses of time (past, present, future), lives inside the three phonemes of the Praṇava (अ, उ, म), and permeates the three states of human consciousness (jāgrat, svapna, suṣupti) without structural cleavage."
+      "The Pervader of the Triple States: She stands anchored uniformly across the three tenses of time, lives inside the three phonemes of praṇava (अ, उ, म), and permeates the three states of human consciousness (jāgrat, svapna, suṣupti) without structural cleavage."
     ]
   },
   {
@@ -17421,15 +17421,15 @@ window.LALITHA_NAMES = [
     "wordByWord": [
       "त्रीणि — three",
       "पुराणि — cities or enclosures",
-      "मालिनी — garlanded one; Malini",
-      "त्रिपुरमालिनी — Malini of the three cities"
+      "मालिनी — garlanded one; Mālinī",
+      "त्रिपुरमालिनी — Mālinī of the three cities"
     ],
     "summary": [
-      "त्रिपुरमालिनी means tripuramalini. She is related to the three cities or the three enclosures and is also Malini. The name belongs to the Śrī vidyā tradition and points to Her as the garlanded power of Tripurā."
+      "त्रिपुरमालिनी means Mālinī of the three cities. She is related to the three cities or the three enclosures and is also Mālinī. The name points to Her as the garlanded power of Tripurā."
     ],
-    "searchText": "875 त्रिपुरमालिनी त्रीणि पुराणि दलावृत्तयोयस्याः सा। सा चासौ मालिनी च। त्रीणि — three पुराणि — cities or enclosures मालिनी — garlanded one; malini त्रिपुरमालिनी — malini of the three cities त्रिपुरमालिनी means tripuramalini. she is related to the three cities or the three enclosures and is also malini. the name belongs to the śrī vidyā tradition and points to her as the garlanded power of tripurā. the ruler of the triadic garland: in the layout of the śrī yantra, tripuramālinī is the specific presiding goddess placed in absolute charge of the sixth major enclosure—the अन्तरदशार चक्र (antardaśāra cakra — the inner circle of ten radiant triangles). she represents that exact protective frequency, wearing the triadic garland of cosmic letters.",
+    "searchText": "875 त्रिपुरमालिनी त्रीणि पुराणि दलावृत्तयोयस्याः सा। सा चासौ मालिनी च। त्रीणि — three पुराणि — cities or enclosures मालिनी — garlanded one; mālinī त्रिपुरमालिनी — mālinī of the three cities त्रिपुरमालिनी means mālinī of the three cities. she is related to the three cities or the three enclosures and is also mālinī. the name points to her as the garlanded power of tripurā. the ruler of the triadic garland: in the layout of the śrīyantra, tripuramālinī is the specific presiding goddess placed in charge of the sixth major enclosure, the अन्तरदशार चक्र (antardaśāra cakra), the inner circle of ten radiant triangles. she represents that protective frequency, wearing the triadic garland of cosmic letters.",
     "esoteric": [
-      "The Ruler of the Triadic Garland: In the layout of the Śrī Yantra, Tripuramālinī is the specific presiding goddess placed in absolute charge of the sixth major enclosure—the अन्तरदशार चक्र (Antardaśāra Cakra — the inner circle of ten radiant triangles). She represents that exact protective frequency, wearing the triadic garland of cosmic letters."
+      "The Ruler of the Triadic Garland: In the layout of the Śrīyantra, Tripuramālinī is the specific presiding goddess placed in charge of the sixth major enclosure, the अन्तरदशार चक्र (antardaśāra cakra), the inner circle of ten radiant triangles. She represents that protective frequency, wearing the triadic garland of cosmic letters."
     ]
   },
   {
@@ -17445,11 +17445,11 @@ window.LALITHA_NAMES = [
       "निरामया — free from disease"
     ],
     "summary": [
-      "निरामया means one who is free from disease. Amaya means disease or affliction. She is free from every defect and removes the diseases of worldly life."
+      "निरामया means one who is free from disease. Āmaya means disease or affliction. She is free from every defect and removes the diseases of worldly life."
     ],
-    "searchText": "876 निरामया निर्गता आमया रोगा यया सा। निर्गता — gone; removed आमयाः — diseases रोगाः — illnesses निरामया — free from disease निरामया means one who is free from disease. amaya means disease or affliction. she is free from every defect and removes the diseases of worldly life. the distortion-free screen: आमय (amaya) encompasses all physical biological illnesses, mental anxieties, and the ultimate sickness of spiritual confusion. she is niramayā because her essential unconditioned reality contains no internal cleavages or wear. she acts as a perfectly healthy screen that remains unaffected by the distortions projected upon it.",
+    "searchText": "876 निरामया निर्गता आमया रोगा यया सा। निर्गता — gone; removed आमयाः — diseases रोगाः — illnesses निरामया — free from disease निरामया means one who is free from disease. āmaya means disease or affliction. she is free from every defect and removes the diseases of worldly life. the distortion-free screen: आमय (āmaya) encompasses physical illness, mental anxiety, and the sickness of spiritual confusion. she is nirāmayā because her essential unconditioned reality contains no internal cleavages or wear. she acts as a perfectly healthy screen that remains unaffected by the distortions projected upon it.",
     "esoteric": [
-      "The Distortion-Free Screen: आमय (Amaya) encompasses all physical biological illnesses, mental anxieties, and the ultimate sickness of spiritual confusion. She is Niramayā because Her essential unconditioned reality contains no internal cleavages or wear. She acts as a perfectly healthy screen that remains unaffected by the distortions projected upon it."
+      "The Distortion-Free Screen: आमय (āmaya) encompasses physical illness, mental anxiety, and the sickness of spiritual confusion. She is Nirāmayā because Her essential unconditioned reality contains no internal cleavages or wear. She acts as a perfectly healthy screen that remains unaffected by the distortions projected upon it."
     ]
   },
   {
@@ -17464,9 +17464,9 @@ window.LALITHA_NAMES = [
       "निरालम्बा — one without support"
     ],
     "summary": [
-      "निरालम्बा means one who is without support. Alambana is a prop or support. She depends on nothing, while everything depends on Her."
+      "निरालम्बा means one who is without support. Ālambana is a prop or support. She depends on nothing, while everything depends on Her."
     ],
-    "searchText": "877 निरालम्बा निर्गतम् आलम्बनं यस्याः सा। निर्गतम् — gone; absent आलम्बनम् — support; prop निरालम्बा — one without support निरालम्बा means one who is without support. alambana is a prop or support. she depends on nothing, while everything depends on her. the independent substratum: finite objects require an external base to support their weight. she is nirālambā because she stands completely independent. lacking any neighbor or foundation back behind her station, she is the primary, uncaused foundation that supports the entire weight of the universe.",
+    "searchText": "877 निरालम्बा निर्गतम् आलम्बनं यस्याः सा। निर्गतम् — gone; absent आलम्बनम् — support; prop निरालम्बा — one without support निरालम्बा means one who is without support. ālambana is a prop or support. she depends on nothing, while everything depends on her. the independent substratum: finite objects require an external base to support their weight. she is nirālambā because she stands completely independent. lacking any neighbor or foundation back behind her station, she is the primary, uncaused foundation that supports the entire weight of the universe.",
     "esoteric": [
       "The Independent Substratum: Finite objects require an external base to support their weight. She is Nirālambā because She stands completely independent. Lacking any neighbor or foundation back behind Her station, She is the primary, uncaused foundation that supports the entire weight of the universe."
     ]
@@ -17488,9 +17488,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "स्वात्मारामा means one who rejoices in Her own Self. She sports in the Self alone. The universe and Brahman are also Her field of play, but Her joy is self-complete."
     ],
-    "searchText": "878 स्वात्मारामा स्वात्मन्येवारामः क्रीडनं यस्याः सा। स्वमात्मीयं जगच्च आत्मा ब्रह्म च अनयोरारामः क्रीडनं विहरणं वृत्तित्वं यस्याः सा। स्वात्मनि — in her own self आरामः — delight; play क्रीडनम् — playing जगत् — universe ब्रह्म — brahman स्वात्मारामा means one who rejoices in her own self. she sports in the self alone. the universe and brahman are also her field of play, but her joy is self-complete. the joy of self-absorption: human happiness is dependent on acquiring external objects, making it brief and fragile. she is svātmārāmā because she experiences absolute fulfillment entirely through her own intrinsic self-bliss (svarūpānanda). she balances the relative world (svam) and the absolute brahman (ātmā) as waves of a single, non-dual play.",
+    "searchText": "878 स्वात्मारामा स्वात्मन्येवारामः क्रीडनं यस्याः सा। स्वमात्मीयं जगच्च आत्मा ब्रह्म च अनयोरारामः क्रीडनं विहरणं वृत्तित्वं यस्याः सा। स्वात्मनि — in her own self आरामः — delight; play क्रीडनम् — playing जगत् — universe ब्रह्म — brahman स्वात्मारामा means one who rejoices in her own self. she sports in the self alone. the universe and brahman are also her field of play, but her joy is self-complete. the joy of self-absorption: human happiness is dependent on acquiring external objects, making it brief and fragile. she is svātmārāmā because she experiences absolute fulfillment entirely through her own intrinsic self-bliss (svarūpānanda). she balances the relative world (svam) and absolute brahman (ātmā) as waves of a single, non-dual play.",
     "esoteric": [
-      "The Joy of Self-Absorption: Human happiness is dependent on acquiring external objects, making it brief and fragile. She is Svātmārāmā because She experiences absolute fulfillment entirely through Her own intrinsic self-bliss (Svarūpānanda). She balances the relative world (svam) and the absolute Brahman (ātmā) as waves of a single, non-dual play."
+      "The Joy of Self-Absorption: Human happiness is dependent on acquiring external objects, making it brief and fragile. She is Svātmārāmā because She experiences absolute fulfillment entirely through Her own intrinsic self-bliss (svarūpānanda). She balances the relative world (svam) and absolute Brahman (ātmā) as waves of a single, non-dual play."
     ]
   },
   {
@@ -17508,11 +17508,11 @@ window.LALITHA_NAMES = [
       "स्रवणम् — oozing; flowing"
     ],
     "summary": [
-      "सुधासृतिः means one from whom nectar flows. Sudha is the nectar from the moon in the sahasrara. As Kuṇḍalinī, She causes that nectar to flow and grants bliss to the yogin."
+      "सुधासृतिः means one from whom nectar flows. Sudhā is the nectar from the moon in the sahasrāra. As Kuṇḍalinī, She causes that nectar to flow and grants bliss to the yogin."
     ],
-    "searchText": "879 सुधासृतिः सुधायाः सहस्रारकर्णिकाचन्द्रगतायाः स्रुतिः स्रवणं यया कुण्डलिन्या सा। सुधायाः स्रुतिरेव। सुधायाः — of nectar सहस्रार — thousand-petalled lotus चन्द्रगतायाः — located in the moon स्रुतिः — flow स्रवणम् — oozing; flowing सुधासृतिः means one from whom nectar flows. sudha is the nectar from the moon in the sahasrara. as kuṇḍalinī, she causes that nectar to flow and grants bliss to the yogin. the stream of immortality: when the internal kuṇḍalinī climbs past the lower centers, it triggers the lunar orb located inside the sahasrāra crown center. this trigger causes a massive downpour of cooling, alchemical nectar (sudhā). she is both the downpour itself and the active channel (srutiḥ) that distributes this essence throughout the practitioner's subtle channels, rejuvenating the entire system.",
+    "searchText": "879 सुधासृतिः सुधायाः सहस्रारकर्णिकाचन्द्रगतायाः स्रुतिः स्रवणं यया कुण्डलिन्या सा। सुधायाः स्रुतिरेव। सुधायाः — of nectar सहस्रार — thousand-petalled lotus चन्द्रगतायाः — located in the moon स्रुतिः — flow स्रवणम् — oozing; flowing सुधासृतिः means one from whom nectar flows. sudhā is the nectar from the moon in the sahasrāra. as kuṇḍalinī, she causes that nectar to flow and grants bliss to the yogin. the stream of immortality: when the internal kuṇḍalinī climbs past the lower centers, it triggers the lunar orb located inside the sahasrāra crown center. this trigger causes a downpour of cooling, alchemical nectar (sudhā). she is both the downpour itself and the active flow that distributes this essence throughout the practitioner's subtle channels, rejuvenating the entire system.",
     "esoteric": [
-      "The Stream of Immortality: When the internal Kuṇḍalinī climbs past the lower centers, it triggers the lunar orb located inside the Sahasrāra crown center. This trigger causes a massive downpour of cooling, alchemical nectar (sudhā). She is both the downpour itself and the active channel (srutiḥ) that distributes this essence throughout the practitioner's subtle channels, rejuvenating the entire system."
+      "The Stream of Immortality: When the internal Kuṇḍalinī climbs past the lower centers, it triggers the lunar orb located inside the sahasrāra crown center. This trigger causes a downpour of cooling, alchemical nectar (sudhā). She is both the downpour itself and the active flow that distributes this essence throughout the practitioner's subtle channels, rejuvenating the entire system."
     ]
   },
   {
@@ -17529,9 +17529,9 @@ window.LALITHA_NAMES = [
       "पण्डिता — skilled; expert"
     ],
     "summary": [
-      "संसारपङ्कनिर्मग्नसमुद्धरणपण्डिता means one skilled in lifting those sunk in the mire of samsara. saṃsāra is like a muddy marsh in which beings are deeply trapped. She expertly rescues devotees from that bondage."
+      "संसारपङ्कनिर्मग्नसमुद्धरणपण्डिता means one skilled in lifting those sunk in the mire of saṃsāra. Saṃsāra is like a muddy marsh in which beings are deeply trapped. She expertly rescues devotees from that bondage."
     ],
-    "searchText": "880 संसारपङ्कनिर्मग्नसमुद्धरणपण्डिता संसारलक्षणे कर्दमे निःशेषेण मग्नानां जनानां सम्यगुद्धरणे पण्डिता कुशला। संसार — worldly existence पङ्क — mire; mud निर्मग्नानाम् — of those deeply sunk समुद्धरणे — in lifting up पण्डिता — skilled; expert संसारपङ्कनिर्मग्नसमुद्धरणपण्डिता means one skilled in lifting those sunk in the mire of samsara. saṃsāra is like a muddy marsh in which beings are deeply trapped. she expertly rescues devotees from that bondage. the expert rescuer: worldly delusion behaves like thick, heavy quicksand or mud (paṅka)—the more an individual struggles using simple egoic calculations, the deeper they sink. she is paṇḍitā (expertly skilled) at this rescue operation. she knows the exact leverage points, subtle frequencies, and initiatory channels needed to hook the bound soul and pull it safely out of the mud, establishing her status as the ultimate savior.",
+    "searchText": "880 संसारपङ्कनिर्मग्नसमुद्धरणपण्डिता संसारलक्षणे कर्दमे निःशेषेण मग्नानां जनानां सम्यगुद्धरणे पण्डिता कुशला। संसार — worldly existence पङ्क — mire; mud निर्मग्नानाम् — of those deeply sunk समुद्धरणे — in lifting up पण्डिता — skilled; expert संसारपङ्कनिर्मग्नसमुद्धरणपण्डिता means one skilled in lifting those sunk in the mire of saṃsāra. saṃsāra is like a muddy marsh in which beings are deeply trapped. she expertly rescues devotees from that bondage. the expert rescuer: worldly delusion behaves like thick, heavy quicksand or mud (paṅka)—the more an individual struggles using simple egoic calculations, the deeper they sink. she is paṇḍitā (expertly skilled) at this rescue operation. she knows the exact leverage points, subtle frequencies, and initiatory channels needed to hook the bound soul and pull it safely out of the mud, establishing her status as the ultimate savior.",
     "esoteric": [
       "The Expert Rescuer: Worldly delusion behaves like thick, heavy quicksand or mud (paṅka)—the more an individual struggles using simple egoic calculations, the deeper they sink. She is Paṇḍitā (expertly skilled) at this rescue operation. She knows the exact leverage points, subtle frequencies, and initiatory channels needed to hook the bound soul and pull it safely out of the mud, establishing Her status as the ultimate savior."
     ]
@@ -17546,15 +17546,15 @@ window.LALITHA_NAMES = [
     "wordByWord": [
       "यज्ञाः — sacrifices",
       "प्रियाः — dear",
-      "विष्णुः — Vishnu",
+      "विष्णुः — Viṣṇu",
       "यज्ञप्रिया — She to whom sacrifices are dear"
     ],
     "summary": [
-      "यज्ञप्रिया means one who loves sacrifice. Yajnas are dear to Her, and yajna is also identified with Viṣṇu in the Veda. Sacred offering, rightly performed, is pleasing to Her."
+      "यज्ञप्रिया means one who loves sacrifice. Yajñas are dear to Her, and yajña is also identified with Viṣṇu. Sacred offering, rightly performed, is pleasing to Her."
     ],
-    "searchText": "881 यज्ञप्रिया यज्ञाः प्रिया यस्याः सा। यज्ञो वै विष्णुरिति श्रुतेस्तत्प्रियेति। यज्ञाः — sacrifices प्रियाः — dear विष्णुः — vishnu यज्ञप्रिया — she to whom sacrifices are dear यज्ञप्रिया means one who loves sacrifice. yajnas are dear to her, and yajna is also identified with viṣṇu in the veda. sacred offering, rightly performed, is pleasing to her. the affinity for dedicated rites: a sacrifice (yajña) is the structural mechanism through which humans surrender material assets to nourish cosmic forces. she is yajñapriyā because she values this dedicated loop of mutual alignment. concurrently, she matches the declaration “yajño vai viṣṇuḥ”, showing her affinity for the cosmic preservation force.",
+    "searchText": "881 यज्ञप्रिया यज्ञाः प्रिया यस्याः सा। यज्ञो वै विष्णुरिति श्रुतेस्तत्प्रियेति। यज्ञाः — sacrifices प्रियाः — dear विष्णुः — viṣṇu यज्ञप्रिया — she to whom sacrifices are dear यज्ञप्रिया means one who loves sacrifice. yajñas are dear to her, and yajña is also identified with viṣṇu. sacred offering, rightly performed, is pleasing to her. the affinity for dedicated rites: a sacrifice (yajña) is the structural mechanism through which humans surrender material assets to nourish cosmic forces. she is yajñapriyā because she values this dedicated loop of mutual alignment. she also shows affinity for the cosmic preservation force identified with viṣṇu.",
     "esoteric": [
-      "The Affinity for Dedicated Rites: A sacrifice (Yajña) is the structural mechanism through which humans surrender material assets to nourish cosmic forces. She is Yajñapriyā because She values this dedicated loop of mutual alignment. Concurrently, She matches the declaration “Yajño vai Viṣṇuḥ”, showing Her affinity for the cosmic preservation force."
+      "The Affinity for Dedicated Rites: A sacrifice (yajña) is the structural mechanism through which humans surrender material assets to nourish cosmic forces. She is Yajñapriyā because She values this dedicated loop of mutual alignment. She also shows affinity for the cosmic preservation force identified with Viṣṇu."
     ]
   },
   {
@@ -17568,13 +17568,13 @@ window.LALITHA_NAMES = [
       "कर्ता — performer",
       "यजमानात्मकः — in the form of the sacrificer",
       "दीक्षितमूर्तिः — initiated form",
-      "परमशिवः — Parashiva",
+      "परमशिवः — Paraśiva",
       "पत्नी — consort"
     ],
     "summary": [
-      "यज्ञकर्त्री means one connected with the performer of sacrifice. The yajna-karta is the sacrificer, ultimately identified with Parashiva. She is His Śakti and the power by which sacrifice is performed."
+      "यज्ञकर्त्री means one connected with the performer of sacrifice. The yajña-kartā is the sacrificer, ultimately identified with Paraśiva. She is His Śakti and the power by which sacrifice is performed."
     ],
-    "searchText": "882 यज्ञकर्त्री यज्ञस्य कर्ता यजमानात्मको दीक्षितमूर्तिः परमशिवस्तस्य पत्नी। यज्ञस्य — of sacrifice कर्ता — performer यजमानात्मकः — in the form of the sacrificer दीक्षितमूर्तिः — initiated form परमशिवः — parashiva पत्नी — consort यज्ञकर्त्री means one connected with the performer of sacrifice. the yajna-karta is the sacrificer, ultimately identified with parashiva. she is his śakti and the power by which sacrifice is performed. the power behind the executor: lord śiva manifests as the archetypal consecrated sacrificer (dīkṣita-mūrti) who runs the macrocosmic sacrifice to maintain order. she is his non-dual dynamic energy (yajñakartrī). without her presence, the executor lacks the kinetic capacity to initiate, manage, or complete a single rite, making her the true inner engine of action.",
+    "searchText": "882 यज्ञकर्त्री यज्ञस्य कर्ता यजमानात्मको दीक्षितमूर्तिः परमशिवस्तस्य पत्नी। यज्ञस्य — of sacrifice कर्ता — performer यजमानात्मकः — in the form of the sacrificer दीक्षितमूर्तिः — initiated form परमशिवः — paraśiva पत्नी — consort यज्ञकर्त्री means one connected with the performer of sacrifice. the yajña-kartā is the sacrificer, ultimately identified with paraśiva. she is his śakti and the power by which sacrifice is performed. the power behind the executor: lord śiva manifests as the archetypal consecrated sacrificer (dīkṣita-mūrti) who runs the macrocosmic sacrifice to maintain order. she is his non-dual dynamic energy (yajñakartrī). without her presence, the executor lacks the kinetic capacity to initiate, manage, or complete a single rite, making her the true inner engine of action.",
     "esoteric": [
       "The Power behind the Executor: Lord Śiva manifests as the archetypal consecrated sacrificer (Dīkṣita-mūrti) who runs the macrocosmic sacrifice to maintain order. She is His non-dual dynamic energy (Yajñakartrī). Without Her presence, the executor lacks the kinetic capacity to initiate, manage, or complete a single rite, making Her the true inner engine of action."
     ]
@@ -17593,11 +17593,11 @@ window.LALITHA_NAMES = [
       "अस्याः — of Her"
     ],
     "summary": [
-      "यजमानस्वरूपिणी means one whose form is the yajamana. The sacrificer and the initiated self are Her own forms. In sacrifice, the deity, act and worshipper are resolved in Her."
+      "यजमानस्वरूपिणी means one whose form is the yajamāna. The sacrificer and the initiated self are Her own forms. In sacrifice, the deity, act and worshipper are resolved in Her."
     ],
-    "searchText": "883 यजमानस्वरूपिणी यजमानश्च स्वश्च यजमानस्वौ दीक्षितात्मानौ तौ रूपे अस्या इति। यजमानः — sacrificer स्वः — self; one's own दीक्षितात्मानौ — initiated selves रूपे — forms अस्याः — of her यजमानस्वरूपिणी means one whose form is the yajamana. the sacrificer and the initiated self are her own forms. in sacrifice, the deity, act and worshipper are resolved in her. identity with the conscious observer: lest a practitioner think that she remains only a distant deity waiting to receive an offering from a human performer, this name establishes she is the very person performing the rite (yajamāna). she is the conscious intention and the internal observer driving the sacrifice, proving that the giver, the gift, and the receiver are one substance.",
+    "searchText": "883 यजमानस्वरूपिणी यजमानश्च स्वश्च यजमानस्वौ दीक्षितात्मानौ तौ रूपे अस्या इति। यजमानः — sacrificer स्वः — self; one's own दीक्षितात्मानौ — initiated selves रूपे — forms अस्याः — of her यजमानस्वरूपिणी means one whose form is the yajamāna. the sacrificer and the initiated self are her own forms. in sacrifice, the deity, act and worshipper are resolved in her. identity with the conscious observer: lest a practitioner think that she remains only a distant deity waiting to receive an offering from a human performer, this name establishes she is the very person performing the rite (yajamāna). she is the conscious intention and the internal observer driving the sacrifice, proving that the giver, the gift, and the receiver are one substance.",
     "esoteric": [
-      "Identity with the Conscious Observer: Lest a practitioner think that She remains only a distant deity waiting to receive an offering from a human performer, this name establishes She is the very person performing the rite (Yajamāna). She is the conscious intention and the internal observer driving the sacrifice, proving that the giver, the gift, and the receiver are one substance."
+      "Identity with the Conscious Observer: Lest a practitioner think that She remains only a distant deity waiting to receive an offering from a human performer, this name establishes She is the very person performing the rite (yajamāna). She is the conscious intention and the internal observer driving the sacrifice, proving that the giver, the gift, and the receiver are one substance."
     ]
   },
   {
@@ -17620,7 +17620,7 @@ window.LALITHA_NAMES = [
     ],
     "searchText": "884 धर्माधारा धर्माणामासमन्तात्सर्वदेशेषु धारा निरर्गलप्रवाहः। धर्म आधारो यस्याः सा। धर्म आधारो यया सा। धर्माणाम् — of dharmas धारा — stream; flow आधारः — support यया — by whom धर्माधारा — support of dharma धर्माधारा means the support of dharma. dharma flows everywhere because of her. she is both the foundation of righteousness and the power by which it is sustained. the unbroken current of law: she acts as the unceasing, unblocked stream (dhārā) that distributes moral law and systemic justice across all coordinates of space. concurrently, she functions as the absolute foundation (ādhāra) that keeps dharma stable, ensuring that the laws of karma and cosmic cause-and-effect remain unyielding.",
     "esoteric": [
-      "The Unbroken Current of Law: She acts as the unceasing, unblocked stream (dhārā) that distributes moral law and systemic justice across all coordinates of space. Concurrently, She functions as the absolute foundation (ādhāra) that keeps Dharma stable, ensuring that the laws of karma and cosmic cause-and-effect remain unyielding."
+      "The Unbroken Current of Law: She acts as the unceasing, unblocked stream (dhārā) that distributes moral law and systemic justice across all coordinates of space. Concurrently, She functions as the absolute foundation (ādhāra) that keeps dharma stable, ensuring that the laws of karma and cosmic cause-and-effect remain unyielding."
     ]
   },
   {
@@ -17655,9 +17655,9 @@ window.LALITHA_NAMES = [
       "वर्धयति — increases; causes to grow"
     ],
     "summary": [
-      "धनधान्यविवर्धिनी means one who increases wealth and grain. Dhana means wealth and dhanya means grain or food-supply. She causes prosperity, nourishment and material welfare to grow for Her devotees."
+      "धनधान्यविवर्धिनी means one who increases wealth and grain. Dhana means wealth and dhānya means grain or food-supply. She causes prosperity, nourishment and material welfare to grow for Her devotees."
     ],
-    "searchText": "886 धनधान्यविवर्धिनी धनानि धान्यानि च विशेष्य वर्धयतीति। धनानि — wealths धान्यानि — grains; food supplies विशेष्य — especially; distinctly वर्धयति — increases; causes to grow धनधान्यविवर्धिनी means one who increases wealth and grain. dhana means wealth and dhanya means grain or food-supply. she causes prosperity, nourishment and material welfare to grow for her devotees. the multiplier of sustenance: she does not ignore the material needs of her children. as vivardhinī, she actively multiplies their financial reserves (dhana) and foundational food nutrition (dhānya), realigning their external environment to ensure they do not suffer material panic while pursuing spiritual goals.",
+    "searchText": "886 धनधान्यविवर्धिनी धनानि धान्यानि च विशेष्य वर्धयतीति। धनानि — wealths धान्यानि — grains; food supplies विशेष्य — especially; distinctly वर्धयति — increases; causes to grow धनधान्यविवर्धिनी means one who increases wealth and grain. dhana means wealth and dhānya means grain or food-supply. she causes prosperity, nourishment and material welfare to grow for her devotees. the multiplier of sustenance: she does not ignore the material needs of her children. as vivardhinī, she actively multiplies their financial reserves (dhana) and foundational food nutrition (dhānya), realigning their external environment to ensure they do not suffer material panic while pursuing spiritual goals.",
     "esoteric": [
       "The Multiplier of Sustenance: She does not ignore the material needs of Her children. As Vivardhinī, She actively multiplies their financial reserves (dhana) and foundational food nutrition (dhānya), realigning their external environment to ensure they do not suffer material panic while pursuing spiritual goals."
     ]
@@ -17669,17 +17669,17 @@ window.LALITHA_NAMES = [
       "विप्राः प्रिया अभीष्टा यस्याः सा।"
     ],
     "wordByWord": [
-      "विप्राः — learned Brahmins; sacred knowers",
+      "विप्राः — learned brāhmins; sacred knowers",
       "प्रियाः — dear; beloved",
       "अभीष्टाः — cherished; desired",
       "यस्याः सा — she whose"
     ],
     "summary": [
-      "विप्रप्रिया means one who is dear to learned Brahmins. Vipra means a Brahmin, a learned person or one who knows sacred knowledge. She is beloved of such knowers and worshippers of the Veda."
+      "विप्रप्रिया means one who is dear to learned brāhmins. vipra means a brāhmin, a learned person or one who knows sacred knowledge. She is beloved of such knowers and worshippers of sacred knowledge."
     ],
-    "searchText": "887 विप्रप्रिया विप्राः प्रिया अभीष्टा यस्याः सा। विप्राः — learned brahmins; sacred knowers प्रियाः — dear; beloved अभीष्टाः — cherished; desired यस्याः सा — she whose विप्रप्रिया means one who is dear to learned brahmins. vipra means a brahmin, a learned person or one who knows sacred knowledge. she is beloved of such knowers and worshippers of the veda. the affinity for the seekers of truth: विप्र (vipra) signifies those whose life is dedicated to the intense study, recitation, and contemplation of scriptural truth and the absolute brahman. she holds this specific class close to her grace because their internal efforts mirror her own radiant wisdom field.",
+    "searchText": "887 विप्रप्रिया विप्राः प्रिया अभीष्टा यस्याः सा। विप्राः — learned brāhmins; sacred knowers प्रियाः — dear; beloved अभीष्टाः — cherished; desired यस्याः सा — she whose विप्रप्रिया means one who is dear to learned brāhmins. vipra means a brāhmin, a learned person or one who knows sacred knowledge. she is beloved of such knowers and worshippers of sacred knowledge. the affinity for the seekers of truth: विप्र (vipra) signifies those whose life is dedicated to intense study, recitation, and contemplation of truth and brahman. she holds this class close to her grace because their internal efforts mirror her own radiant wisdom field.",
     "esoteric": [
-      "The Affinity for the Seekers of Truth: विप्र (Vipra) signifies those whose life is dedicated to the intense study, recitation, and contemplation of scriptural truth and the absolute Brahman. She holds this specific class close to Her grace because their internal efforts mirror Her own radiant wisdom field."
+      "The Affinity for the Seekers of Truth: विप्र (vipra) signifies those whose life is dedicated to intense study, recitation, and contemplation of truth and Brahman. She holds this class close to Her grace because their internal efforts mirror Her own radiant wisdom field."
     ]
   },
   {
@@ -17690,7 +17690,7 @@ window.LALITHA_NAMES = [
       "विप्रान् रूपयति पूर्वरूपवतः करोत्याप्याययतीति।"
     ],
     "wordByWord": [
-      "विप्राः — learned Brahmins",
+      "विप्राः — learned brāhmins",
       "रूपम् — form",
       "स्वरूपम् — own form",
       "यस्याः सा — she whose",
@@ -17698,9 +17698,9 @@ window.LALITHA_NAMES = [
       "आप्याययति — nourishes; strengthens"
     ],
     "summary": [
-      "विप्ररूपा means one whose form is the Vipras. The learned ones are regarded as Her own form because sacred knowledge shines through them. She also nourishes and restores the Vipras to their proper spiritual form."
+      "विप्ररूपा means one whose form is the vipras. The learned ones are regarded as Her own form because sacred knowledge shines through them. She also nourishes and restores the vipras to their proper spiritual form."
     ],
-    "searchText": "888 विप्ररूपा विप्राः रूपं स्वरूपं यस्याः सा। विप्रान् रूपयति पूर्वरूपवतः करोत्याप्याययतीति। विप्राः — learned brahmins रूपम् — form स्वरूपम् — own form यस्याः सा — she whose रूपयति — forms; restores आप्याययति — nourishes; strengthens विप्ररूपा means one whose form is the vipras. the learned ones are regarded as her own form because sacred knowledge shines through them. she also nourishes and restores the vipras to their proper spiritual form. identity with the wisdom seers: she is non-different from the very seers who contemplate her nature. she is the internal processing power and the light of the intellect (buddhi) that enables them to comprehend truth. alternatively, she acts as the force that continuously nourishes (āpyāyayati) and restores their energetic form.",
+    "searchText": "888 विप्ररूपा विप्राः रूपं स्वरूपं यस्याः सा। विप्रान् रूपयति पूर्वरूपवतः करोत्याप्याययतीति। विप्राः — learned brāhmins रूपम् — form स्वरूपम् — own form यस्याः सा — she whose रूपयति — forms; restores आप्याययति — nourishes; strengthens विप्ररूपा means one whose form is the vipras. the learned ones are regarded as her own form because sacred knowledge shines through them. she also nourishes and restores the vipras to their proper spiritual form. identity with the wisdom seers: she is non-different from the very seers who contemplate her nature. she is the internal processing power and the light of the intellect (buddhi) that enables them to comprehend truth. alternatively, she acts as the force that continuously nourishes (āpyāyayati) and restores their energetic form.",
     "esoteric": [
       "Identity with the Wisdom Seers: She is non-different from the very seers who contemplate Her nature. She is the internal processing power and the light of the intellect (buddhi) that enables them to comprehend truth. Alternatively, She acts as the force that continuously nourishes (āpyāyayati) and restores their energetic form."
     ]
