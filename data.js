@@ -19372,9 +19372,9 @@ window.LALITHA_NAMES = [
       "सुवासिन्यर्चनप्रीता। — component of the name"
     ],
     "summary": [
-      "सुवासिन्यर्चनप्रीता means one who is pleased by the worship done by Suvasinis. Or one who is pleased by doing archana to Suvasinis. Worshipping Suvasinis is treated as an important part of Śrīdevī worship, since all women are to be regarded as forms of Śrīdevī."
+      "सुवासिन्यर्चनप्रीता means one who is pleased by the worship done by suvāsinīs. Or She is pleased by doing arcana to suvāsinīs. Worshipping suvāsinīs is an important part of Śrīdevī worship, since all women are to be regarded as forms of Śrīdevī."
     ],
-    "searchText": "971 सुवासिन्यर्चनप्रीता सुवासिनीनाम् अर्चनेन प्रीता। सुवासिन्यर्चनप्रीता। — component of the name सुवासिन्यर्चनप्रीता means one who is pleased by the worship done by suvasinis. or one who is pleased by doing archana to suvasinis. worshipping suvasinis is treated as an important part of śrīdevī worship, since all women are to be regarded as forms of śrīdevī. the living altars: she does not limit her presence to metallic icons or drawings. she sits actively inside living human forms that project auspicious energy (suvāsinīs). when a practitioner honors, clothes, and feeds these living women with absolute reverence, she accepts that energy directly, clearing away obstacles from the path.",
+    "searchText": "971 सुवासिन्यर्चनप्रीता सुवासिनीनाम् अर्चनेन प्रीता। सुवासिन्यर्चनप्रीता। — component of the name सुवासिन्यर्चनप्रीता means one who is pleased by the worship done by suvāsinīs. or she is pleased by doing arcana to suvāsinīs. worshipping suvāsinīs is an important part of śrīdevī worship, since all women are to be regarded as forms of śrīdevī. the living altars: she does not limit her presence to metallic icons or drawings. she sits actively inside living human forms that project auspicious energy (suvāsinīs). when a practitioner honors, clothes, and feeds these living women with absolute reverence, she accepts that energy directly, clearing away obstacles from the path.",
     "esoteric": [
       "The Living Altars: She does not limit Her presence to metallic icons or drawings. She sits actively inside living human forms that project auspicious energy (suvāsinīs). When a practitioner honors, clothes, and feeds these living women with absolute reverence, She accepts that energy directly, clearing away obstacles from the path."
     ]
@@ -19392,11 +19392,11 @@ window.LALITHA_NAMES = [
       "आशोभना। — component of the name"
     ],
     "summary": [
-      "अशोभना/आशोभना means one who is always and everywhere beautiful. Her beauty is described in many places in the sahasranāma. A large part of Soundaryalahari is devoted to the description of Her beauty."
+      "अशोभना/आशोभना means one who is always and everywhere beautiful. Her beauty is celebrated throughout the sahasranāma. She possesses absolute and all-pervading beauty."
     ],
-    "searchText": "972 अशोभना/आशोभना अविद्यमानं शोभनं सौन्दर्यं यस्याः (पञ्चमी) सा। आसमन्तात् शोभनं सौन्दर्यं यस्याः (षष्ठी) सा। यस्याः — whose अशोभना — component of the name आशोभना। — component of the name अशोभना/आशोभना means one who is always and everywhere beautiful. her beauty is described in many places in the sahasranāma. a large part of soundaryalahari is devoted to the description of her beauty. beyond mundane aesthetics: as aśobhanā, she stands completely free from mundane, superficial, and relative standards of physical beauty, which are transient and deceptive. when parsed as āśobhanā, it establishes that she possesses absolute, permanent, and infinite beauty (paramam saundaryam) radiating from every single coordinate of her cosmic form, blinding the intellect with absolute grace.",
+    "searchText": "972 अशोभना/आशोभना अविद्यमानं शोभनं सौन्दर्यं यस्याः (पञ्चमी) सा। आसमन्तात् शोभनं सौन्दर्यं यस्याः (षष्ठी) सा। यस्याः — whose अशोभना — component of the name आशोभना। — component of the name अशोभना/आशोभना means one who is always and everywhere beautiful. her beauty is celebrated throughout the sahasranāma. she possesses absolute and all-pervading beauty. beyond mundane aesthetics: as aśobhanā, she stands completely free from mundane, superficial, and relative standards of physical beauty, which are transient and deceptive. when parsed as āśobhanā, it establishes that she possesses absolute, permanent, and infinite beauty (paramam saundaryam) radiating from every coordinate of her cosmic form, blinding the intellect with absolute grace.",
     "esoteric": [
-      "Beyond Mundane Aesthetics: As Aśobhanā, She stands completely free from mundane, superficial, and relative standards of physical beauty, which are transient and deceptive. When parsed as Āśobhanā, it establishes that She possesses absolute, permanent, and infinite beauty (paramam saundaryam) radiating from every single coordinate of Her cosmic form, blinding the intellect with absolute grace."
+      "Beyond Mundane Aesthetics: As Aśobhanā, She stands completely free from mundane, superficial, and relative standards of physical beauty, which are transient and deceptive. When parsed as Āśobhanā, it establishes that She possesses absolute, permanent, and infinite beauty (paramam saundaryam) radiating from every coordinate of Her cosmic form, blinding the intellect with absolute grace."
     ]
   },
   {
@@ -19428,11 +19428,11 @@ window.LALITHA_NAMES = [
       "बिन्दुतर्पणसन्तुष्टा। — component of the name"
     ],
     "summary": [
-      "बिन्दुतर्पणसन्तुष्टा means one satisfied by tarpana at the bindu. The bindu is the Sarvanandamaya cakra, and offerings there please Her. Tarpana with milk, ghee, honey, wine or other prescribed offerings is also indicated."
+      "बिन्दुतर्पणसन्तुष्टा means one satisfied by tarpaṇa at the bindu. The bindu is the sarvānandamaya cakra, and offerings there please Her. Tarpaṇa with milk, ghee, honey, wine or other prescribed offerings is also indicated."
     ],
-    "searchText": "974 बिन्दुतर्पणसन्तुष्टा बिन्दौ सर्वानन्दमये चक्रे ब्राह्मणादिवर्णचतुष्टयकर्तृकेण तर्पणेन सम्यक्तुष्टा। क्षीराज्यमध्वासवबिन्दुकरणकेन वा तर्पणेन सम्यक्तुष्टा। बिन्दुतर्पणसन्तुष्टा। — component of the name बिन्दुतर्पणसन्तुष्टा means one satisfied by tarpana at the bindu. the bindu is the sarvanandamaya cakra, and offerings there please her. tarpana with milk, ghee, honey, wine or other prescribed offerings is also indicated. the alchemy of the center point: externally, this denotes offering drops (bindu) of milk, honey, or consecrated liquids into the central hub of the yantra. internally, bindu refers to the absolute central point of the sahasrāra crown. when the practitioner drives the internal energy up to this center, it melts the absolute nectar of immortality. offering this nectar back into the point satisfies her, stabilizing the system.",
+    "searchText": "974 बिन्दुतर्पणसन्तुष्टा बिन्दौ सर्वानन्दमये चक्रे ब्राह्मणादिवर्णचतुष्टयकर्तृकेण तर्पणेन सम्यक्तुष्टा। क्षीराज्यमध्वासवबिन्दुकरणकेन वा तर्पणेन सम्यक्तुष्टा। बिन्दुतर्पणसन्तुष्टा। — component of the name बिन्दुतर्पणसन्तुष्टा means one satisfied by tarpaṇa at the bindu. the bindu is the sarvānandamaya cakra, and offerings there please her. tarpaṇa with milk, ghee, honey, wine or other prescribed offerings is also indicated. the alchemy of the center point: externally, this denotes offering drops (bindu) of milk, honey, or consecrated liquids into the central hub of the yantra. internally, bindu refers to the absolute central point of the sahasrāra crown. when the practitioner drives the internal energy up to this center, it melts the absolute nectar of immortality. offering this nectar back into the point satisfies her, stabilizing the system.",
     "esoteric": [
-      "The Alchemy of the Center Point: Externally, this denotes offering drops (bindu) of milk, honey, or consecrated liquids into the central hub of the Yantra. Internally, Bindu refers to the absolute central point of the Sahasrāra crown. When the practitioner drives the internal energy up to this center, it melts the absolute nectar of immortality. Offering this nectar back into the point satisfies Her, stabilizing the system."
+      "The Alchemy of the Center Point: Externally, this denotes offering drops (bindu) of milk, honey, or consecrated liquids into the central hub of the yantra. Internally, bindu refers to the absolute central point of the sahasrāra crown. When the practitioner drives the internal energy up to this center, it melts the absolute nectar of immortality. Offering this nectar back into the point satisfies Her, stabilizing the system."
     ]
   },
   {
@@ -19464,11 +19464,11 @@ window.LALITHA_NAMES = [
       "त्रिपुराम्बिका। — component of the name"
     ],
     "summary": [
-      "त्रिपुराम्बिका means mother of the three cities. The three cities may be the three states of experience. She is the mother of the jiva who identifies with those three states."
+      "त्रिपुराम्बिका means mother of the three cities. The three cities may be the three states of experience. She is the mother of the jīva who identifies with those three states."
     ],
-    "searchText": "976 त्रिपुराम्बिका त्रयाणां पुराणामवस्थारूपाणामम्बिका जनिका। त्रीणि पुराणि यस्य स जीवः। तेषामम्बिका। त्रिपुराम्बिका। — component of the name त्रिपुराम्बिका means mother of the three cities. the three cities may be the three states of experience. she is the mother of the jiva who identifies with those three states. the parent of the three states: the \"three cities\" (tripura) are the three everyday states of human awareness: जाग्रत (waking), स्वप्न (dreaming), and सुषुप्ति (deep sleep). she is ambikā (the mother) to this entire triad. she generates and supports these states, serving as the hidden fourth space (turīya) that anchors them.",
+    "searchText": "976 त्रिपुराम्बिका त्रयाणां पुराणामवस्थारूपाणामम्बिका जनिका। त्रीणि पुराणि यस्य स जीवः। तेषामम्बिका। त्रिपुराम्बिका। — component of the name त्रिपुराम्बिका means mother of the three cities. the three cities may be the three states of experience. she is the mother of the jīva who identifies with those three states. the parent of the three states: the three cities (tripura) are the three everyday states of human awareness: जाग्रत (waking), स्वप्न (dreaming), and सुषुप्ति (deep sleep). she is ambikā, the mother, to this entire triad. she generates and supports these states, serving as the hidden fourth space (turīya) that anchors them.",
     "esoteric": [
-      "The Parent of the Three States: The \"three cities\" (tripura) are the three everyday states of human awareness: जाग्रत (Waking), स्वप्न (Dreaming), and सुषुप्ति (Deep Sleep). She is Ambikā (the mother) to this entire triad. She generates and supports these states, serving as the hidden fourth space (Turīya) that anchors them."
+      "The Parent of the Three States: The three cities (tripura) are the three everyday states of human awareness: जाग्रत (waking), स्वप्न (dreaming), and सुषुप्ति (deep sleep). She is Ambikā, the mother, to this entire triad. She generates and supports these states, serving as the hidden fourth space (turīya) that anchors them."
     ]
   },
   {
@@ -19482,11 +19482,11 @@ window.LALITHA_NAMES = [
       "दशमुद्रासमाराध्या। — component of the name"
     ],
     "summary": [
-      "दशमुद्रासमाराध्या means one properly worshipped through the ten mudras. The ten mudras are ritual instruments of worship. She is specially adored through them."
+      "दशमुद्रासमाराध्या means one properly worshipped through the ten mudrās. The ten mudrās are ritual instruments of worship. She is specially adored through them."
     ],
-    "searchText": "977 दशमुद्रासमाराध्या दश मुद्राभिः करणभूताभिः सम्यक् आराध्या। दश — ten दशमुद्रासमाराध्या। — component of the name दशमुद्रासमाराध्या means one properly worshipped through the ten mudras. the ten mudras are ritual instruments of worship. she is specially adored through them. the ten energy seals: mudrās are precise physical gestures and internal seals (running from sarvasaṅkṣobhiṇī up to sarvatrikhaṇḍā) that match the nine enclosures of the śrī yantra. they are not symbolic dances. they act as precise energetic keys that lock the practitioner's nervous system into alignment, opening the channels to receive her grace.",
+    "searchText": "977 दशमुद्रासमाराध्या दश मुद्राभिः करणभूताभिः सम्यक् आराध्या। दश — ten दशमुद्रासमाराध्या। — component of the name दशमुद्रासमाराध्या means one properly worshipped through the ten mudrās. the ten mudrās are ritual instruments of worship. she is specially adored through them. the ten energy seals: mudrās are precise physical gestures and internal seals, running from sarvasaṅkṣobhiṇī up to sarvatrikhaṇḍā, that match the nine enclosures of the śrīyantra. they are not symbolic dances. they act as precise energetic keys that lock the practitioner's nervous system into alignment, opening the channels to receive her grace.",
     "esoteric": [
-      "The Ten Energy Seals: Mudrās are precise physical gestures and internal seals (running from Sarvasaṅkṣobhiṇī up to Sarvatrikhaṇḍā) that match the nine enclosures of the Śrī Yantra. They are not symbolic dances. They act as precise energetic keys that lock the practitioner's nervous system into alignment, opening the channels to receive Her grace."
+      "The Ten Energy Seals: Mudrās are precise physical gestures and internal seals, running from Sarvasaṅkṣobhiṇī up to Sarvatrikhaṇḍā, that match the nine enclosures of the Śrīyantra. They are not symbolic dances. They act as precise energetic keys that lock the practitioner's nervous system into alignment, opening the channels to receive Her grace."
     ]
   },
   {
@@ -19501,11 +19501,11 @@ window.LALITHA_NAMES = [
       "त्रिपुराश्रीवशङ्करी। — component of the name"
     ],
     "summary": [
-      "त्रिपुराश्रीवशङ्करी means one who brings Tripurā Śrī under control. Or Tripurā Śrī herself is the power of bringing under control. The name connects Her with the authority of Tripurā Śrī."
+      "त्रिपुराश्रीवशङ्करी means one who brings Tripurāśrī under control. Or Tripurāśrī herself is the power of bringing under control. The name connects Her with the authority of Tripurāśrī."
     ],
-    "searchText": "978 त्रिपुराश्रीवशङ्करी त्रिपुराश्रीनामिकां देवीं वशं कुरुते इति। त्रिपुराश्रीनामिका देवी वशङ्करी यस्याः सा। यस्याः — whose त्रिपुराश्रीवशङ्करी। — component of the name त्रिपुराश्रीवशङ्करी means one who brings tripurā śrī under control. or tripurā śrī herself is the power of bringing under control. the name connects her with the authority of tripurā śrī. command over the fifth circle: within the anatomy of the śrī yantra, tripurāśrī is the specific administrative deity placed in charge of the fifth enclosure. she is the ultimate source back behind this goddess, directing the distribution of wealth and spiritual merit.",
+    "searchText": "978 त्रिपुराश्रीवशङ्करी त्रिपुराश्रीनामिकां देवीं वशं कुरुते इति। त्रिपुराश्रीनामिका देवी वशङ्करी यस्याः सा। यस्याः — whose त्रिपुराश्रीवशङ्करी। — component of the name त्रिपुराश्रीवशङ्करी means one who brings tripurāśrī under control. or tripurāśrī herself is the power of bringing under control. the name connects her with the authority of tripurāśrī. command over the fifth circle: within the anatomy of the śrīyantra, tripurāśrī is the specific administrative deity placed in charge of the fifth enclosure. she is the ultimate origin behind this goddess, directing the distribution of wealth and spiritual merit.",
     "esoteric": [
-      "Command over the Fifth Circle: Within the anatomy of the Śrī Yantra, Tripurāśrī is the specific administrative deity placed in charge of the fifth enclosure. She is the ultimate source back behind this goddess, directing the distribution of wealth and spiritual merit."
+      "Command over the Fifth Circle: Within the anatomy of the Śrīyantra, Tripurāśrī is the specific administrative deity placed in charge of the fifth enclosure. She is the ultimate origin behind this goddess, directing the distribution of wealth and spiritual merit."
     ]
   },
   {
@@ -19520,11 +19520,11 @@ window.LALITHA_NAMES = [
       "ज्ञानमुद्रा। — component of the name"
     ],
     "summary": [
-      "ज्ञानमुद्रा means one who is the Jnana Mudra. The name also means one who gives delight through knowledge. Knowledge and bliss are united in this mudra."
+      "ज्ञानमुद्रा means one who is the jñānamudrā. The name also means one who gives delight through knowledge. Knowledge and bliss are united in this mudrā."
     ],
-    "searchText": "979 ज्ञानमुद्रा ज्ञानमुद्ररूपा। ज्ञानेन मुदं रातीति। ज्ञानं चिदंशं मुदमानन्दांशं द्रावयत्यावृणोतीति। ज्ञानमुद्रा। — component of the name ज्ञानमुद्रा means one who is the jnana mudra. the name also means one who gives delight through knowledge. knowledge and bliss are united in this mudra. the seal of awareness: physically, she manifests as the iconic hand gesture where the index finger touches the thumb, forming a complete circuit that symbols individual soul merging with universal spirit. internally, she acts as the force that dispenses intense spiritual joy (mudam) the exact moment pure knowledge (jñāna) flashes open inside the mind.",
+    "searchText": "979 ज्ञानमुद्रा ज्ञानमुद्ररूपा। ज्ञानेन मुदं रातीति। ज्ञानं चिदंशं मुदमानन्दांशं द्रावयत्यावृणोतीति। ज्ञानमुद्रा। — component of the name ज्ञानमुद्रा means one who is the jñānamudrā. the name also means one who gives delight through knowledge. knowledge and bliss are united in this mudrā. the seal of awareness: physically, she manifests as the iconic hand gesture where the index finger touches the thumb, forming a complete circuit symbolizing the individual soul merging with universal spirit. internally, she acts as the force that dispenses intense spiritual joy (mudam) the exact moment pure knowledge (jñāna) flashes open inside the mind.",
     "esoteric": [
-      "The Seal of Awareness: Physically, She manifests as the iconic hand gesture where the index finger touches the thumb, forming a complete circuit that symbols individual soul merging with universal spirit. Internally, She acts as the force that dispenses intense spiritual joy (mudam) the exact moment pure knowledge (jñāna) flashes open inside the mind."
+      "The Seal of Awareness: Physically, She manifests as the iconic hand gesture where the index finger touches the thumb, forming a complete circuit symbolizing the individual soul merging with universal spirit. Internally, She acts as the force that dispenses intense spiritual joy (mudam) the exact moment pure knowledge (jñāna) flashes open inside the mind."
     ]
   },
   {
@@ -19542,7 +19542,7 @@ window.LALITHA_NAMES = [
     ],
     "searchText": "980 ज्ञानगम्या ज्ञानेन गम्या प्राप्या। गम्या — attainable; reached ज्ञानगम्या। — component of the name ज्ञानगम्या means one who is reached by knowledge. she is attained through true knowledge. realisation, not mere external action, is the path to her. the gate of awakening: she cannot be captured by emotional manipulation, mechanical rituals, or dry intellectual logic. she is jñānagamyā because her ultimate reality opens its gate exclusively to pure, non-dual realization (jñāna). every preliminary practice must eventually transform into direct awareness to step inside her sanctuary.",
     "esoteric": [
-      "The Gate of Awakening: She cannot be captured by emotional manipulation, mechanical rituals, or dry intellectual logic. She is Jñānagamyā because Her ultimate reality opens its gate exclusively to pure, non-dual realization (Jñāna). Every preliminary practice must eventually transform into direct awareness to step inside Her sanctuary."
+      "The Gate of Awakening: She cannot be captured by emotional manipulation, mechanical rituals, or dry intellectual logic. She is Jñānagamyā because Her ultimate reality opens its gate exclusively to pure, non-dual realization (jñāna). Every preliminary practice must eventually transform into direct awareness to step inside Her sanctuary."
     ]
   },
   {
@@ -19557,9 +19557,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "ज्ञानज्ञेयस्वरूपिणी means one whose form is knowledge and the object known. She is both the seer and the seen, knowledge and the knowable. The distinction between knower, knowing and known resolves in Her."
     ],
-    "searchText": "981 ज्ञानज्ञेयस्वरूपिणी ज्ञानज्ञेये दृग्दृश्ये स्वरूपमस्याः अस्तीति। ज्ञानज्ञेयस्वरूपिणी। — component of the name ज्ञानज्ञेयस्वरूपिणी means one whose form is knowledge and the object known. she is both the seer and the seen, knowledge and the knowable. the distinction between knower, knowing and known resolves in her. the fusion of subject and object: human tracking splits reality into a subject who looks (dṛg / jñāna) and an object that is looked at (dṛśya / jñeya). she is jñānajñeyasvarūpiṇī because she is the single, non-dual energy field that manifests as both sides of the equation. there is no independent world out there separate from the light that sees it; the knower and the known are one substance.",
+    "searchText": "981 ज्ञानज्ञेयस्वरूपिणी ज्ञानज्ञेये दृग्दृश्ये स्वरूपमस्याः अस्तीति। ज्ञानज्ञेयस्वरूपिणी। — component of the name ज्ञानज्ञेयस्वरूपिणी means one whose form is knowledge and the object known. she is both the seer and the seen, knowledge and the knowable. the distinction between knower, knowing and known resolves in her. the fusion of subject and object: human tracking splits reality into a subject who looks (dṛg or jñāna) and an object that is looked at (dṛśya or jñeya). she is jñānajñeyasvarūpiṇī because she is the single, non-dual energy field that manifests as both sides of the equation. there is no independent world out there separate from the light that sees it; the knower and the known are one substance.",
     "esoteric": [
-      "The Fusion of Subject and Object: Human tracking splits reality into a subject who looks (Dṛg / Jñāna) and an object that is looked at (Dṛśya / Jñeya). She is Jñānajñeyasvarūpiṇī because She is the single, non-dual energy field that manifests as both sides of the equation. There is no independent world out there separate from the light that sees it; the knower and the known are one substance."
+      "The Fusion of Subject and Object: Human tracking splits reality into a subject who looks (dṛg or jñāna) and an object that is looked at (dṛśya or jñeya). She is Jñānajñeyasvarūpiṇī because She is the single, non-dual energy field that manifests as both sides of the equation. There is no independent world out there separate from the light that sees it; the knower and the known are one substance."
     ]
   },
   {
@@ -19570,15 +19570,15 @@ window.LALITHA_NAMES = [
       "योनिरेव मुद्रा आछादिका यस्य बिन्दोस्तद्रूपा।"
     ],
     "wordByWord": [
-      "मुद्रा — mudra",
+      "मुद्रा — mudrā",
       "योनिमुद्रा। — component of the name"
     ],
     "summary": [
-      "योनिमुद्रा means one who is the Yoni Mudra. She grants delight in the yoni, the source. The yoni itself is the concealing and revealing mudra of the bindu."
+      "योनिमुद्रा means one who is the yonimudrā. She grants delight in the yoni, the origin. The yoni itself is the concealing and revealing mudrā of the bindu."
     ],
-    "searchText": "982 योनिमुद्रा योनौ मुदं राति। योनिरेव मुद्रा आछादिका यस्य बिन्दोस्तद्रूपा। मुद्रा — mudra योनिमुद्रा। — component of the name योनिमुद्रा means one who is the yoni mudra. she grants delight in the yoni, the source. the yoni itself is the concealing and revealing mudra of the bindu. the seal of primordial source: yonimudrā is the highly sacred, non-dual hand gesture that represents the matrix of creation. internally, it refers to the primary inverted triangle enclosure that tightly wraps and protects the central point (bindu). she is this seal, representing the absolute containment and conservation of spiritual power before it translates into manifestation.",
+    "searchText": "982 योनिमुद्रा योनौ मुदं राति। योनिरेव मुद्रा आछादिका यस्य बिन्दोस्तद्रूपा। मुद्रा — mudrā योनिमुद्रा। — component of the name योनिमुद्रा means one who is the yonimudrā. she grants delight in the yoni, the origin. the yoni itself is the concealing and revealing mudrā of the bindu. the seal of primordial origin: yonimudrā is the highly sacred, non-dual hand gesture that represents the matrix of creation. internally, it refers to the primary inverted triangle enclosure that tightly wraps and protects the central point (bindu). she is this seal, representing the absolute containment and conservation of spiritual power before it translates into manifestation.",
     "esoteric": [
-      "The Seal of Primordial Source: Yonimudrā is the highly sacred, non-dual hand gesture that represents the matrix of creation. Internally, it refers to the primary inverted triangle enclosure that tightly wraps and protects the central point (Bindu). She is this seal, representing the absolute containment and conservation of spiritual power before it translates into manifestation."
+      "The Seal of Primordial Origin: Yonimudrā is the highly sacred, non-dual hand gesture that represents the matrix of creation. Internally, it refers to the primary inverted triangle enclosure that tightly wraps and protects the central point (bindu). She is this seal, representing the absolute containment and conservation of spiritual power before it translates into manifestation."
     ]
   },
   {
@@ -19593,11 +19593,11 @@ window.LALITHA_NAMES = [
       "त्रिखण्डेशी। — component of the name"
     ],
     "summary": [
-      "त्रिखण्डेशी means She is also the ruler of the three mantra divisions known as Soma, Surya and Anala. Mistress of Trikhanda. She is the ruler of the tenth mudra called Trikhanda."
+      "त्रिखण्डेशी means mistress of trikhaṇḍa. She is the ruler of the tenth mudrā called trikhaṇḍa. She is also the ruler of the three mantra divisions known as Soma, Sūrya and Anala."
     ],
-    "searchText": "983 त्रिखण्डेशी त्रिखण्डाख्याया दशम्या मुद्राया ईशी स्वामिनी। त्रयाणां सोमसूर्यानलाख्यमन्त्रखण्डानामीशी। ईशी — mistress त्रिखण्डेशी। — component of the name त्रिखण्डेशी means she is also the ruler of the three mantra divisions known as soma, surya and anala. mistress of trikhanda. she is the ruler of the tenth mudra called trikhanda. the master of the three blocks: trikhaṇḍā is the definitive tenth mudrā that seals the entire śrī yantra ritual work. phonetically, it refers to the three distinct blocks (khaṇḍas) of the supreme mantra—the moon section (soma), the sun section (sūrya), and the fire section (anala). she is the absolute īśvarī (empress) who governs this entire triple structure, binding it into a single power loop.",
+    "searchText": "983 त्रिखण्डेशी त्रिखण्डाख्याया दशम्या मुद्राया ईशी स्वामिनी। त्रयाणां सोमसूर्यानलाख्यमन्त्रखण्डानामीशी। ईशी — mistress त्रिखण्डेशी। — component of the name त्रिखण्डेशी means mistress of trikhaṇḍa. she is the ruler of the tenth mudrā called trikhaṇḍa. she is also the ruler of the three mantra divisions known as soma, sūrya and anala. the master of the three blocks: trikhaṇḍā is the definitive tenth mudrā that seals the entire śrīyantra ritual work. phonetically, it refers to the three distinct blocks (khaṇḍas) of the supreme mantra, the moon section (soma), the sun section (sūrya), and the fire section (anala). she is the absolute īśvarī, empress, who governs this entire triple structure, binding it into a single power loop.",
     "esoteric": [
-      "The Master of the Three Blocks: Trikhaṇḍā is the definitive tenth mudrā that seals the entire Śrī Yantra ritual work. Phonetically, it refers to the three distinct blocks (khaṇḍas) of the supreme mantra—the Moon section (Soma), the Sun section (Sūrya), and the Fire section (Anala). She is the absolute Īśvarī (empress) who governs this entire triple structure, binding it into a single power loop."
+      "The Master of the Three Blocks: Trikhaṇḍā is the definitive tenth mudrā that seals the entire Śrīyantra ritual work. Phonetically, it refers to the three distinct blocks (khaṇḍas) of the supreme mantra, the Moon section (Soma), the Sun section (Sūrya), and the Fire section (Anala). She is the absolute Īśvarī, empress, who governs this entire triple structure, binding it into a single power loop."
     ]
   },
   {
@@ -19610,11 +19610,11 @@ window.LALITHA_NAMES = [
       "त्रिगुणा। — component of the name"
     ],
     "summary": [
-      "त्रिगुणा means one who has the three gunas. Though She transcends the gunas, they also exist in Her as the power of manifestation. She is the support of sattva, rajas and tamas."
+      "त्रिगुणा means one who has the three guṇas. Though She transcends the guṇas, they also exist in Her as the power of manifestation. She is the support of sattva, rajas and tamas."
     ],
-    "searchText": "984 त्रिगुणा त्रयो गुणा यस्यां सा। त्रिगुणा। — component of the name त्रिगुणा means one who has the three gunas. though she transcends the gunas, they also exist in her as the power of manifestation. she is the support of sattva, rajas and tamas. the weaver of form: while she transcends qualities (guṇātītā), she is simultaneously triguṇā because she coordinates the three qualities (sattva, rajas, tamas) to build the physical world. she acts as the master weaver who spins light, movement, and mass to construct the material universe.",
+    "searchText": "984 त्रिगुणा त्रयो गुणा यस्यां सा। त्रिगुणा। — component of the name त्रिगुणा means one who has the three guṇas. though she transcends the guṇas, they also exist in her as the power of manifestation. she is the support of sattva, rajas and tamas. the weaver of form: while she transcends qualities (guṇātītā), she is simultaneously triguṇā because she coordinates the three qualities (sattva, rajas, tamas) to build the physical world. she acts as the master weaver who spins light, movement, and mass to construct the material universe.",
     "esoteric": [
-      "The Weaver of Form: While She transcends qualities (Guṇātītā), She is simultaneously Triguṇā because She coordinates the three qualities (Sattva, Rajas, Tamas) to build the physical world. She acts as the master weaver who spins light, movement, and mass to construct the material universe."
+      "The Weaver of Form: While She transcends qualities (guṇātītā), She is simultaneously triguṇā because She coordinates the three qualities (sattva, rajas, tamas) to build the physical world. She acts as the master weaver who spins light, movement, and mass to construct the material universe."
     ]
   },
   {
@@ -19624,15 +19624,15 @@ window.LALITHA_NAMES = [
       "अम्बा माता कारणभूता।"
     ],
     "wordByWord": [
-      "अम्बा — Mother",
+      "अम्बा — Ambā; mother",
       "अम्बा। — component of the name"
     ],
     "summary": [
-      "अम्बा means mother. Amba means the mother and the causal source. She is the mother of all."
+      "अम्बा means mother. Ambā means the mother and the causal origin. She is the mother of all."
     ],
-    "searchText": "985 अम्बा अम्बा माता कारणभूता। अम्बा — mother अम्बा। — component of the name अम्बा means mother. amba means the mother and the causal source. she is the mother of all. the primordial maternal source: the entire cosmic system of mantras, elements, and geometries dissolves into a single word—ambā. she is the direct, unconditional mother of every living soul. she is the ultimate cause (jagat-kāraṇa) that provides love, protection, and the necessary path inputs to guide her children home.",
+    "searchText": "985 अम्बा अम्बा माता कारणभूता। अम्बा — ambā; mother अम्बा। — component of the name अम्बा means mother. ambā means the mother and the causal origin. she is the mother of all. the primordial maternal origin: the entire cosmic system of mantras, elements, and geometries dissolves into a single word, ambā. she is the direct, unconditional mother of every living soul. she is the ultimate cause (jagat-kāraṇa) that provides love, protection, and the necessary path inputs to guide her children home.",
     "esoteric": [
-      "The Primordial Maternal Source: The entire cosmic system of mantras, elements, and geometries dissolves into a single word—Ambā. She is the direct, unconditional mother of every living soul. She is the ultimate cause (jagat-kāraṇa) that provides love, protection, and the necessary path inputs to guide Her children home."
+      "The Primordial Maternal Origin: The entire cosmic system of mantras, elements, and geometries dissolves into a single word, Ambā. She is the direct, unconditional mother of every living soul. She is the ultimate cause (jagat-kāraṇa) that provides love, protection, and the necessary path inputs to guide Her children home."
     ]
   },
   {
@@ -19646,11 +19646,11 @@ window.LALITHA_NAMES = [
       "त्रिकोणगा। — component of the name"
     ],
     "summary": [
-      "त्रिकोणगा means one who abides in the triangle. The triangle is the yoni-chakra. She is present in that sacred triangular centre."
+      "त्रिकोणगा means one who abides in the triangle. The triangle is the yoni-cakra. She is present in that sacred triangular centre."
     ],
-    "searchText": "986 त्रिकोणगा त्रिकोण योनिचक्रं गच्छतीति। त्रिकोण — triangle त्रिकोणगा। — component of the name त्रिकोणगा means one who abides in the triangle. the triangle is the yoni-chakra. she is present in that sacred triangular centre. seated in the core triangle: in the layout of the śrī yantra, the त्रिकोण (trikoṇa) is the primary central triangle that surrounds the absolute center point (bindu). she is trikoṇagā because her consciousness resides directly inside this geometric hub, representing the absolute source out of which the lines of the universe branch out.",
+    "searchText": "986 त्रिकोणगा त्रिकोण योनिचक्रं गच्छतीति। त्रिकोण — triangle त्रिकोणगा। — component of the name त्रिकोणगा means one who abides in the triangle. the triangle is the yoni-cakra. she is present in that sacred triangular centre. seated in the core triangle: in the layout of the śrīyantra, the त्रिकोण (trikoṇa) is the primary central triangle that surrounds the absolute center point (bindu). she is trikoṇagā because her consciousness resides directly inside this geometric hub, representing the absolute origin out of which the lines of the universe branch out.",
     "esoteric": [
-      "Seated in the Core Triangle: In the layout of the Śrī Yantra, the त्रिकोण (Trikoṇa) is the primary central triangle that surrounds the absolute center point (Bindu). She is Trikoṇagā because Her consciousness resides directly inside this geometric hub, representing the absolute source out of which the lines of the universe branch out."
+      "Seated in the Core Triangle: In the layout of the Śrīyantra, the त्रिकोण (trikoṇa) is the primary central triangle that surrounds the absolute center point (bindu). She is Trikoṇagā because Her consciousness resides directly inside this geometric hub, representing the absolute origin out of which the lines of the universe branch out."
     ]
   },
   {
@@ -19721,9 +19721,9 @@ window.LALITHA_NAMES = [
     "summary": [
       "अभ्यासातिशयज्ञाता means one known through excess of practice. She is realised through repeated practice of the enquiry into the unity of Brahman and the Self. Persistent spiritual practice reveals Her."
     ],
-    "searchText": "990 अभ्यासातिशयज्ञाता ब्रह्मात्मैक्यानुसन्धानाभ्यास्य आवृत्त्याः अतिशयेन ज्ञाता। अतिशयेन — excessively; through intensity अभ्यासातिशयज्ञाता। — component of the name अभ्यासातिशयज्ञाता means one known through excess of practice. she is realised through repeated practice of the enquiry into the unity of brahman and the self. persistent spiritual practice reveals her. the momentum of realization: she cannot be uncovered by a casual or distracted interest. she is jñātā (realized) exclusively through अभ्यास-अतिशय (abhyāsa-atiśaya) — the continuous, intense, and unbroken habit of non-dual meditation on the identity of the individual soul and the absolute absolute (ब्रह्मात्मैक्य). this continuous momentum clears away the oldest layers of mental habits, revealing the self.",
+    "searchText": "990 अभ्यासातिशयज्ञाता ब्रह्मात्मैक्यानुसन्धानाभ्यास्य आवृत्त्याः अतिशयेन ज्ञाता। अतिशयेन — excessively; through intensity अभ्यासातिशयज्ञाता। — component of the name अभ्यासातिशयज्ञाता means one known through excess of practice. she is realised through repeated practice of the enquiry into the unity of brahman and the self. persistent spiritual practice reveals her. the momentum of realization: she cannot be uncovered by casual or distracted interest. she is jñātā, realized, exclusively through अभ्यास-अतिशय (abhyāsa-atiśaya), the continuous, intense, and unbroken habit of non-dual meditation on the identity of the individual soul and the absolute (ब्रह्मात्मैक्य). this continuous momentum clears away the oldest layers of mental habits, revealing the self.",
     "esoteric": [
-      "The Momentum of Realization: She cannot be uncovered by a casual or distracted interest. She is Jñātā (realized) exclusively through अभ्यास-अतिशय (abhyāsa-atiśaya) — the continuous, intense, and unbroken habit of non-dual meditation on the identity of the individual soul and the absolute absolute (ब्रह्मात्मैक्य). This continuous momentum clears away the oldest layers of mental habits, revealing the Self."
+      "The Momentum of Realization: She cannot be uncovered by casual or distracted interest. She is jñātā, realized, exclusively through अभ्यास-अतिशय (abhyāsa-atiśaya), the continuous, intense, and unbroken habit of non-dual meditation on the identity of the individual soul and the absolute (ब्रह्मात्मैक्य). This continuous momentum clears away the oldest layers of mental habits, revealing the Self."
     ]
   },
   {
