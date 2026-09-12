@@ -1238,7 +1238,9 @@ window.LALITHA_NAMES = [
     "number": 55,
     "name": "सुमेरुमध्यशृङ्गस्था",
     "samasa": [
-      "• सुमेरुमध्यशृङ्गस्था।"
+      "शोभनः मेरुः सुमेरुः।",
+      "मध्यं च तत् शृङ्गं च मध्यशृङ्गम्।",
+      "सुमेरोः मध्यशृङ्गं सुमेरुमध्यशृङ्गम्। तत्र तिष्ठतीति सुमेरुमध्यशृङ्गस्था।"
     ],
     "wordByWord": [
       "Word-by-word meaning could not be generated reliably from the available samāsa line."
@@ -1246,7 +1248,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "सुमेरुमध्यशृङ्गस्था means one who dwells in the central peak of mount Meru. Sumeru is a golden mountain which supports the Earth as its base. There are three peaks located triangularly in the centre of the mountain, and there is another fourth and higher peak at the centre of the triangle. The Śrīnagara where Śrīdevī dwells is in this fourth peak. These details are beautifully described in Lalitā-stavarāja written by sage Durvāsā."
     ],
-    "searchText": "55 सुमेरुमध्यशृङ्गस्था • सुमेरुमध्यशृङ्गस्था। word-by-word meaning could not be generated reliably from the available samāsa line. सुमेरुमध्यशृङ्गस्था means one who dwells in the central peak of mount meru. sumeru is a golden mountain which supports the earth as its base. there are three peaks located triangularly in the centre of the mountain, and there is another fourth and higher peak at the centre of the triangle. the śrīnagara where śrīdevī dwells is in this fourth peak. these details are beautifully described in lalitā-stavarāja written by sage durvāsā. the axis of the subtle body: mount sumeru is the cosmic golden mountain at the center of the universe. in the esoteric geography of the subtle body (piṇḍāṇḍa), sumeru represents the spinal column (merudaṇḍa). the \"middle peak\" (madhya-śṛṅga) is the topmost point of this axis—the sahasrāra at the crown of the head. therefore, she is sumerumadhyaśṛṅgasthā because her ultimate, supreme station of rest is the crown center of non-dual union.",
+    "searchText": "55 सुमेरुमध्यशृङ्गस्था शोभनः मेरुः सुमेरुः। मध्यं च तत् शृङ्गं च मध्यशृङ्गम्। सुमेरोः मध्यशृङ्गं सुमेरुमध्यशृङ्गम्। तत्र तिष्ठतीति सुमेरुमध्यशृङ्गस्था। word-by-word meaning could not be generated reliably from the available samāsa line. सुमेरुमध्यशृङ्गस्था means one who dwells in the central peak of mount meru. sumeru is a golden mountain which supports the earth as its base. there are three peaks located triangularly in the centre of the mountain, and there is another fourth and higher peak at the centre of the triangle. the śrīnagara where śrīdevī dwells is in this fourth peak. these details are beautifully described in lalitā-stavarāja written by sage durvāsā. the axis of the subtle body: mount sumeru is the cosmic golden mountain at the center of the universe. in the esoteric geography of the subtle body (piṇḍāṇḍa), sumeru represents the spinal column (merudaṇḍa). the \"middle peak\" (madhya-śṛṅga) is the topmost point of this axis—the sahasrāra at the crown of the head. therefore, she is sumerumadhyaśṛṅgasthā because her ultimate, supreme station of rest is the crown center of non-dual union.",
     "esoteric": [
       "The Axis of the Subtle Body: Mount Sumeru is the cosmic golden mountain at the center of the universe. In the esoteric geography of the subtle body (Piṇḍāṇḍa), Sumeru represents the spinal column (Merudaṇḍa). The \"middle peak\" (madhya-śṛṅga) is the topmost point of this axis—the Sahasrāra at the crown of the head. Therefore, She is Sumerumadhyaśṛṅgasthā because Her ultimate, supreme station of rest is the crown center of non-dual union."
     ]
@@ -2742,7 +2744,7 @@ window.LALITHA_NAMES = [
     "number": 136,
     "name": "नित्या",
     "samasa": [
-      "• नित्या।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "नित्या — eternal",
@@ -2751,7 +2753,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "नित्या means one who is eternal. The Self is eternal, and therefore the view that the world vanishes every moment is not accepted here. In Śrīvidyā worship, fifteen tithi Nityā Devīs are mentioned, and Śrīdevī Herself is the sixteenth Mahānityā. These Nityā Devīs are connected with phases of the waxing and waning moon, but Śrīdevī is beyond all such measures of time. This name also indicates one of the Nityā Devīs. By meditating on Nityā, one becomes free from ruin and decay."
     ],
-    "searchText": "136 नित्या • नित्या। नित्या — eternal नित्या — she who is eternal नित्या means one who is eternal. the self is eternal, and therefore the view that the world vanishes every moment is not accepted here. in śrīvidyā worship, fifteen tithi nityā devīs are mentioned, and śrīdevī herself is the sixteenth mahānityā. these nityā devīs are connected with phases of the waxing and waning moon, but śrīdevī is beyond all such measures of time. this name also indicates one of the nityā devīs. by meditating on nityā, one becomes free from ruin and decay. the unmoving present: objects in time have a beginning, growth, decay, and death. she is nityā because she sits entirely outside the linear track of time. she is the constant, unmoving present that witnesses the rise and fall of universes without ever losing a single fraction of her completeness.",
+    "searchText": "136 नित्या not a compound; no vigraha applies. नित्या — eternal नित्या — she who is eternal नित्या means one who is eternal. the self is eternal, and therefore the view that the world vanishes every moment is not accepted here. in śrīvidyā worship, fifteen tithi nityā devīs are mentioned, and śrīdevī herself is the sixteenth mahānityā. these nityā devīs are connected with phases of the waxing and waning moon, but śrīdevī is beyond all such measures of time. this name also indicates one of the nityā devīs. by meditating on nityā, one becomes free from ruin and decay. the unmoving present: objects in time have a beginning, growth, decay, and death. she is nityā because she sits entirely outside the linear track of time. she is the constant, unmoving present that witnesses the rise and fall of universes without ever losing a single fraction of her completeness.",
     "esoteric": [
       "The Unmoving Present: Objects in time have a beginning, growth, decay, and death. She is Nityā because She sits entirely outside the linear track of time. She is the constant, unmoving present that witnesses the rise and fall of universes without ever losing a single fraction of Her completeness."
     ]
@@ -4775,7 +4777,7 @@ window.LALITHA_NAMES = [
     "number": 238,
     "name": "मनुविद्या",
     "samasa": [
-      "• मनुविद्या।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "मनुविद्या। — the Vidya of Manu",
@@ -4784,7 +4786,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "मनुविद्या means one who is in the form of the vidyā adored by Manu. Śrīvidyā was adored by twelve devotees: Manu, Candra, Kubera, Lopāmudrā, Agastya, Manmatha, Agni, Sūrya, Indra, स्कन्द, Śiva and Durvāsas. Each realized a form of mantra through penance and worshipped Her. Manu is foremost among them, and Śrīdevī is the form of the Śrīvidyā mantra revealed through him."
     ],
-    "searchText": "238 मनुविद्या • मनुविद्या। मनुविद्या। — the vidya of manu मनुविद्या — the full name, understood through the samasa above मनुविद्या means one who is in the form of the vidyā adored by manu. śrīvidyā was adored by twelve devotees: manu, candra, kubera, lopāmudrā, agastya, manmatha, agni, sūrya, indra, स्कन्द, śiva and durvāsas. each realized a form of mantra through penance and worshipped her. manu is foremost among them, and śrīdevī is the form of the śrīvidyā mantra revealed through him. the lineage of the primordial lawgiver: manu is the primordial lawgiver of cosmic order. manu-vidyā identifies her with the wisdom that sustains moral and structural balance across human eras.",
+    "searchText": "238 मनुविद्या not a compound; no vigraha applies. मनुविद्या। — the vidya of manu मनुविद्या — the full name, understood through the samasa above मनुविद्या means one who is in the form of the vidyā adored by manu. śrīvidyā was adored by twelve devotees: manu, candra, kubera, lopāmudrā, agastya, manmatha, agni, sūrya, indra, स्कन्द, śiva and durvāsas. each realized a form of mantra through penance and worshipped her. manu is foremost among them, and śrīdevī is the form of the śrīvidyā mantra revealed through him. the lineage of the primordial lawgiver: manu is the primordial lawgiver of cosmic order. manu-vidyā identifies her with the wisdom that sustains moral and structural balance across human eras.",
     "esoteric": [
       "The Lineage of the Primordial Lawgiver: Manu is the primordial lawgiver of cosmic order. Manu-vidyā identifies Her with the wisdom that sustains moral and structural balance across human eras."
     ]
@@ -4793,7 +4795,7 @@ window.LALITHA_NAMES = [
     "number": 239,
     "name": "चन्द्रविद्या",
     "samasa": [
-      "• चन्द्रविद्या।"
+      "चन्द्रः चासौ विद्या च चन्द्रविद्या।"
     ],
     "wordByWord": [
       "चन्द्रविद्या। — the Vidya of Chandra",
@@ -4802,7 +4804,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "चन्द्रविद्या means the vidyā adored by Candra. Candra is the second of the twelve devotees connected with Śrīvidyā, and this name refers to the form of vidyā associated with him."
     ],
-    "searchText": "239 चन्द्रविद्या • चन्द्रविद्या। चन्द्रविद्या। — the vidya of chandra चन्द्रविद्या — the full name, understood through the samasa above चन्द्रविद्या means the vidyā adored by candra. candra is the second of the twelve devotees connected with śrīvidyā, and this name refers to the form of vidyā associated with him. the path of lunar bliss: candra-vidyā is the lunar path of śrīvidyā. it emphasizes cool, soothing inner bliss and balances the fires of intellect and action.",
+    "searchText": "239 चन्द्रविद्या चन्द्रः चासौ विद्या च चन्द्रविद्या। चन्द्रविद्या। — the vidya of chandra चन्द्रविद्या — the full name, understood through the samasa above चन्द्रविद्या means the vidyā adored by candra. candra is the second of the twelve devotees connected with śrīvidyā, and this name refers to the form of vidyā associated with him. the path of lunar bliss: candra-vidyā is the lunar path of śrīvidyā. it emphasizes cool, soothing inner bliss and balances the fires of intellect and action.",
     "esoteric": [
       "The Path of Lunar Bliss: Candra-vidyā is the lunar path of Śrīvidyā. It emphasizes cool, soothing inner bliss and balances the fires of intellect and action."
     ]
@@ -5241,7 +5243,7 @@ window.LALITHA_NAMES = [
     "number": 260,
     "name": "सुप्ता",
     "samasa": [
-      "• सुप्ता।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "सुप्ता — the full name, understood through the samasa above"
@@ -5249,7 +5251,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "सुप्ता means one who is in the sleep state of the soul."
     ],
-    "searchText": "260 सुप्ता • सुप्ता। सुप्ता — the full name, understood through the samasa above सुप्ता means one who is in the sleep state of the soul. the dormant power: she represents suṣupti, the state of deep dreamless sleep in which mental modifications, names and forms rest in an unmanifest causal condition.",
+    "searchText": "260 सुप्ता not a compound; no vigraha applies. सुप्ता — the full name, understood through the samasa above सुप्ता means one who is in the sleep state of the soul. the dormant power: she represents suṣupti, the state of deep dreamless sleep in which mental modifications, names and forms rest in an unmanifest causal condition.",
     "esoteric": [
       "The Dormant Power: She represents suṣupti, the state of deep dreamless sleep in which mental modifications, names and forms rest in an unmanifest causal condition."
     ]
@@ -5277,7 +5279,7 @@ window.LALITHA_NAMES = [
     "number": 262,
     "name": "तुर्या",
     "samasa": [
-      "• तुर्या।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "तुर्या। — the fourth state",
@@ -5286,7 +5288,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "तुर्या means one who is the soul in the fourth state. The fourth state is the understanding that clearly distinguishes waking, dream and deep sleep and the souls associated with them: Viśva, Taijasa and Prājña. The bliss of this state makes the knower recognize it as the true state. Even while the other states continue according to worldly tendencies, one established in turya is not affected by them. Śrīdevī is this fourth state."
     ],
-    "searchText": "262 तुर्या • तुर्या। तुर्या। — the fourth state तुर्या — the full name, understood through the samasa above तुर्या means one who is the soul in the fourth state. the fourth state is the understanding that clearly distinguishes waking, dream and deep sleep and the souls associated with them: viśva, taijasa and prājña. the bliss of this state makes the knower recognize it as the true state. even while the other states continue according to worldly tendencies, one established in turya is not affected by them. śrīdevī is this fourth state. transcendence of triads: turyā is the consciousness that underlies, pervades and transcends waking, dream and deep sleep. she is the self-luminous fourth, the non-dual awareness on which the other states appear and disappear.",
+    "searchText": "262 तुर्या not a compound; no vigraha applies. तुर्या। — the fourth state तुर्या — the full name, understood through the samasa above तुर्या means one who is the soul in the fourth state. the fourth state is the understanding that clearly distinguishes waking, dream and deep sleep and the souls associated with them: viśva, taijasa and prājña. the bliss of this state makes the knower recognize it as the true state. even while the other states continue according to worldly tendencies, one established in turya is not affected by them. śrīdevī is this fourth state. transcendence of triads: turyā is the consciousness that underlies, pervades and transcends waking, dream and deep sleep. she is the self-luminous fourth, the non-dual awareness on which the other states appear and disappear.",
     "esoteric": [
       "Transcendence of Triads: Turyā is the consciousness that underlies, pervades and transcends waking, dream and deep sleep. She is the self-luminous fourth, the non-dual awareness on which the other states appear and disappear."
     ]
@@ -5356,7 +5358,7 @@ window.LALITHA_NAMES = [
     "number": 266,
     "name": "गोप्त्री",
     "samasa": [
-      "• गोप्त्री।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "गोप्त्री। — protector",
@@ -5365,7 +5367,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "गोप्त्री means one who performs the task of protection. Śrīdevī takes up the function of sustaining the created universe when sattva predominates."
     ],
-    "searchText": "266 गोप्त्री • गोप्त्री। गोप्त्री। — protector गोप्त्री — the full name, understood through the samasa above गोप्त्री means one who performs the task of protection. śrīdevī takes up the function of sustaining the created universe when sattva predominates. sustenance of the cosmos: as the inner sustaining force, she preserves cosmic order during manifestation and keeps the laws of nature and karma in balance.",
+    "searchText": "266 गोप्त्री not a compound; no vigraha applies. गोप्त्री। — protector गोप्त्री — the full name, understood through the samasa above गोप्त्री means one who performs the task of protection. śrīdevī takes up the function of sustaining the created universe when sattva predominates. sustenance of the cosmos: as the inner sustaining force, she preserves cosmic order during manifestation and keeps the laws of nature and karma in balance.",
     "esoteric": [
       "Sustenance of the Cosmos: As the inner sustaining force, She preserves cosmic order during manifestation and keeps the laws of nature and karma in balance."
     ]
@@ -5453,7 +5455,7 @@ window.LALITHA_NAMES = [
     "number": 271,
     "name": "ईश्वरी",
     "samasa": [
-      "• ईश्वरी।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "ईश्वरी — ruler; mistress",
@@ -5462,7 +5464,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "ईश्वरी means one who is in the form of Īśvara. Īśvara performs the fourth function, tirodhāna, and is completely associated with sattva. Śrīdevī is in that form. Īśvara's qualities are lordship, activity, independence and consciousness; since Śrīdevī possesses these fully, She is called Īśvarī."
     ],
-    "searchText": "271 ईश्वरी • ईश्वरी। ईश्वरी — ruler; mistress ईश्वरी — meaning follows from the samasa: ईश्वरी। ईश्वरी means one who is in the form of īśvara. īśvara performs the fourth function, tirodhāna, and is completely associated with sattva. śrīdevī is in that form. īśvara's qualities are lordship, activity, independence and consciousness; since śrīdevī possesses these fully, she is called īśvarī. the lord of concealment: she is the sovereign power associated with tirodhāna, the act of concealment. the name also denotes her unobstructed freedom of will (svātantrya-śakti), by which she directs the universe.",
+    "searchText": "271 ईश्वरी not a compound; no vigraha applies. ईश्वरी — ruler; mistress ईश्वरी — meaning follows from the samasa: ईश्वरी। ईश्वरी means one who is in the form of īśvara. īśvara performs the fourth function, tirodhāna, and is completely associated with sattva. śrīdevī is in that form. īśvara's qualities are lordship, activity, independence and consciousness; since śrīdevī possesses these fully, she is called īśvarī. the lord of concealment: she is the sovereign power associated with tirodhāna, the act of concealment. the name also denotes her unobstructed freedom of will (svātantrya-śakti), by which she directs the universe.",
     "esoteric": [
       "The Lord of Concealment: She is the sovereign power associated with tirodhāna, the act of concealment. The name also denotes Her unobstructed freedom of will (svātantrya-śakti), by which She directs the universe."
     ]
@@ -5471,7 +5473,7 @@ window.LALITHA_NAMES = [
     "number": 272,
     "name": "सदाशिवा",
     "samasa": [
-      "• सदा शिवा।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "सदा — always",
@@ -5481,7 +5483,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "सदाशिवा means one who is in the form of Sadāśiva. Sad means always, and Śiva means auspicious. Taking the form of Sadāśiva, Śrīdevī performs the fifth function, anugraha, the bestowal of grace."
     ],
-    "searchText": "272 सदाशिवा • सदा शिवा। सदा — always शिवा — auspicious; shiva-form सदाशिवा — meaning follows from the samasa: सदा शिवा। सदाशिवा means one who is in the form of sadāśiva. sad means always, and śiva means auspicious. taking the form of sadāśiva, śrīdevī performs the fifth function, anugraha, the bestowal of grace. the presiding deity of grace: she manifests as sadāśiva, the fifth cosmic principle. as sadāśiva, her nature is eternal auspiciousness and the benevolent power from which liberation flows.",
+    "searchText": "272 सदाशिवा not a compound; no vigraha applies. सदा — always शिवा — auspicious; shiva-form सदाशिवा — meaning follows from the samasa: सदा शिवा। सदाशिवा means one who is in the form of sadāśiva. sad means always, and śiva means auspicious. taking the form of sadāśiva, śrīdevī performs the fifth function, anugraha, the bestowal of grace. the presiding deity of grace: she manifests as sadāśiva, the fifth cosmic principle. as sadāśiva, her nature is eternal auspiciousness and the benevolent power from which liberation flows.",
     "esoteric": [
       "The Presiding Deity of Grace: She manifests as Sadāśiva, the fifth cosmic principle. As Sadāśiva, Her nature is eternal auspiciousness and the benevolent power from which liberation flows."
     ]
@@ -5877,7 +5879,7 @@ window.LALITHA_NAMES = [
     "number": 292,
     "name": "पूर्णा",
     "samasa": [
-      "• पूर्णा।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "पूर्णा — full; complete",
@@ -5886,7 +5888,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "पूर्णा means one who is the all-encompassing whole. She is free from limitation by time, place and circumstance. As Brahman, Śrīdevī is fully present in everything and everywhere. Pūrṇā also refers to the fifth, tenth and fifteenth nityā devīs, the fourteenth bright lunar night, and a sacred river."
     ],
-    "searchText": "292 पूर्णा • पूर्णा। पूर्णा — full; complete पूर्णा — meaning follows from the samasa: पूर्णा। पूर्णा means one who is the all-encompassing whole. she is free from limitation by time, place and circumstance. as brahman, śrīdevī is fully present in everything and everywhere. pūrṇā also refers to the fifth, tenth and fifteenth nityā devīs, the fourteenth bright lunar night, and a sacred river. the indivisible absolute: she lacks nothing, contains everything and is complete in herself. nothing can increase or diminish her fullness.",
+    "searchText": "292 पूर्णा not a compound; no vigraha applies. पूर्णा — full; complete पूर्णा — meaning follows from the samasa: पूर्णा। पूर्णा means one who is the all-encompassing whole. she is free from limitation by time, place and circumstance. as brahman, śrīdevī is fully present in everything and everywhere. pūrṇā also refers to the fifth, tenth and fifteenth nityā devīs, the fourteenth bright lunar night, and a sacred river. the indivisible absolute: she lacks nothing, contains everything and is complete in herself. nothing can increase or diminish her fullness.",
     "esoteric": [
       "The Indivisible Absolute: She lacks nothing, contains everything and is complete in Herself. Nothing can increase or diminish Her fullness."
     ]
@@ -6144,7 +6146,7 @@ window.LALITHA_NAMES = [
     "number": 306,
     "name": "राज्ञी",
     "samasa": [
-      "• राज्ञी।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "राज्ञी — queen",
@@ -6153,7 +6155,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "राज्ञी means one who is queen. Śrīdevī is the empress of Rājarājeśvara, Mahākāmeśvara. She is also the most beautiful."
     ],
-    "searchText": "306 राज्ञी • राज्ञी। राज्ञी — queen राज्ञी — meaning follows from the samasa: राज्ञी। राज्ञी means one who is queen. śrīdevī is the empress of rājarājeśvara, mahākāmeśvara. she is also the most beautiful. the supreme sovereign: she is lalitā mahātripurasundarī, the empress who governs the cosmos from the cintāmaṇigṛha. all laws, elements and deities operate under her command.",
+    "searchText": "306 राज्ञी not a compound; no vigraha applies. राज्ञी — queen राज्ञी — meaning follows from the samasa: राज्ञी। राज्ञी means one who is queen. śrīdevī is the empress of rājarājeśvara, mahākāmeśvara. she is also the most beautiful. the supreme sovereign: she is lalitā mahātripurasundarī, the empress who governs the cosmos from the cintāmaṇigṛha. all laws, elements and deities operate under her command.",
     "esoteric": [
       "The Supreme Sovereign: She is Lalitā Mahātripurasundarī, the empress who governs the cosmos from the cintāmaṇigṛha. All laws, elements and deities operate under Her command."
     ]
@@ -6280,7 +6282,7 @@ window.LALITHA_NAMES = [
     "number": 313,
     "name": "रमा",
     "samasa": [
-      "• रमा।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "रमा — Lakshmi; delight",
@@ -6289,7 +6291,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "रमा means one who is in the form of Lakṣmī. She appears in forms such as Lakṣmī and Sarasvatī. The fourth Sanskrit vowel e is indicated by this name, and it is the third letter in the Pañcadaśī mantra. The related name Ratirūpā may be remembered. In Mahāṣoḍhā Nyāsa, She is also indicated in the form of a river."
     ],
-    "searchText": "313 रमा • रमा। रमा — lakshmi; delight रमा — meaning follows from the samasa: रमा। रमा means one who is in the form of lakṣmī. she appears in forms such as lakṣmī and sarasvatī. the fourth sanskrit vowel e is indicated by this name, and it is the third letter in the pañcadaśī mantra. the related name ratirūpā may be remembered. in mahāṣoḍhā nyāsa, she is also indicated in the form of a river. the principle of lakṣmī: she is not separate from lakṣmī, called ramā. wealth, beauty and sovereignty are forms of her expansive power.",
+    "searchText": "313 रमा not a compound; no vigraha applies. रमा — lakshmi; delight रमा — meaning follows from the samasa: रमा। रमा means one who is in the form of lakṣmī. she appears in forms such as lakṣmī and sarasvatī. the fourth sanskrit vowel e is indicated by this name, and it is the third letter in the pañcadaśī mantra. the related name ratirūpā may be remembered. in mahāṣoḍhā nyāsa, she is also indicated in the form of a river. the principle of lakṣmī: she is not separate from lakṣmī, called ramā. wealth, beauty and sovereignty are forms of her expansive power.",
     "esoteric": [
       "The Principle of Lakṣmī: She is not separate from Lakṣmī, called Ramā. Wealth, beauty and sovereignty are forms of Her expansive power."
     ]
@@ -7277,7 +7279,7 @@ window.LALITHA_NAMES = [
     "number": 362,
     "name": "चितिः",
     "samasa": [
-      "• चितिः।"
+      "not a compound; No vigraha applies."
     ],
     "wordByWord": [
       "चितिः — consciousness; knowledge; awareness"
@@ -7285,7 +7287,7 @@ window.LALITHA_NAMES = [
     "summary": [
       "चितिः means one who is in the form of knowledge. Cit is independent and is the cause of the establishment of the universe. Śrīdevī is called Cit because She is the life of those who desire life. As Citi, She is the conscious form that pervades the whole universe."
     ],
-    "searchText": "362 चितिः • चितिः। चितिः — consciousness; knowledge; awareness चितिः means one who is in the form of knowledge. cit is independent and is the cause of the establishment of the universe. śrīdevī is called cit because she is the life of those who desire life. as citi, she is the conscious form that pervades the whole universe. pure awareness: she is consciousness itself, not merely one who possesses consciousness. she is the changeless light that illumines thought, movement and experience.",
+    "searchText": "362 चितिः not a compound; no vigraha applies. चितिः — consciousness; knowledge; awareness चितिः means one who is in the form of knowledge. cit is independent and is the cause of the establishment of the universe. śrīdevī is called cit because she is the life of those who desire life. as citi, she is the conscious form that pervades the whole universe. pure awareness: she is consciousness itself, not merely one who possesses consciousness. she is the changeless light that illumines thought, movement and experience.",
     "esoteric": [
       "Pure Awareness: She is consciousness itself, not merely one who possesses consciousness. She is the changeless light that illumines thought, movement and experience."
     ]
@@ -9510,14 +9512,16 @@ window.LALITHA_NAMES = [
   {
     "number": 474,
     "name": "यशस्विनी",
-    "samasa": [],
+    "samasa": [
+      "not a compound; No vigraha applies."
+    ],
     "wordByWord": [
       "• यशस्विनी — She who possesses fame and glory."
     ],
     "summary": [
       "यशस्विनी means one who possesses fame and glory. Yaśas is glory, renown and splendour. She is endowed with supreme glory."
     ],
-    "searchText": "474 यशस्विनी • यशस्विनी — she who possesses fame and glory. यशस्विनी means one who possesses fame and glory. yaśas is glory, renown and splendour. she is endowed with supreme glory. the glory of being: she possesses yaśas, the splendour of victorious and auspicious existence. her glory shines through all divine accomplishment.",
+    "searchText": "474 यशस्विनी not a compound; no vigraha applies. • यशस्विनी — she who possesses fame and glory. यशस्विनी means one who possesses fame and glory. yaśas is glory, renown and splendour. she is endowed with supreme glory. the glory of being: she possesses yaśas, the splendour of victorious and auspicious existence. her glory shines through all divine accomplishment.",
     "esoteric": [
       "The Glory of Being: She possesses yaśas, the splendour of victorious and auspicious existence. Her glory shines through all divine accomplishment."
     ]
