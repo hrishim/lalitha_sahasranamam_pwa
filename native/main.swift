@@ -24,6 +24,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate, WKNavigationDelegate {
     func applicationDidFinishLaunching(_ notification: Notification) {
         buildMenu()
         webView = WKWebView(frame: .zero, configuration: WKWebViewConfiguration())
+        webView.setValue(false, forKey: "drawsBackground")
         webView.navigationDelegate = self
         webView.allowsMagnification = true
 
@@ -34,6 +35,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate, WKNavigationDelegate {
                           defer: false)
         window.title = appName
         window.contentView = webView
+        window.backgroundColor = NSColor(calibratedRed: 0.827, green: 0.706, blue: 0.478, alpha: 1)
         window.minSize = NSSize(width: 480, height: 480)
         let key = "NSWindow Frame MainWindow"
         if UserDefaults.standard.string(forKey: key) == nil { window.center() }
