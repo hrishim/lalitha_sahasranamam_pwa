@@ -26,7 +26,7 @@ body{font-family:'Noto Serif','Georgia','Times New Roman',serif;color:var(--ink)
 .ix:hover{background:rgba(160,120,50,.18)}.ix .ixn{width:2.8em;color:#8a4a10;font-size:.8em}.ix .sk{flex:1;font-size:1.15em}.ix .ixp{font-size:.8em;color:#6a4a22}
 .ixh{font-size:1.5em!important;margin:.8em 0 .2em!important;border-bottom:2px solid #a98a52;break-after:avoid;letter-spacing:0!important;text-transform:none!important}
 
-.lf-layer{position:absolute;inset:0;perspective:2600px;pointer-events:none;z-index:6}
+.lf-layer{position:absolute;inset:0;perspective:4200px;pointer-events:none;z-index:6}
 .lf-half,.lf-leaf{position:absolute;top:0;bottom:0;width:50%}
 .lf-half{overflow:hidden}.lf-leaf{transform-style:preserve-3d}
 .lf-face{position:absolute;inset:0;overflow:hidden;backface-visibility:hidden;-webkit-backface-visibility:hidden}
@@ -93,7 +93,7 @@ function show(noAnim){
   try{history.replaceState(null,'','#p='+cur)}catch(e){}
   try{localStorage.setItem('pos-'+document.title,cur)}catch(e){}
 }
-var env=null,animating=false,pending=null,TURN_MS=750;
+var env=null,animating=false,pending=null,TURN_MS=1500;
 function norm(p){var s=single?p:p-(p%2);return Math.max(0,Math.min(s,total-1))}
 function mkVP(){
   var d=document.createElement('div');d.className='lf-vp';
@@ -134,12 +134,12 @@ function flip(np){
   e.B.box.style.left=(fwd?L:rightOff)+'px';
   e.D.box.style.left=(fwd?rightOff:L)+'px';
   setSpread(e.A,old);setSpread(e.B,np);setSpread(e.D,np);
-  var rot=fwd?-180:180,ease='cubic-bezier(.45,.05,.25,1)';
+  var rot=fwd?-180:180,ease='cubic-bezier(.4,.02,.2,1)';
   var a1=e.leaf.animate([{transform:'rotateY(0deg)'},{transform:'rotateY('+rot+'deg)'}],{duration:TURN_MS,easing:ease,fill:'forwards'});
-  e.fs.animate([{opacity:0},{opacity:.5}],{duration:TURN_MS/2,easing:'ease-in',fill:'forwards'});
+  e.fs.animate([{opacity:0},{opacity:.55}],{duration:TURN_MS/2,easing:'ease-in',fill:'forwards'});
   e.bs.animate([{opacity:.5},{opacity:0}],{duration:TURN_MS,easing:'ease-out',fill:'forwards'});
   a1.onfinish=function(){
-    cur=np;show(true);
+    flow.style.transition='none';cur=np;show(true);void flow.offsetWidth;flow.style.transition='';
     e.layer.style.display='none';
     [e.leaf,e.fs,e.bs].forEach(function(x){x.getAnimations().forEach(function(a){a.cancel()})});
     animating=false;
