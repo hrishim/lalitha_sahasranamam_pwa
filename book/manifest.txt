@@ -1,4 +1,4 @@
-version 1794833241
+version 1794833733
 about.html
 chapter_01.html
 chapter_02.html
@@ -11,6 +11,7 @@ chapter_08.html
 chapter_09.html
 chapter_10.html
 contents.html
+cover.jpg
 cover.svg
 index.html
 index_of_names.html
