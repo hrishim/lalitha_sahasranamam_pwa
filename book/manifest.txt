@@ -1,4 +1,4 @@
-version 1794835395
+version 1794839330
 about.html
 chapter_01.html
 chapter_02.html
@@ -15,3 +15,10 @@ cover.jpg
 cover.svg
 index.html
 index_of_names.html
+noto-serif-devanagari-normal-devanagari.woff2
+noto-serif-devanagari-normal-latin-ext.woff2
+noto-serif-devanagari-normal-latin.woff2
+noto-serif-italic-latin-ext.woff2
+noto-serif-italic-latin.woff2
+noto-serif-normal-latin-ext.woff2
+noto-serif-normal-latin.woff2
