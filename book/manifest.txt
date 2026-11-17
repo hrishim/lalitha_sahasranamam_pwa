@@ -1,4 +1,4 @@
-version 1794839672
+version 1794888375
 about.html
 chapter_01.html
 chapter_02.html
@@ -13,8 +13,12 @@ chapter_10.html
 contents.html
 cover.jpg
 cover.svg
+icon-180.png
+icon-192.png
+icon-512.png
 index.html
 index_of_names.html
+manifest.webmanifest
 noto-serif-devanagari-normal-devanagari.woff2
 noto-serif-devanagari-normal-latin-ext.woff2
 noto-serif-devanagari-normal-latin.woff2

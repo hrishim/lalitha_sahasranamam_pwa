@@ -122,7 +122,6 @@ final class AppDelegate: NSObject, NSApplicationDelegate, WKNavigationDelegate {
                 try? self.fm.removeItem(at: tmp)
                 return
             }
-            DispatchQueue.main.async { self.reloadIfAtStart() }
         }
     }
 
